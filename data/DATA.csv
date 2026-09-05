@@ -1,0 +1,2877 @@
+Sl. No,name,count,amount (mil),year,quarter,state,quarter_year
+0,Recharge & bill payments,15263,6611459.873,2019,1,andaman-&-nicobar-islands,Q1 2019
+1,Peer-to-peer payments,13119,91808345.87,2019,1,andaman-&-nicobar-islands,Q1 2019
+2,Merchant payments,1759,3266589.847,2019,1,andaman-&-nicobar-islands,Q1 2019
+3,Financial Services,62,116250.4367,2019,1,andaman-&-nicobar-islands,Q1 2019
+4,Others,283,497094.6484,2019,1,andaman-&-nicobar-islands,Q1 2019
+5,Recharge & bill payments,14676,7242448.256,2019,2,andaman-&-nicobar-islands,Q2 2019
+6,Peer-to-peer payments,14481,107525358.7,2019,2,andaman-&-nicobar-islands,Q2 2019
+7,Merchant payments,4031,4702152.617,2019,2,andaman-&-nicobar-islands,Q2 2019
+8,Financial Services,124,113278.9137,2019,2,andaman-&-nicobar-islands,Q2 2019
+9,Others,377,671471.2226,2019,2,andaman-&-nicobar-islands,Q2 2019
+10,Recharge & bill payments,16219,8171737.706,2019,3,andaman-&-nicobar-islands,Q3 2019
+11,Peer-to-peer payments,13767,101079821.1,2019,3,andaman-&-nicobar-islands,Q3 2019
+12,Merchant payments,3519,4428734.575,2019,3,andaman-&-nicobar-islands,Q3 2019
+13,Financial Services,50,158857.9432,2019,3,andaman-&-nicobar-islands,Q3 2019
+14,Others,215,232624.7599,2019,3,andaman-&-nicobar-islands,Q3 2019
+15,Peer-to-peer payments,18128,121493224.3,2019,4,andaman-&-nicobar-islands,Q4 2019
+16,Recharge & bill payments,13851,9538690.916,2019,4,andaman-&-nicobar-islands,Q4 2019
+17,Merchant payments,2920,5247500.488,2019,4,andaman-&-nicobar-islands,Q4 2019
+18,Financial Services,60,295937.2111,2019,4,andaman-&-nicobar-islands,Q4 2019
+19,Others,200,263177.5944,2019,4,andaman-&-nicobar-islands,Q4 2019
+20,Peer-to-peer payments,18324,142332401.8,2020,1,andaman-&-nicobar-islands,Q1 2020
+21,Recharge & bill payments,18268,10850414.02,2020,1,andaman-&-nicobar-islands,Q1 2020
+22,Merchant payments,4424,7752871.558,2020,1,andaman-&-nicobar-islands,Q1 2020
+23,Financial Services,66,208231.7307,2020,1,andaman-&-nicobar-islands,Q1 2020
+24,Others,216,332393.192,2020,1,andaman-&-nicobar-islands,Q1 2020
+25,Recharge & bill payments,38125,17659622.73,2020,2,andaman-&-nicobar-islands,Q2 2020
+26,Peer-to-peer payments,20303,141728757.7,2020,2,andaman-&-nicobar-islands,Q2 2020
+27,Merchant payments,4004,9236375.74,2020,2,andaman-&-nicobar-islands,Q2 2020
+28,Financial Services,175,706932.1397,2020,2,andaman-&-nicobar-islands,Q2 2020
+29,Others,355,313313.0646,2020,2,andaman-&-nicobar-islands,Q2 2020
+30,Recharge & bill payments,59310,24756220.88,2020,3,andaman-&-nicobar-islands,Q3 2020
+31,Peer-to-peer payments,40697,289078946.7,2020,3,andaman-&-nicobar-islands,Q3 2020
+32,Merchant payments,16096,22682992.24,2020,3,andaman-&-nicobar-islands,Q3 2020
+33,Financial Services,572,961836.713,2020,3,andaman-&-nicobar-islands,Q3 2020
+34,Others,808,539449.7722,2020,3,andaman-&-nicobar-islands,Q3 2020
+35,Peer-to-peer payments,81439,533316526.2,2020,4,andaman-&-nicobar-islands,Q4 2020
+36,Recharge & bill payments,80811,33710030.53,2020,4,andaman-&-nicobar-islands,Q4 2020
+37,Merchant payments,59391,56867468.94,2020,4,andaman-&-nicobar-islands,Q4 2020
+38,Financial Services,965,1880546.967,2020,4,andaman-&-nicobar-islands,Q4 2020
+39,Others,1925,1508083.692,2020,4,andaman-&-nicobar-islands,Q4 2020
+40,Peer-to-peer payments,105458,665391395.7,2021,1,andaman-&-nicobar-islands,Q1 2021
+41,Recharge & bill payments,84119,37160922.87,2021,1,andaman-&-nicobar-islands,Q1 2021
+42,Merchant payments,53090,78606979.06,2021,1,andaman-&-nicobar-islands,Q1 2021
+43,Financial Services,884,1469351.085,2021,1,andaman-&-nicobar-islands,Q1 2021
+44,Others,1201,1077918.666,2021,1,andaman-&-nicobar-islands,Q1 2021
+45,Peer-to-peer payments,132772,748382044.8,2021,2,andaman-&-nicobar-islands,Q2 2021
+46,Recharge & bill payments,120911,43691961.26,2021,2,andaman-&-nicobar-islands,Q2 2021
+47,Merchant payments,85143,103707408.5,2021,2,andaman-&-nicobar-islands,Q2 2021
+48,Financial Services,960,2038521.514,2021,2,andaman-&-nicobar-islands,Q2 2021
+49,Others,1628,1327080.056,2021,2,andaman-&-nicobar-islands,Q2 2021
+50,Peer-to-peer payments,192321,1077787837,2021,3,andaman-&-nicobar-islands,Q3 2021
+51,Recharge & bill payments,136010,51243450.86,2021,3,andaman-&-nicobar-islands,Q3 2021
+52,Merchant payments,118340,176991328.2,2021,3,andaman-&-nicobar-islands,Q3 2021
+53,Financial Services,990,2351013.442,2021,3,andaman-&-nicobar-islands,Q3 2021
+54,Others,2103,1650766.127,2021,3,andaman-&-nicobar-islands,Q3 2021
+55,Peer-to-peer payments,285778,1544932663,2021,4,andaman-&-nicobar-islands,Q4 2021
+56,Merchant payments,210164,322842314.6,2021,4,andaman-&-nicobar-islands,Q4 2021
+57,Recharge & bill payments,135608,59243518.11,2021,4,andaman-&-nicobar-islands,Q4 2021
+58,Financial Services,1718,3137965.167,2021,4,andaman-&-nicobar-islands,Q4 2021
+59,Others,2855,2453640.143,2021,4,andaman-&-nicobar-islands,Q4 2021
+60,Peer-to-peer payments,342649,1682328506,2022,1,andaman-&-nicobar-islands,Q1 2022
+61,Merchant payments,284298,370091558.7,2022,1,andaman-&-nicobar-islands,Q1 2022
+62,Recharge & bill payments,163401,71300133.66,2022,1,andaman-&-nicobar-islands,Q1 2022
+63,Financial Services,1757,2869682.023,2022,1,andaman-&-nicobar-islands,Q1 2022
+64,Others,2643,2440321.982,2022,1,andaman-&-nicobar-islands,Q1 2022
+65,Merchant payments,449540,510838980.9,2022,2,andaman-&-nicobar-islands,Q2 2022
+66,Peer-to-peer payments,437606,2088309073,2022,2,andaman-&-nicobar-islands,Q2 2022
+67,Recharge & bill payments,179515,82232936.62,2022,2,andaman-&-nicobar-islands,Q2 2022
+68,Financial Services,1448,2089862.393,2022,2,andaman-&-nicobar-islands,Q2 2022
+69,Others,3108,2449496.708,2022,2,andaman-&-nicobar-islands,Q2 2022
+70,Merchant payments,716105,693438186.3,2022,3,andaman-&-nicobar-islands,Q3 2022
+71,Peer-to-peer payments,622217,2514535155,2022,3,andaman-&-nicobar-islands,Q3 2022
+72,Recharge & bill payments,240766,97748065.63,2022,3,andaman-&-nicobar-islands,Q3 2022
+73,Financial Services,1814,2166304.978,2022,3,andaman-&-nicobar-islands,Q3 2022
+74,Others,3477,2744060.671,2022,3,andaman-&-nicobar-islands,Q3 2022
+75,Merchant payments,956536,906365300.7,2022,4,andaman-&-nicobar-islands,Q4 2022
+76,Peer-to-peer payments,768758,2961630585,2022,4,andaman-&-nicobar-islands,Q4 2022
+77,Recharge & bill payments,256050,110037119.7,2022,4,andaman-&-nicobar-islands,Q4 2022
+78,Financial Services,2499,3533987.23,2022,4,andaman-&-nicobar-islands,Q4 2022
+79,Others,3692,3107412.044,2022,4,andaman-&-nicobar-islands,Q4 2022
+80,Peer-to-peer payments,18645926,51296299081,2019,1,tamil-nadu,Q1 2019
+81,Recharge & bill payments,8863289,2695317015,2019,1,tamil-nadu,Q1 2019
+82,Merchant payments,4195222,1924461189,2019,1,tamil-nadu,Q1 2019
+83,Financial Services,193261,31217137.55,2019,1,tamil-nadu,Q1 2019
+84,Others,377347,256742393.3,2019,1,tamil-nadu,Q1 2019
+85,Peer-to-peer payments,16952961,57924128549,2019,2,tamil-nadu,Q2 2019
+86,Recharge & bill payments,8414514,3280033640,2019,2,tamil-nadu,Q2 2019
+87,Merchant payments,6296995,2690331793,2019,2,tamil-nadu,Q2 2019
+88,Financial Services,70142,18334602.39,2019,2,tamil-nadu,Q2 2019
+89,Others,437125,294847441.9,2019,2,tamil-nadu,Q2 2019
+90,Peer-to-peer payments,21277636,70615331409,2019,3,tamil-nadu,Q3 2019
+91,Merchant payments,10344027,4079315733,2019,3,tamil-nadu,Q3 2019
+92,Recharge & bill payments,9246678,3964144354,2019,3,tamil-nadu,Q3 2019
+93,Financial Services,88261,27213741.83,2019,3,tamil-nadu,Q3 2019
+94,Others,453581,273599406.2,2019,3,tamil-nadu,Q3 2019
+95,Peer-to-peer payments,28814008,91858026341,2019,4,tamil-nadu,Q4 2019
+96,Merchant payments,16153034,6420193205,2019,4,tamil-nadu,Q4 2019
+97,Recharge & bill payments,11157765,4681454398,2019,4,tamil-nadu,Q4 2019
+98,Financial Services,60624,24332240.66,2019,4,tamil-nadu,Q4 2019
+99,Others,410980,206859328.3,2019,4,tamil-nadu,Q4 2019
+100,Peer-to-peer payments,30880360,1.02E+11,2020,1,tamil-nadu,Q1 2020
+101,Merchant payments,21541556,8950736938,2020,1,tamil-nadu,Q1 2020
+102,Recharge & bill payments,14134259,5493239430,2020,1,tamil-nadu,Q1 2020
+103,Financial Services,61427,41422107.81,2020,1,tamil-nadu,Q1 2020
+104,Others,335871,176604658.4,2020,1,tamil-nadu,Q1 2020
+105,Peer-to-peer payments,21700844,82347647064,2020,2,tamil-nadu,Q2 2020
+106,Recharge & bill payments,18474731,6414781159,2020,2,tamil-nadu,Q2 2020
+107,Merchant payments,11477546,6909361872,2020,2,tamil-nadu,Q2 2020
+108,Financial Services,78584,89189349.85,2020,2,tamil-nadu,Q2 2020
+109,Others,138405,65529451.74,2020,2,tamil-nadu,Q2 2020
+110,Peer-to-peer payments,31754077,1.24E+11,2020,3,tamil-nadu,Q3 2020
+111,Merchant payments,20664887,12554589576,2020,3,tamil-nadu,Q3 2020
+112,Recharge & bill payments,17521756,7476952307,2020,3,tamil-nadu,Q3 2020
+113,Financial Services,129671,158512062.5,2020,3,tamil-nadu,Q3 2020
+114,Others,207434,90281020.16,2020,3,tamil-nadu,Q3 2020
+115,Peer-to-peer payments,47800741,1.72E+11,2020,4,tamil-nadu,Q4 2020
+116,Merchant payments,41297305,24417758782,2020,4,tamil-nadu,Q4 2020
+117,Recharge & bill payments,21563946,9462546013,2020,4,tamil-nadu,Q4 2020
+118,Financial Services,153044,186775413.1,2020,4,tamil-nadu,Q4 2020
+119,Others,364665,209735503.5,2020,4,tamil-nadu,Q4 2020
+120,Peer-to-peer payments,57446279,2.06E+11,2021,1,tamil-nadu,Q1 2021
+121,Merchant payments,53811885,30722779535,2021,1,tamil-nadu,Q1 2021
+122,Recharge & bill payments,24826273,11115915389,2021,1,tamil-nadu,Q1 2021
+123,Financial Services,170620,215319360.5,2021,1,tamil-nadu,Q1 2021
+124,Others,301617,208899281.9,2021,1,tamil-nadu,Q1 2021
+125,Peer-to-peer payments,60812902,2.16E+11,2021,2,tamil-nadu,Q2 2021
+126,Merchant payments,52048347,33504798113,2021,2,tamil-nadu,Q2 2021
+127,Recharge & bill payments,32753032,13155346942,2021,2,tamil-nadu,Q2 2021
+128,Financial Services,192614,225113402.7,2021,2,tamil-nadu,Q2 2021
+129,Others,351547,223054882.4,2021,2,tamil-nadu,Q2 2021
+130,Merchant payments,85074941,52932187059,2021,3,tamil-nadu,Q3 2021
+131,Peer-to-peer payments,83833356,2.96E+11,2021,3,tamil-nadu,Q3 2021
+132,Recharge & bill payments,34751691,15613287082,2021,3,tamil-nadu,Q3 2021
+133,Financial Services,182097,246146707.3,2021,3,tamil-nadu,Q3 2021
+134,Others,515319,294622911.6,2021,3,tamil-nadu,Q3 2021
+135,Merchant payments,117578360,70539086832,2021,4,tamil-nadu,Q4 2021
+136,Peer-to-peer payments,104493071,3.54E+11,2021,4,tamil-nadu,Q4 2021
+137,Recharge & bill payments,36163870,18979178478,2021,4,tamil-nadu,Q4 2021
+138,Financial Services,228761,275850497.1,2021,4,tamil-nadu,Q4 2021
+139,Others,691914,400412189.8,2021,4,tamil-nadu,Q4 2021
+140,Merchant payments,139788772,81798208976,2022,1,tamil-nadu,Q1 2022
+141,Peer-to-peer payments,119383791,4.10E+11,2022,1,tamil-nadu,Q1 2022
+142,Recharge & bill payments,34579431,20705079141,2022,1,tamil-nadu,Q1 2022
+143,Financial Services,241201,298216135.4,2022,1,tamil-nadu,Q1 2022
+144,Others,579955,355987089.8,2022,1,tamil-nadu,Q1 2022
+145,Merchant payments,179245529,1.01E+11,2022,2,tamil-nadu,Q2 2022
+146,Peer-to-peer payments,136341691,4.64E+11,2022,2,tamil-nadu,Q2 2022
+147,Recharge & bill payments,38257271,24477663684,2022,2,tamil-nadu,Q2 2022
+148,Financial Services,202498,233054909,2022,2,tamil-nadu,Q2 2022
+149,Others,459948,277767177,2022,2,tamil-nadu,Q2 2022
+150,Merchant payments,202149276,1.10E+11,2022,3,tamil-nadu,Q3 2022
+151,Peer-to-peer payments,148805657,4.94E+11,2022,3,tamil-nadu,Q3 2022
+152,Recharge & bill payments,41919063,27694221703,2022,3,tamil-nadu,Q3 2022
+153,Financial Services,217741,238069828.2,2022,3,tamil-nadu,Q3 2022
+154,Others,404438,265434770.8,2022,3,tamil-nadu,Q3 2022
+155,Merchant payments,229308285,1.19E+11,2022,4,tamil-nadu,Q4 2022
+156,Peer-to-peer payments,162920305,5.27E+11,2022,4,tamil-nadu,Q4 2022
+157,Recharge & bill payments,43391904,29719449171,2022,4,tamil-nadu,Q4 2022
+158,Financial Services,295740,334812023.6,2022,4,tamil-nadu,Q4 2022
+159,Others,400402,275988847.1,2022,4,tamil-nadu,Q4 2022
+160,Peer-to-peer payments,1183,8221402.369,2019,1,lakshadweep,Q1 2019
+161,Recharge & bill payments,1173,353870.524,2019,1,lakshadweep,Q1 2019
+162,Merchant payments,113,183062.1456,2019,1,lakshadweep,Q1 2019
+163,Others,12,27795.44122,2019,1,lakshadweep,Q1 2019
+164,Recharge & bill payments,1448,436735.1685,2019,2,lakshadweep,Q2 2019
+165,Peer-to-peer payments,1318,8602732.118,2019,2,lakshadweep,Q2 2019
+166,Merchant payments,137,190716.5412,2019,2,lakshadweep,Q2 2019
+167,Others,23,12340.30958,2019,2,lakshadweep,Q2 2019
+168,Recharge & bill payments,1528,503049.2412,2019,3,lakshadweep,Q3 2019
+169,Peer-to-peer payments,1455,8923273.863,2019,3,lakshadweep,Q3 2019
+170,Merchant payments,111,215159.6812,2019,3,lakshadweep,Q3 2019
+171,Others,10,10278.67843,2019,3,lakshadweep,Q3 2019
+172,Recharge & bill payments,1801,618155.9005,2019,4,lakshadweep,Q4 2019
+173,Peer-to-peer payments,1753,10383413.25,2019,4,lakshadweep,Q4 2019
+174,Merchant payments,188,211413.6224,2019,4,lakshadweep,Q4 2019
+175,Financial Services,2,34.39721182,2019,4,lakshadweep,Q4 2019
+176,Others,21,56896.23813,2019,4,lakshadweep,Q4 2019
+177,Recharge & bill payments,2684,789255.2646,2020,1,lakshadweep,Q1 2020
+178,Peer-to-peer payments,2068,12463327.26,2020,1,lakshadweep,Q1 2020
+179,Merchant payments,387,216594.0308,2020,1,lakshadweep,Q1 2020
+180,Others,12,33192.01728,2020,1,lakshadweep,Q1 2020
+181,Recharge & bill payments,4497,1061694.139,2020,2,lakshadweep,Q2 2020
+182,Peer-to-peer payments,2176,14718605.19,2020,2,lakshadweep,Q2 2020
+183,Merchant payments,472,971609.4584,2020,2,lakshadweep,Q2 2020
+184,Financial Services,60,158593.597,2020,2,lakshadweep,Q2 2020
+185,Others,15,32419.70309,2020,2,lakshadweep,Q2 2020
+186,Recharge & bill payments,4696,1186947.554,2020,3,lakshadweep,Q3 2020
+187,Peer-to-peer payments,2946,19189391.62,2020,3,lakshadweep,Q3 2020
+188,Merchant payments,903,842981.1695,2020,3,lakshadweep,Q3 2020
+189,Financial Services,27,45457.5097,2020,3,lakshadweep,Q3 2020
+190,Others,17,42055.45695,2020,3,lakshadweep,Q3 2020
+191,Recharge & bill payments,5187,1499298.113,2020,4,lakshadweep,Q4 2020
+192,Peer-to-peer payments,4741,27284123.25,2020,4,lakshadweep,Q4 2020
+193,Merchant payments,1668,1227101.638,2020,4,lakshadweep,Q4 2020
+194,Financial Services,22,13968.754,2020,4,lakshadweep,Q4 2020
+195,Others,32,86826.16676,2020,4,lakshadweep,Q4 2020
+196,Peer-to-peer payments,3942,24823715.02,2021,1,lakshadweep,Q1 2021
+197,Recharge & bill payments,3541,1070209.422,2021,1,lakshadweep,Q1 2021
+198,Merchant payments,1537,1040213.795,2021,1,lakshadweep,Q1 2021
+199,Financial Services,19,15929.09511,2021,1,lakshadweep,Q1 2021
+200,Others,46,92715.58431,2021,1,lakshadweep,Q1 2021
+201,Recharge & bill payments,5499,1745295.828,2021,2,lakshadweep,Q2 2021
+202,Peer-to-peer payments,4069,23996417.49,2021,2,lakshadweep,Q2 2021
+203,Merchant payments,1743,1525331.915,2021,2,lakshadweep,Q2 2021
+204,Financial Services,29,15052.0185,2021,2,lakshadweep,Q2 2021
+205,Others,44,101366.4031,2021,2,lakshadweep,Q2 2021
+206,Peer-to-peer payments,5687,34142107.52,2021,3,lakshadweep,Q3 2021
+207,Recharge & bill payments,5153,1700287.473,2021,3,lakshadweep,Q3 2021
+208,Merchant payments,2450,2750367.063,2021,3,lakshadweep,Q3 2021
+209,Financial Services,48,137227.3539,2021,3,lakshadweep,Q3 2021
+210,Others,32,73174.28817,2021,3,lakshadweep,Q3 2021
+211,Peer-to-peer payments,7154,44696668.86,2021,4,lakshadweep,Q4 2021
+212,Recharge & bill payments,5355,2093901.292,2021,4,lakshadweep,Q4 2021
+213,Merchant payments,2872,4071239.087,2021,4,lakshadweep,Q4 2021
+214,Financial Services,27,19994.54195,2021,4,lakshadweep,Q4 2021
+215,Others,62,116381.746,2021,4,lakshadweep,Q4 2021
+216,Peer-to-peer payments,7913,48590864.57,2022,1,lakshadweep,Q1 2022
+217,Recharge & bill payments,5334,2322580.17,2022,1,lakshadweep,Q1 2022
+218,Merchant payments,3048,3838358.359,2022,1,lakshadweep,Q1 2022
+219,Financial Services,39,38274.22629,2022,1,lakshadweep,Q1 2022
+220,Others,63,149355.3311,2022,1,lakshadweep,Q1 2022
+221,Peer-to-peer payments,8491,48451728.05,2022,2,lakshadweep,Q2 2022
+222,Recharge & bill payments,5366,2386144.715,2022,2,lakshadweep,Q2 2022
+223,Merchant payments,3602,4895657.06,2022,2,lakshadweep,Q2 2022
+224,Financial Services,59,87127.82495,2022,2,lakshadweep,Q2 2022
+225,Others,51,108944.3427,2022,2,lakshadweep,Q2 2022
+226,Peer-to-peer payments,7533,40029003.83,2022,3,lakshadweep,Q3 2022
+227,Recharge & bill payments,4441,1936538.307,2022,3,lakshadweep,Q3 2022
+228,Merchant payments,3142,5469200.646,2022,3,lakshadweep,Q3 2022
+229,Financial Services,64,63629.88417,2022,3,lakshadweep,Q3 2022
+230,Others,61,81636.95473,2022,3,lakshadweep,Q3 2022
+231,Peer-to-peer payments,8686,47450386,2022,4,lakshadweep,Q4 2022
+232,Recharge & bill payments,4557,2024739.154,2022,4,lakshadweep,Q4 2022
+233,Merchant payments,3819,5250991.002,2022,4,lakshadweep,Q4 2022
+234,Financial Services,35,26453.02478,2022,4,lakshadweep,Q4 2022
+235,Others,50,61304.43025,2022,4,lakshadweep,Q4 2022
+236,Peer-to-peer payments,40488967,87361237975,2019,1,telangana,Q1 2019
+237,Merchant payments,12341901,4144368546,2019,1,telangana,Q1 2019
+238,Recharge & bill payments,11525394,3619117615,2019,1,telangana,Q1 2019
+239,Financial Services,463688,54547989.28,2019,1,telangana,Q1 2019
+240,Others,470752,343989909.9,2019,1,telangana,Q1 2019
+241,Peer-to-peer payments,46741594,1.41E+11,2019,2,telangana,Q2 2019
+242,Merchant payments,25682382,8442740781,2019,2,telangana,Q2 2019
+243,Recharge & bill payments,16225017,5603477829,2019,2,telangana,Q2 2019
+244,Financial Services,252173,43627344.86,2019,2,telangana,Q2 2019
+245,Others,709213,490894328.4,2019,2,telangana,Q2 2019
+246,Peer-to-peer payments,59981113,1.80E+11,2019,3,telangana,Q3 2019
+247,Merchant payments,44035953,14308557741,2019,3,telangana,Q3 2019
+248,Recharge & bill payments,16437222,6793699069,2019,3,telangana,Q3 2019
+249,Financial Services,183163,39617186.74,2019,3,telangana,Q3 2019
+250,Others,857925,445278745.4,2019,3,telangana,Q3 2019
+251,Peer-to-peer payments,82587060,2.49E+11,2019,4,telangana,Q4 2019
+252,Merchant payments,59347809,21510626607,2019,4,telangana,Q4 2019
+253,Recharge & bill payments,20797056,9561315125,2019,4,telangana,Q4 2019
+254,Financial Services,137291,33453857.4,2019,4,telangana,Q4 2019
+255,Others,703042,294688962.7,2019,4,telangana,Q4 2019
+256,Peer-to-peer payments,95668911,3.28E+11,2020,1,telangana,Q1 2020
+257,Merchant payments,76818285,31076431478,2020,1,telangana,Q1 2020
+258,Recharge & bill payments,26324268,12324266105,2020,1,telangana,Q1 2020
+259,Financial Services,88184,59500639.39,2020,1,telangana,Q1 2020
+260,Others,509877,241784101.5,2020,1,telangana,Q1 2020
+261,Peer-to-peer payments,76683293,2.79E+11,2020,2,telangana,Q2 2020
+262,Merchant payments,44181999,26712043205,2020,2,telangana,Q2 2020
+263,Recharge & bill payments,30885875,15106945864,2020,2,telangana,Q2 2020
+264,Financial Services,116776,134169906.7,2020,2,telangana,Q2 2020
+265,Others,187200,100126467.2,2020,2,telangana,Q2 2020
+266,Peer-to-peer payments,116668399,4.37E+11,2020,3,telangana,Q3 2020
+267,Merchant payments,86836471,49743225885,2020,3,telangana,Q3 2020
+268,Recharge & bill payments,32352860,18378477088,2020,3,telangana,Q3 2020
+269,Financial Services,195857,223377023.5,2020,3,telangana,Q3 2020
+270,Others,318539,156875854.6,2020,3,telangana,Q3 2020
+271,Peer-to-peer payments,160607487,5.92E+11,2020,4,telangana,Q4 2020
+272,Merchant payments,143897953,81725950703,2020,4,telangana,Q4 2020
+273,Recharge & bill payments,38174710,22006183349,2020,4,telangana,Q4 2020
+274,Financial Services,230134,275357720,2020,4,telangana,Q4 2020
+275,Others,733503,366346176.4,2020,4,telangana,Q4 2020
+276,Merchant payments,185230619,95927278281,2021,1,telangana,Q1 2021
+277,Peer-to-peer payments,179738195,6.76E+11,2021,1,telangana,Q1 2021
+278,Recharge & bill payments,46371555,26447601339,2021,1,telangana,Q1 2021
+279,Financial Services,262473,320153410.2,2021,1,telangana,Q1 2021
+280,Others,969268,387877900.5,2021,1,telangana,Q1 2021
+281,Peer-to-peer payments,230861833,8.72E+11,2021,2,telangana,Q2 2021
+282,Merchant payments,205232899,1.23E+11,2021,2,telangana,Q2 2021
+283,Recharge & bill payments,58637866,31877277168,2021,2,telangana,Q2 2021
+284,Financial Services,278546,300569264.1,2021,2,telangana,Q2 2021
+285,Others,856400,420723415.9,2021,2,telangana,Q2 2021
+286,Merchant payments,286735350,1.59E+11,2021,3,telangana,Q3 2021
+287,Peer-to-peer payments,271436926,9.82E+11,2021,3,telangana,Q3 2021
+288,Recharge & bill payments,62744121,36434881136,2021,3,telangana,Q3 2021
+289,Financial Services,235519,329138539.5,2021,3,telangana,Q3 2021
+290,Others,1734852,543116826.3,2021,3,telangana,Q3 2021
+291,Merchant payments,376584215,2.13E+11,2021,4,telangana,Q4 2021
+292,Peer-to-peer payments,331774591,1.20E+12,2021,4,telangana,Q4 2021
+293,Recharge & bill payments,66477036,44760398983,2021,4,telangana,Q4 2021
+294,Financial Services,298871,392141743.7,2021,4,telangana,Q4 2021
+295,Others,855060,639658842.9,2021,4,telangana,Q4 2021
+296,Merchant payments,449186799,2.44E+11,2022,1,telangana,Q1 2022
+297,Peer-to-peer payments,368048408,1.38E+12,2022,1,telangana,Q1 2022
+298,Recharge & bill payments,66352138,50470450180,2022,1,telangana,Q1 2022
+299,Financial Services,284035,394283511.9,2022,1,telangana,Q1 2022
+300,Others,2582005,642005688.8,2022,1,telangana,Q1 2022
+301,Merchant payments,565370506,3.07E+11,2022,2,telangana,Q2 2022
+302,Peer-to-peer payments,422056582,1.58E+12,2022,2,telangana,Q2 2022
+303,Recharge & bill payments,75099130,63136761649,2022,2,telangana,Q2 2022
+304,Financial Services,245023,324857780.6,2022,2,telangana,Q2 2022
+305,Others,611316,470432687.4,2022,2,telangana,Q2 2022
+306,Merchant payments,880414292,4.47E+11,2022,3,telangana,Q3 2022
+307,Peer-to-peer payments,626830752,2.17E+12,2022,3,telangana,Q3 2022
+308,Recharge & bill payments,119779835,87937210666,2022,3,telangana,Q3 2022
+309,Financial Services,340458,442783619.1,2022,3,telangana,Q3 2022
+310,Others,800064,621900924.4,2022,3,telangana,Q3 2022
+311,Merchant payments,1002521735,4.92E+11,2022,4,telangana,Q4 2022
+312,Peer-to-peer payments,694612831,2.39E+12,2022,4,telangana,Q4 2022
+313,Recharge & bill payments,121188131,92136759501,2022,4,telangana,Q4 2022
+314,Financial Services,401838,498719426,2022,4,telangana,Q4 2022
+315,Others,782297,680680558.3,2022,4,telangana,Q4 2022
+316,Peer-to-peer payments,127067,619919870.7,2019,1,manipur,Q1 2019
+317,Recharge & bill payments,120000,22106830.37,2019,1,manipur,Q1 2019
+318,Merchant payments,15190,14580183.38,2019,1,manipur,Q1 2019
+319,Financial Services,800,174777.1728,2019,1,manipur,Q1 2019
+320,Others,2352,3116398.756,2019,1,manipur,Q1 2019
+321,Peer-to-peer payments,120153,679785849.1,2019,2,manipur,Q2 2019
+322,Recharge & bill payments,116500,23573234.27,2019,2,manipur,Q2 2019
+323,Merchant payments,18044,15996651.15,2019,2,manipur,Q2 2019
+324,Financial Services,387,91955.01538,2019,2,manipur,Q2 2019
+325,Others,2341,3342252.575,2019,2,manipur,Q2 2019
+326,Recharge & bill payments,180057,36634657.05,2019,3,manipur,Q3 2019
+327,Peer-to-peer payments,144965,803335616.6,2019,3,manipur,Q3 2019
+328,Merchant payments,17683,20490224.44,2019,3,manipur,Q3 2019
+329,Financial Services,358,367865.7885,2019,3,manipur,Q3 2019
+330,Others,1945,2723638.65,2019,3,manipur,Q3 2019
+331,Recharge & bill payments,212136,44202546.57,2019,4,manipur,Q4 2019
+332,Peer-to-peer payments,211927,1123258478,2019,4,manipur,Q4 2019
+333,Merchant payments,23094,30486780.45,2019,4,manipur,Q4 2019
+334,Financial Services,548,240641.7658,2019,4,manipur,Q4 2019
+335,Others,1639,2709234.857,2019,4,manipur,Q4 2019
+336,Peer-to-peer payments,451733,2458093402,2020,1,manipur,Q1 2020
+337,Recharge & bill payments,285234,62688260.38,2020,1,manipur,Q1 2020
+338,Merchant payments,78067,74202067.07,2020,1,manipur,Q1 2020
+339,Financial Services,622,354184.4661,2020,1,manipur,Q1 2020
+340,Others,3145,3252467.224,2020,1,manipur,Q1 2020
+341,Peer-to-peer payments,533206,2980242535,2020,2,manipur,Q2 2020
+342,Recharge & bill payments,450830,107589094.3,2020,2,manipur,Q2 2020
+343,Merchant payments,92110,106540409.3,2020,2,manipur,Q2 2020
+344,Financial Services,1676,1457570.8,2020,2,manipur,Q2 2020
+345,Others,5246,3106603.332,2020,2,manipur,Q2 2020
+346,Peer-to-peer payments,774786,4301284799,2020,3,manipur,Q3 2020
+347,Recharge & bill payments,464659,113190539.1,2020,3,manipur,Q3 2020
+348,Merchant payments,170653,195132026.6,2020,3,manipur,Q3 2020
+349,Financial Services,1878,1593035.944,2020,3,manipur,Q3 2020
+350,Others,8192,4775719.814,2020,3,manipur,Q3 2020
+351,Peer-to-peer payments,892853,5172499338,2020,4,manipur,Q4 2020
+352,Recharge & bill payments,436450,114202616.3,2020,4,manipur,Q4 2020
+353,Merchant payments,289050,307902115.4,2020,4,manipur,Q4 2020
+354,Financial Services,1806,2448402.914,2020,4,manipur,Q4 2020
+355,Others,7693,5172086.283,2020,4,manipur,Q4 2020
+356,Peer-to-peer payments,1117829,6402367884,2021,1,manipur,Q1 2021
+357,Recharge & bill payments,796590,223955812.6,2021,1,manipur,Q1 2021
+358,Merchant payments,377280,433297594.1,2021,1,manipur,Q1 2021
+359,Financial Services,3398,4385333.175,2021,1,manipur,Q1 2021
+360,Others,8438,6280890.915,2021,1,manipur,Q1 2021
+361,Peer-to-peer payments,1372821,7041837918,2021,2,manipur,Q2 2021
+362,Recharge & bill payments,1187952,305103750.6,2021,2,manipur,Q2 2021
+363,Merchant payments,510734,531484849.5,2021,2,manipur,Q2 2021
+364,Financial Services,4165,4256098.232,2021,2,manipur,Q2 2021
+365,Others,10603,7145346.315,2021,2,manipur,Q2 2021
+366,Peer-to-peer payments,1819423,9134806595,2021,3,manipur,Q3 2021
+367,Recharge & bill payments,1368584,367664440.5,2021,3,manipur,Q3 2021
+368,Merchant payments,735707,889317377.1,2021,3,manipur,Q3 2021
+369,Financial Services,3460,5625517.975,2021,3,manipur,Q3 2021
+370,Others,14222,9447098.782,2021,3,manipur,Q3 2021
+371,Peer-to-peer payments,2199970,10998828288,2021,4,manipur,Q4 2021
+372,Recharge & bill payments,1451488,412791673.8,2021,4,manipur,Q4 2021
+373,Merchant payments,1013985,1229517397,2021,4,manipur,Q4 2021
+374,Financial Services,4671,5941100.581,2021,4,manipur,Q4 2021
+375,Others,17325,11393578.84,2021,4,manipur,Q4 2021
+376,Peer-to-peer payments,2517626,12169368063,2022,1,manipur,Q1 2022
+377,Recharge & bill payments,1528476,469035958.3,2022,1,manipur,Q1 2022
+378,Merchant payments,1247205,1489604137,2022,1,manipur,Q1 2022
+379,Financial Services,4878,6057615.527,2022,1,manipur,Q1 2022
+380,Others,15494,10435303.88,2022,1,manipur,Q1 2022
+381,Peer-to-peer payments,2843426,12704512239,2022,2,manipur,Q2 2022
+382,Merchant payments,1709547,1757831052,2022,2,manipur,Q2 2022
+383,Recharge & bill payments,1533778,448637966.7,2022,2,manipur,Q2 2022
+384,Financial Services,4069,4753628.558,2022,2,manipur,Q2 2022
+385,Others,14812,7175748.992,2022,2,manipur,Q2 2022
+386,Peer-to-peer payments,3127266,12927705072,2022,3,manipur,Q3 2022
+387,Merchant payments,1829741,2010460357,2022,3,manipur,Q3 2022
+388,Recharge & bill payments,1379911,432182393.8,2022,3,manipur,Q3 2022
+389,Financial Services,4524,4671353.405,2022,3,manipur,Q3 2022
+390,Others,11300,6411090.828,2022,3,manipur,Q3 2022
+391,Peer-to-peer payments,3259645,13133729481,2022,4,manipur,Q4 2022
+392,Merchant payments,1828984,2074698993,2022,4,manipur,Q4 2022
+393,Recharge & bill payments,1325391,406031254.1,2022,4,manipur,Q4 2022
+394,Financial Services,4691,5754919.964,2022,4,manipur,Q4 2022
+395,Others,9959,5742049.404,2022,4,manipur,Q4 2022
+396,Peer-to-peer payments,12622225,30283578837,2019,1,haryana,Q1 2019
+397,Recharge & bill payments,5576577,2202061875,2019,1,haryana,Q1 2019
+398,Merchant payments,3361995,1292375556,2019,1,haryana,Q1 2019
+399,Financial Services,101786,15201736,2019,1,haryana,Q1 2019
+400,Others,473192,258437718.2,2019,1,haryana,Q1 2019
+401,Peer-to-peer payments,10387562,37056084814,2019,2,haryana,Q2 2019
+402,Recharge & bill payments,5902923,2838724048,2019,2,haryana,Q2 2019
+403,Merchant payments,5738283,2292901816,2019,2,haryana,Q2 2019
+404,Financial Services,57488,12080285.23,2019,2,haryana,Q2 2019
+405,Others,655560,301748850.2,2019,2,haryana,Q2 2019
+406,Peer-to-peer payments,11775288,43738290120,2019,3,haryana,Q3 2019
+407,Merchant payments,9386779,3615636828,2019,3,haryana,Q3 2019
+408,Recharge & bill payments,8289987,4817098565,2019,3,haryana,Q3 2019
+409,Financial Services,61503,16715100.88,2019,3,haryana,Q3 2019
+410,Others,829974,301378586,2019,3,haryana,Q3 2019
+411,Peer-to-peer payments,15729819,58242027266,2019,4,haryana,Q4 2019
+412,Merchant payments,11615667,5253780278,2019,4,haryana,Q4 2019
+413,Recharge & bill payments,9648003,5637358526,2019,4,haryana,Q4 2019
+414,Financial Services,41688,13756049.14,2019,4,haryana,Q4 2019
+415,Others,790808,212797749.8,2019,4,haryana,Q4 2019
+416,Peer-to-peer payments,17728235,68367245528,2020,1,haryana,Q1 2020
+417,Merchant payments,14327020,7075196609,2020,1,haryana,Q1 2020
+418,Recharge & bill payments,11346112,6331682017,2020,1,haryana,Q1 2020
+419,Financial Services,34488,25266730.19,2020,1,haryana,Q1 2020
+420,Others,600232,176823674.2,2020,1,haryana,Q1 2020
+421,Peer-to-peer payments,17334369,66645492691,2020,2,haryana,Q2 2020
+422,Recharge & bill payments,12740328,6547618492,2020,2,haryana,Q2 2020
+423,Merchant payments,11527654,7393393678,2020,2,haryana,Q2 2020
+424,Financial Services,48759,49209527.29,2020,2,haryana,Q2 2020
+425,Others,129940,75550536.68,2020,2,haryana,Q2 2020
+426,Peer-to-peer payments,24123449,88796356487,2020,3,haryana,Q3 2020
+427,Merchant payments,20845136,12141560867,2020,3,haryana,Q3 2020
+428,Recharge & bill payments,12716319,8452802893,2020,3,haryana,Q3 2020
+429,Financial Services,66457,80854296.93,2020,3,haryana,Q3 2020
+430,Others,186818,96375902.2,2020,3,haryana,Q3 2020
+431,Merchant payments,34063692,21382305452,2020,4,haryana,Q4 2020
+432,Peer-to-peer payments,33920789,1.29E+11,2020,4,haryana,Q4 2020
+433,Recharge & bill payments,14682896,9675471301,2020,4,haryana,Q4 2020
+434,Financial Services,84881,103265693.8,2020,4,haryana,Q4 2020
+435,Others,419181,223528573.1,2020,4,haryana,Q4 2020
+436,Merchant payments,39363588,23389100227,2021,1,haryana,Q1 2021
+437,Peer-to-peer payments,36764622,1.36E+11,2021,1,haryana,Q1 2021
+438,Recharge & bill payments,13680353,9260346909,2021,1,haryana,Q1 2021
+439,Financial Services,79784,99672809.99,2021,1,haryana,Q1 2021
+440,Others,364437,218544351.2,2021,1,haryana,Q1 2021
+441,Merchant payments,45335533,29119078264,2021,2,haryana,Q2 2021
+442,Peer-to-peer payments,44086559,1.61E+11,2021,2,haryana,Q2 2021
+443,Recharge & bill payments,15861047,9839496895,2021,2,haryana,Q2 2021
+444,Financial Services,85821,97238136.1,2021,2,haryana,Q2 2021
+445,Others,311896,227855607,2021,2,haryana,Q2 2021
+446,Merchant payments,66885213,40190922827,2021,3,haryana,Q3 2021
+447,Peer-to-peer payments,55929958,1.89E+11,2021,3,haryana,Q3 2021
+448,Recharge & bill payments,17087955,11681457469,2021,3,haryana,Q3 2021
+449,Financial Services,77496,116592181.5,2021,3,haryana,Q3 2021
+450,Others,479071,289441481.6,2021,3,haryana,Q3 2021
+451,Merchant payments,84993587,56325102921,2021,4,haryana,Q4 2021
+452,Peer-to-peer payments,66548306,2.39E+11,2021,4,haryana,Q4 2021
+453,Recharge & bill payments,17632752,13817258646,2021,4,haryana,Q4 2021
+454,Financial Services,105050,151421306.6,2021,4,haryana,Q4 2021
+455,Others,407280,307822609.2,2021,4,haryana,Q4 2021
+456,Merchant payments,98346418,62565728158,2022,1,haryana,Q1 2022
+457,Peer-to-peer payments,74499889,2.64E+11,2022,1,haryana,Q1 2022
+458,Recharge & bill payments,18494827,14765350796,2022,1,haryana,Q1 2022
+459,Financial Services,107240,146586164.6,2022,1,haryana,Q1 2022
+460,Others,540235,279136534.2,2022,1,haryana,Q1 2022
+461,Merchant payments,130033573,76926347116,2022,2,haryana,Q2 2022
+462,Peer-to-peer payments,84219451,3.01E+11,2022,2,haryana,Q2 2022
+463,Recharge & bill payments,20011709,17457331653,2022,2,haryana,Q2 2022
+464,Financial Services,89805,120610061.5,2022,2,haryana,Q2 2022
+465,Others,345424,224949213.5,2022,2,haryana,Q2 2022
+466,Merchant payments,151278013,87063736520,2022,3,haryana,Q3 2022
+467,Peer-to-peer payments,95071203,3.19E+11,2022,3,haryana,Q3 2022
+468,Recharge & bill payments,22592966,21247984019,2022,3,haryana,Q3 2022
+469,Financial Services,111032,144937203.3,2022,3,haryana,Q3 2022
+470,Others,308596,223267730.3,2022,3,haryana,Q3 2022
+471,Merchant payments,169685872,1.03E+11,2022,4,haryana,Q4 2022
+472,Peer-to-peer payments,102993798,3.65E+11,2022,4,haryana,Q4 2022
+473,Recharge & bill payments,23545059,22666085170,2022,4,haryana,Q4 2022
+474,Financial Services,118488,152488075,2022,4,haryana,Q4 2022
+475,Others,305148,239722615.9,2022,4,haryana,Q4 2022
+476,Peer-to-peer payments,13465044,31231285551,2019,1,gujarat,Q1 2019
+477,Recharge & bill payments,8595256,3104251733,2019,1,gujarat,Q1 2019
+478,Merchant payments,2493340,1296376125,2019,1,gujarat,Q1 2019
+479,Financial Services,114539,19581520.57,2019,1,gujarat,Q1 2019
+480,Others,323272,204585378.8,2019,1,gujarat,Q1 2019
+481,Peer-to-peer payments,12547493,41853661230,2019,2,gujarat,Q2 2019
+482,Recharge & bill payments,10434449,4651874823,2019,2,gujarat,Q2 2019
+483,Merchant payments,5486791,2526448415,2019,2,gujarat,Q2 2019
+484,Financial Services,70502,17349813.39,2019,2,gujarat,Q2 2019
+485,Others,442607,271280936.6,2019,2,gujarat,Q2 2019
+486,Peer-to-peer payments,14529353,49206585462,2019,3,gujarat,Q3 2019
+487,Merchant payments,11788077,4211116461,2019,3,gujarat,Q3 2019
+488,Recharge & bill payments,11349625,5768100024,2019,3,gujarat,Q3 2019
+489,Financial Services,78609,20507001.23,2019,3,gujarat,Q3 2019
+490,Others,482985,256386015.2,2019,3,gujarat,Q3 2019
+491,Peer-to-peer payments,19107911,64477452639,2019,4,gujarat,Q4 2019
+492,Recharge & bill payments,12967713,6517891167,2019,4,gujarat,Q4 2019
+493,Merchant payments,9964076,5480269120,2019,4,gujarat,Q4 2019
+494,Financial Services,63498,20202767.26,2019,4,gujarat,Q4 2019
+495,Others,444434,194846362.4,2019,4,gujarat,Q4 2019
+496,Peer-to-peer payments,19068093,72393727235,2020,1,gujarat,Q1 2020
+497,Recharge & bill payments,15648472,7197595157,2020,1,gujarat,Q1 2020
+498,Merchant payments,12191478,7210758662,2020,1,gujarat,Q1 2020
+499,Financial Services,50753,27460255.46,2020,1,gujarat,Q1 2020
+500,Others,367621,165535312.4,2020,1,gujarat,Q1 2020
+501,Recharge & bill payments,19971660,8322688557,2020,2,gujarat,Q2 2020
+502,Peer-to-peer payments,17569398,64723140394,2020,2,gujarat,Q2 2020
+503,Merchant payments,9645967,7196610932,2020,2,gujarat,Q2 2020
+504,Financial Services,59617,53132341.31,2020,2,gujarat,Q2 2020
+505,Others,173543,92274135.41,2020,2,gujarat,Q2 2020
+506,Peer-to-peer payments,23130724,89142122337,2020,3,gujarat,Q3 2020
+507,Merchant payments,18338969,12749796642,2020,3,gujarat,Q3 2020
+508,Recharge & bill payments,17481357,9820654244,2020,3,gujarat,Q3 2020
+509,Financial Services,92278,84723188.62,2020,3,gujarat,Q3 2020
+510,Others,246851,124456073.2,2020,3,gujarat,Q3 2020
+511,Peer-to-peer payments,29967258,1.17E+11,2020,4,gujarat,Q4 2020
+512,Merchant payments,28430460,20844321157,2020,4,gujarat,Q4 2020
+513,Recharge & bill payments,18943669,10441981826,2020,4,gujarat,Q4 2020
+514,Financial Services,113371,120056733.9,2020,4,gujarat,Q4 2020
+515,Others,373789,243470065.5,2020,4,gujarat,Q4 2020
+516,Peer-to-peer payments,36427493,1.45E+11,2021,1,gujarat,Q1 2021
+517,Merchant payments,35815382,26512643894,2021,1,gujarat,Q1 2021
+518,Recharge & bill payments,22088838,11996115292,2021,1,gujarat,Q1 2021
+519,Financial Services,126380,137612317.7,2021,1,gujarat,Q1 2021
+520,Others,316472,235440836.3,2021,1,gujarat,Q1 2021
+521,Merchant payments,42593432,33542305034,2021,2,gujarat,Q2 2021
+522,Peer-to-peer payments,41642387,1.62E+11,2021,2,gujarat,Q2 2021
+523,Recharge & bill payments,27127405,13750783182,2021,2,gujarat,Q2 2021
+524,Financial Services,128647,136119996.7,2021,2,gujarat,Q2 2021
+525,Others,349525,249278437.3,2021,2,gujarat,Q2 2021
+526,Merchant payments,62934471,48197579737,2021,3,gujarat,Q3 2021
+527,Peer-to-peer payments,56134212,2.08E+11,2021,3,gujarat,Q3 2021
+528,Recharge & bill payments,29580901,15945997372,2021,3,gujarat,Q3 2021
+529,Financial Services,125167,163304131.1,2021,3,gujarat,Q3 2021
+530,Others,473656,304418273.2,2021,3,gujarat,Q3 2021
+531,Merchant payments,84846502,68717933162,2021,4,gujarat,Q4 2021
+532,Peer-to-peer payments,67301686,2.54E+11,2021,4,gujarat,Q4 2021
+533,Recharge & bill payments,30072479,18739034342,2021,4,gujarat,Q4 2021
+534,Financial Services,175393,209214620.7,2021,4,gujarat,Q4 2021
+535,Others,591265,377657202.8,2021,4,gujarat,Q4 2021
+536,Merchant payments,101648378,79563412222,2022,1,gujarat,Q1 2022
+537,Peer-to-peer payments,77768758,2.92E+11,2022,1,gujarat,Q1 2022
+538,Recharge & bill payments,30473298,20042066375,2022,1,gujarat,Q1 2022
+539,Financial Services,160423,187077879.4,2022,1,gujarat,Q1 2022
+540,Others,496289,316261089.4,2022,1,gujarat,Q1 2022
+541,Merchant payments,131610193,95585623258,2022,2,gujarat,Q2 2022
+542,Peer-to-peer payments,86423696,3.27E+11,2022,2,gujarat,Q2 2022
+543,Recharge & bill payments,33424931,23844933238,2022,2,gujarat,Q2 2022
+544,Financial Services,125180,142685436.4,2022,2,gujarat,Q2 2022
+545,Others,468796,278978567.2,2022,2,gujarat,Q2 2022
+546,Merchant payments,161264265,1.09E+11,2022,3,gujarat,Q3 2022
+547,Peer-to-peer payments,103034790,3.59E+11,2022,3,gujarat,Q3 2022
+548,Recharge & bill payments,38383683,28649040041,2022,3,gujarat,Q3 2022
+549,Financial Services,152053,162173602.8,2022,3,gujarat,Q3 2022
+550,Others,404941,269479241.1,2022,3,gujarat,Q3 2022
+551,Merchant payments,186533503,1.26E+11,2022,4,gujarat,Q4 2022
+552,Peer-to-peer payments,114868478,4.11E+11,2022,4,gujarat,Q4 2022
+553,Recharge & bill payments,39167297,30789927499,2022,4,gujarat,Q4 2022
+554,Financial Services,179101,194314203,2022,4,gujarat,Q4 2022
+555,Others,407639,295484431.3,2022,4,gujarat,Q4 2022
+556,Peer-to-peer payments,121984,422987999.9,2019,1,sikkim,Q1 2019
+557,Recharge & bill payments,96878,20711589.87,2019,1,sikkim,Q1 2019
+558,Merchant payments,18346,11837344.85,2019,1,sikkim,Q1 2019
+559,Financial Services,1225,191594.2334,2019,1,sikkim,Q1 2019
+560,Others,1854,2265105.535,2019,1,sikkim,Q1 2019
+561,Peer-to-peer payments,172125,674044301.8,2019,2,sikkim,Q2 2019
+562,Recharge & bill payments,142582,32535297.49,2019,2,sikkim,Q2 2019
+563,Merchant payments,66722,28248001.03,2019,2,sikkim,Q2 2019
+564,Financial Services,2294,310197.5477,2019,2,sikkim,Q2 2019
+565,Others,4521,3756445.532,2019,2,sikkim,Q2 2019
+566,Peer-to-peer payments,203052,794235862.6,2019,3,sikkim,Q3 2019
+567,Merchant payments,188753,52337322.53,2019,3,sikkim,Q3 2019
+568,Recharge & bill payments,156125,33922224.89,2019,3,sikkim,Q3 2019
+569,Financial Services,288,548142.9,2019,3,sikkim,Q3 2019
+570,Others,4218,3672895.49,2019,3,sikkim,Q3 2019
+571,Peer-to-peer payments,508471,1086457148,2019,4,sikkim,Q4 2019
+572,Recharge & bill payments,181287,42705664.09,2019,4,sikkim,Q4 2019
+573,Merchant payments,73992,43954548.8,2019,4,sikkim,Q4 2019
+574,Financial Services,373,494076.3451,2019,4,sikkim,Q4 2019
+575,Others,2947,2898164.48,2019,4,sikkim,Q4 2019
+576,Peer-to-peer payments,230413,954765350.2,2020,1,sikkim,Q1 2020
+577,Recharge & bill payments,215586,53588505.84,2020,1,sikkim,Q1 2020
+578,Merchant payments,79881,43201695.39,2020,1,sikkim,Q1 2020
+579,Financial Services,345,175569.5393,2020,1,sikkim,Q1 2020
+580,Others,1893,1745150.991,2020,1,sikkim,Q1 2020
+581,Recharge & bill payments,297620,78397187.11,2020,2,sikkim,Q2 2020
+582,Peer-to-peer payments,186495,939900165.9,2020,2,sikkim,Q2 2020
+583,Merchant payments,31442,34385184.66,2020,2,sikkim,Q2 2020
+584,Financial Services,883,999656.0722,2020,2,sikkim,Q2 2020
+585,Others,1291,936594.4803,2020,2,sikkim,Q2 2020
+586,Recharge & bill payments,298885,83894642.67,2020,3,sikkim,Q3 2020
+587,Peer-to-peer payments,245087,1255521153,2020,3,sikkim,Q3 2020
+588,Merchant payments,49299,58337178.67,2020,3,sikkim,Q3 2020
+589,Financial Services,1252,1795366.733,2020,3,sikkim,Q3 2020
+590,Others,1912,1378387.617,2020,3,sikkim,Q3 2020
+591,Peer-to-peer payments,334069,1711730127,2020,4,sikkim,Q4 2020
+592,Recharge & bill payments,301382,90168624.05,2020,4,sikkim,Q4 2020
+593,Merchant payments,95503,112478003.9,2020,4,sikkim,Q4 2020
+594,Financial Services,1427,2361187.592,2020,4,sikkim,Q4 2020
+595,Others,2654,2537863.028,2020,4,sikkim,Q4 2020
+596,Peer-to-peer payments,403703,1965492630,2021,1,sikkim,Q1 2021
+597,Recharge & bill payments,279679,93174110.11,2021,1,sikkim,Q1 2021
+598,Merchant payments,112925,154183320.1,2021,1,sikkim,Q1 2021
+599,Financial Services,1844,3027799.278,2021,1,sikkim,Q1 2021
+600,Others,2038,1789867.734,2021,1,sikkim,Q1 2021
+601,Peer-to-peer payments,473141,2125758497,2021,2,sikkim,Q2 2021
+602,Recharge & bill payments,345495,103846501.5,2021,2,sikkim,Q2 2021
+603,Merchant payments,153671,190473176.2,2021,2,sikkim,Q2 2021
+604,Financial Services,1865,2851874.287,2021,2,sikkim,Q2 2021
+605,Others,2542,1969531.029,2021,2,sikkim,Q2 2021
+606,Peer-to-peer payments,595826,2582075089,2021,3,sikkim,Q3 2021
+607,Recharge & bill payments,346173,111613776.8,2021,3,sikkim,Q3 2021
+608,Merchant payments,213808,290732930.5,2021,3,sikkim,Q3 2021
+609,Financial Services,1689,2624558.386,2021,3,sikkim,Q3 2021
+610,Others,3098,2290508.817,2021,3,sikkim,Q3 2021
+611,Peer-to-peer payments,831597,3548508410,2021,4,sikkim,Q4 2021
+612,Recharge & bill payments,376078,136473754.4,2021,4,sikkim,Q4 2021
+613,Merchant payments,369343,504586163.6,2021,4,sikkim,Q4 2021
+614,Financial Services,2269,3162023.721,2021,4,sikkim,Q4 2021
+615,Others,5058,4052910.301,2021,4,sikkim,Q4 2021
+616,Peer-to-peer payments,916940,3650961081,2022,1,sikkim,Q1 2022
+617,Merchant payments,449273,570784579.7,2022,1,sikkim,Q1 2022
+618,Recharge & bill payments,371579,139135962.1,2022,1,sikkim,Q1 2022
+619,Financial Services,2124,3062332.164,2022,1,sikkim,Q1 2022
+620,Others,4386,3487320.926,2022,1,sikkim,Q1 2022
+621,Peer-to-peer payments,1198014,4596501308,2022,2,sikkim,Q2 2022
+622,Merchant payments,706658,847497607.1,2022,2,sikkim,Q2 2022
+623,Recharge & bill payments,411189,162174479.7,2022,2,sikkim,Q2 2022
+624,Financial Services,1758,1861284.797,2022,2,sikkim,Q2 2022
+625,Others,4462,3070990.528,2022,2,sikkim,Q2 2022
+626,Peer-to-peer payments,1222037,4173703594,2022,3,sikkim,Q3 2022
+627,Merchant payments,772650,830361401,2022,3,sikkim,Q3 2022
+628,Recharge & bill payments,397207,153567926.3,2022,3,sikkim,Q3 2022
+629,Financial Services,1538,2851319.548,2022,3,sikkim,Q3 2022
+630,Others,3326,2396303.405,2022,3,sikkim,Q3 2022
+631,Peer-to-peer payments,1548662,5175155339,2022,4,sikkim,Q4 2022
+632,Merchant payments,1033541,1096220774,2022,4,sikkim,Q4 2022
+633,Recharge & bill payments,470639,181281682.3,2022,4,sikkim,Q4 2022
+634,Financial Services,2049,2701971.789,2022,4,sikkim,Q4 2022
+635,Others,3448,3025622.232,2022,4,sikkim,Q4 2022
+636,Peer-to-peer payments,20216287,48250023721,2019,1,delhi,Q1 2019
+637,Merchant payments,13875931,3996618720,2019,1,delhi,Q1 2019
+638,Recharge & bill payments,10744978,5521320539,2019,1,delhi,Q1 2019
+639,Financial Services,223095,30997039.7,2019,1,delhi,Q1 2019
+640,Others,1947036,670171769.7,2019,1,delhi,Q1 2019
+641,Merchant payments,20891431,6816878923,2019,2,delhi,Q2 2019
+642,Peer-to-peer payments,20570311,65953571241,2019,2,delhi,Q2 2019
+643,Recharge & bill payments,12869453,8035701902,2019,2,delhi,Q2 2019
+644,Financial Services,137774,33985068.68,2019,2,delhi,Q2 2019
+645,Others,2702543,866678928.4,2019,2,delhi,Q2 2019
+646,Merchant payments,29453368,9857221392,2019,3,delhi,Q3 2019
+647,Peer-to-peer payments,25201978,81904443496,2019,3,delhi,Q3 2019
+648,Recharge & bill payments,11133404,10406524193,2019,3,delhi,Q3 2019
+649,Financial Services,92061,27952186.99,2019,3,delhi,Q3 2019
+650,Others,3657065,1000670778,2019,3,delhi,Q3 2019
+651,Peer-to-peer payments,33040093,1.06E+11,2019,4,delhi,Q4 2019
+652,Merchant payments,32537378,12864577363,2019,4,delhi,Q4 2019
+653,Recharge & bill payments,11609898,9500486081,2019,4,delhi,Q4 2019
+654,Financial Services,57063,21512527.97,2019,4,delhi,Q4 2019
+655,Others,3500565,779367300.5,2019,4,delhi,Q4 2019
+656,Merchant payments,33951545,14470782771,2020,1,delhi,Q1 2020
+657,Peer-to-peer payments,32410795,1.09E+11,2020,1,delhi,Q1 2020
+658,Recharge & bill payments,12822919,9498791148,2020,1,delhi,Q1 2020
+659,Financial Services,46529,39908838.25,2020,1,delhi,Q1 2020
+660,Others,2515816,619460879,2020,1,delhi,Q1 2020
+661,Peer-to-peer payments,27155938,86227124454,2020,2,delhi,Q2 2020
+662,Merchant payments,24963931,12708327044,2020,2,delhi,Q2 2020
+663,Recharge & bill payments,13568505,8699886044,2020,2,delhi,Q2 2020
+664,Financial Services,64790,75405868.16,2020,2,delhi,Q2 2020
+665,Others,288854,162694793.2,2020,2,delhi,Q2 2020
+666,Peer-to-peer payments,41498638,1.40E+11,2020,3,delhi,Q3 2020
+667,Merchant payments,40973792,21858176583,2020,3,delhi,Q3 2020
+668,Recharge & bill payments,13448341,12883226305,2020,3,delhi,Q3 2020
+669,Financial Services,85689,114341865.3,2020,3,delhi,Q3 2020
+670,Others,485401,234194502.8,2020,3,delhi,Q3 2020
+671,Merchant payments,54581166,31106554563,2020,4,delhi,Q4 2020
+672,Peer-to-peer payments,49631928,1.72E+11,2020,4,delhi,Q4 2020
+673,Recharge & bill payments,14862946,12921793577,2020,4,delhi,Q4 2020
+674,Financial Services,114862,160007919.8,2020,4,delhi,Q4 2020
+675,Others,1349515,530676173.3,2020,4,delhi,Q4 2020
+676,Merchant payments,72615587,39861532639,2021,1,delhi,Q1 2021
+677,Peer-to-peer payments,61957428,2.11E+11,2021,1,delhi,Q1 2021
+678,Recharge & bill payments,21164274,15447408659,2021,1,delhi,Q1 2021
+679,Financial Services,153039,203106852.4,2021,1,delhi,Q1 2021
+680,Others,1468676,592745151.9,2021,1,delhi,Q1 2021
+681,Merchant payments,75620295,42933366743,2021,2,delhi,Q2 2021
+682,Peer-to-peer payments,68497718,2.23E+11,2021,2,delhi,Q2 2021
+683,Recharge & bill payments,25026678,15310096463,2021,2,delhi,Q2 2021
+684,Financial Services,158170,190019761.5,2021,2,delhi,Q2 2021
+685,Others,854403,472659189.3,2021,2,delhi,Q2 2021
+686,Merchant payments,115250887,64006915631,2021,3,delhi,Q3 2021
+687,Peer-to-peer payments,93292876,2.98E+11,2021,3,delhi,Q3 2021
+688,Recharge & bill payments,28427032,20934734872,2021,3,delhi,Q3 2021
+689,Financial Services,144460,220660990.2,2021,3,delhi,Q3 2021
+690,Others,1645353,690472449.1,2021,3,delhi,Q3 2021
+691,Merchant payments,149204611,88990516304,2021,4,delhi,Q4 2021
+692,Peer-to-peer payments,112380292,3.77E+11,2021,4,delhi,Q4 2021
+693,Recharge & bill payments,30127352,22290161823,2021,4,delhi,Q4 2021
+694,Financial Services,199280,287950130.2,2021,4,delhi,Q4 2021
+695,Others,771824,569713470.7,2021,4,delhi,Q4 2021
+696,Merchant payments,174454937,98212381476,2022,1,delhi,Q1 2022
+697,Peer-to-peer payments,125111881,4.15E+11,2022,1,delhi,Q1 2022
+698,Recharge & bill payments,29435981,22482865573,2022,1,delhi,Q1 2022
+699,Financial Services,195184,271039329.1,2022,1,delhi,Q1 2022
+700,Others,1801878,693588769.4,2022,1,delhi,Q1 2022
+701,Merchant payments,233412802,1.22E+11,2022,2,delhi,Q2 2022
+702,Peer-to-peer payments,143447534,4.81E+11,2022,2,delhi,Q2 2022
+703,Recharge & bill payments,32971294,26876059610,2022,2,delhi,Q2 2022
+704,Financial Services,160827,209425798.8,2022,2,delhi,Q2 2022
+705,Others,641727,426563425.7,2022,2,delhi,Q2 2022
+706,Merchant payments,276635347,1.34E+11,2022,3,delhi,Q3 2022
+707,Peer-to-peer payments,160580425,5.09E+11,2022,3,delhi,Q3 2022
+708,Recharge & bill payments,37572389,33177115465,2022,3,delhi,Q3 2022
+709,Financial Services,195218,265479580.4,2022,3,delhi,Q3 2022
+710,Others,608782,448676465.8,2022,3,delhi,Q3 2022
+711,Merchant payments,305621913,1.53E+11,2022,4,delhi,Q4 2022
+712,Peer-to-peer payments,171970100,5.59E+11,2022,4,delhi,Q4 2022
+713,Recharge & bill payments,36775874,31954251758,2022,4,delhi,Q4 2022
+714,Financial Services,228639,299454652.8,2022,4,delhi,Q4 2022
+715,Others,606931,477098950.6,2022,4,delhi,Q4 2022
+716,Peer-to-peer payments,27374206,44170923882,2019,1,west-bengal,Q1 2019
+717,Recharge & bill payments,11659948,3021107712,2019,1,west-bengal,Q1 2019
+718,Merchant payments,7636726,2645438308,2019,1,west-bengal,Q1 2019
+719,Financial Services,525650,47986448.47,2019,1,west-bengal,Q1 2019
+720,Others,429858,279216273.4,2019,1,west-bengal,Q1 2019
+721,Peer-to-peer payments,20285958,48394974398,2019,2,west-bengal,Q2 2019
+722,Merchant payments,13646142,4657258459,2019,2,west-bengal,Q2 2019
+723,Recharge & bill payments,12129638,3676123279,2019,2,west-bengal,Q2 2019
+724,Financial Services,421037,45646046.99,2019,2,west-bengal,Q2 2019
+725,Others,540760,331688935.2,2019,2,west-bengal,Q2 2019
+726,Merchant payments,30804036,8273187167,2019,3,west-bengal,Q3 2019
+727,Peer-to-peer payments,21522913,57058405341,2019,3,west-bengal,Q3 2019
+728,Recharge & bill payments,13011501,4832486822,2019,3,west-bengal,Q3 2019
+729,Financial Services,558653,57054414.84,2019,3,west-bengal,Q3 2019
+730,Others,547726,319398871.5,2019,3,west-bengal,Q3 2019
+731,Peer-to-peer payments,67037576,76593333398,2019,4,west-bengal,Q4 2019
+732,Recharge & bill payments,14511711,4859794690,2019,4,west-bengal,Q4 2019
+733,Merchant payments,14187744,6477138701,2019,4,west-bengal,Q4 2019
+734,Financial Services,653648,77047243.73,2019,4,west-bengal,Q4 2019
+735,Others,415159,196296222.3,2019,4,west-bengal,Q4 2019
+736,Peer-to-peer payments,28457404,82770282624,2020,1,west-bengal,Q1 2020
+737,Merchant payments,19779392,8097859089,2020,1,west-bengal,Q1 2020
+738,Recharge & bill payments,17448908,5550815440,2020,1,west-bengal,Q1 2020
+739,Financial Services,210068,58280893.55,2020,1,west-bengal,Q1 2020
+740,Others,354609,176067145.3,2020,1,west-bengal,Q1 2020
+741,Peer-to-peer payments,24855687,84984004331,2020,2,west-bengal,Q2 2020
+742,Recharge & bill payments,22220012,7496845562,2020,2,west-bengal,Q2 2020
+743,Merchant payments,10225729,7404190138,2020,2,west-bengal,Q2 2020
+744,Financial Services,130595,89987205.23,2020,2,west-bengal,Q2 2020
+745,Others,244774,124404641.8,2020,2,west-bengal,Q2 2020
+746,Peer-to-peer payments,37556349,1.33E+11,2020,3,west-bengal,Q3 2020
+747,Recharge & bill payments,22284079,8768630923,2020,3,west-bengal,Q3 2020
+748,Merchant payments,19599024,14614394375,2020,3,west-bengal,Q3 2020
+749,Financial Services,151996,125973420.9,2020,3,west-bengal,Q3 2020
+750,Others,363056,183680984.1,2020,3,west-bengal,Q3 2020
+751,Peer-to-peer payments,46437233,1.66E+11,2020,4,west-bengal,Q4 2020
+752,Merchant payments,30077510,22241302941,2020,4,west-bengal,Q4 2020
+753,Recharge & bill payments,23158305,10074605883,2020,4,west-bengal,Q4 2020
+754,Financial Services,178455,164241191.7,2020,4,west-bengal,Q4 2020
+755,Others,489142,293466753.6,2020,4,west-bengal,Q4 2020
+756,Peer-to-peer payments,53869075,2.02E+11,2021,1,west-bengal,Q1 2021
+757,Merchant payments,37143701,28918343691,2021,1,west-bengal,Q1 2021
+758,Recharge & bill payments,26673733,11339665945,2021,1,west-bengal,Q1 2021
+759,Financial Services,166727,175445811.9,2021,1,west-bengal,Q1 2021
+760,Others,400816,263502545.1,2021,1,west-bengal,Q1 2021
+761,Peer-to-peer payments,64661051,2.31E+11,2021,2,west-bengal,Q2 2021
+762,Merchant payments,41696787,34787867208,2021,2,west-bengal,Q2 2021
+763,Recharge & bill payments,34799709,13331453858,2021,2,west-bengal,Q2 2021
+764,Financial Services,190537,186466487.6,2021,2,west-bengal,Q2 2021
+765,Others,549353,316744715.7,2021,2,west-bengal,Q2 2021
+766,Peer-to-peer payments,84353949,2.95E+11,2021,3,west-bengal,Q3 2021
+767,Merchant payments,58800005,50971169851,2021,3,west-bengal,Q3 2021
+768,Recharge & bill payments,37556310,16045754099,2021,3,west-bengal,Q3 2021
+769,Financial Services,189087,213411736.4,2021,3,west-bengal,Q3 2021
+770,Others,813637,426999219.4,2021,3,west-bengal,Q3 2021
+771,Peer-to-peer payments,105728377,3.72E+11,2021,4,west-bengal,Q4 2021
+772,Merchant payments,80248673,71231577539,2021,4,west-bengal,Q4 2021
+773,Recharge & bill payments,37801439,17813903245,2021,4,west-bengal,Q4 2021
+774,Financial Services,252535,270791056.7,2021,4,west-bengal,Q4 2021
+775,Others,998536,660874216.5,2021,4,west-bengal,Q4 2021
+776,Peer-to-peer payments,124787028,4.46E+11,2022,1,west-bengal,Q1 2022
+777,Merchant payments,97315025,85854730616,2022,1,west-bengal,Q1 2022
+778,Recharge & bill payments,37317865,18435424278,2022,1,west-bengal,Q1 2022
+779,Financial Services,239530,261096608.8,2022,1,west-bengal,Q1 2022
+780,Others,845644,531671268.6,2022,1,west-bengal,Q1 2022
+781,Peer-to-peer payments,145395450,5.20E+11,2022,2,west-bengal,Q2 2022
+782,Merchant payments,126682135,1.07E+11,2022,2,west-bengal,Q2 2022
+783,Recharge & bill payments,42712193,20697301165,2022,2,west-bengal,Q2 2022
+784,Financial Services,191724,199770753.2,2022,2,west-bengal,Q2 2022
+785,Others,760639,438407071.9,2022,2,west-bengal,Q2 2022
+786,Peer-to-peer payments,163523844,5.56E+11,2022,3,west-bengal,Q3 2022
+787,Merchant payments,145181044,1.24E+11,2022,3,west-bengal,Q3 2022
+788,Recharge & bill payments,47208496,24221425247,2022,3,west-bengal,Q3 2022
+789,Financial Services,238746,241288774.2,2022,3,west-bengal,Q3 2022
+790,Others,640258,451918188.2,2022,3,west-bengal,Q3 2022
+791,Peer-to-peer payments,184380244,6.20E+11,2022,4,west-bengal,Q4 2022
+792,Merchant payments,171667404,1.41E+11,2022,4,west-bengal,Q4 2022
+793,Recharge & bill payments,48921147,26026633153,2022,4,west-bengal,Q4 2022
+794,Financial Services,268388,261122865.5,2022,4,west-bengal,Q4 2022
+795,Others,610414,457937874.8,2022,4,west-bengal,Q4 2022
+796,Peer-to-peer payments,32062452,68506766330,2019,1,uttar-pradesh,Q1 2019
+797,Recharge & bill payments,15400713,4231102033,2019,1,uttar-pradesh,Q1 2019
+798,Merchant payments,8558766,3105904146,2019,1,uttar-pradesh,Q1 2019
+799,Financial Services,389733,43341558.49,2019,1,uttar-pradesh,Q1 2019
+800,Others,912840,637066065.9,2019,1,uttar-pradesh,Q1 2019
+801,Peer-to-peer payments,27105049,87581482659,2019,2,uttar-pradesh,Q2 2019
+802,Recharge & bill payments,17551537,5627886176,2019,2,uttar-pradesh,Q2 2019
+803,Merchant payments,12733089,4894223107,2019,2,uttar-pradesh,Q2 2019
+804,Financial Services,264091,38169259.95,2019,2,uttar-pradesh,Q2 2019
+805,Others,1229734,775758168.4,2019,2,uttar-pradesh,Q2 2019
+806,Peer-to-peer payments,26990786,95134023864,2019,3,uttar-pradesh,Q3 2019
+807,Recharge & bill payments,20359672,8000160943,2019,3,uttar-pradesh,Q3 2019
+808,Merchant payments,19625935,7399443975,2019,3,uttar-pradesh,Q3 2019
+809,Financial Services,258548,51363215.15,2019,3,uttar-pradesh,Q3 2019
+810,Others,1389018,683145478.1,2019,3,uttar-pradesh,Q3 2019
+811,Peer-to-peer payments,40540310,1.27E+11,2019,4,uttar-pradesh,Q4 2019
+812,Recharge & bill payments,24299776,9082140370,2019,4,uttar-pradesh,Q4 2019
+813,Merchant payments,20582052,9412924985,2019,4,uttar-pradesh,Q4 2019
+814,Financial Services,242936,45686806.83,2019,4,uttar-pradesh,Q4 2019
+815,Others,1239931,433285937.6,2019,4,uttar-pradesh,Q4 2019
+816,Peer-to-peer payments,39581157,1.48E+11,2020,1,uttar-pradesh,Q1 2020
+817,Recharge & bill payments,29777603,11168417431,2020,1,uttar-pradesh,Q1 2020
+818,Merchant payments,26741638,13072371617,2020,1,uttar-pradesh,Q1 2020
+819,Financial Services,139990,64365117.41,2020,1,uttar-pradesh,Q1 2020
+820,Others,998744,376573949.2,2020,1,uttar-pradesh,Q1 2020
+821,Recharge & bill payments,42229417,14668026056,2020,2,uttar-pradesh,Q2 2020
+822,Peer-to-peer payments,39434202,1.50E+11,2020,2,uttar-pradesh,Q2 2020
+823,Merchant payments,18625913,13655151083,2020,2,uttar-pradesh,Q2 2020
+824,Financial Services,150360,131930242.9,2020,2,uttar-pradesh,Q2 2020
+825,Others,412073,209384339.6,2020,2,uttar-pradesh,Q2 2020
+826,Peer-to-peer payments,54449911,2.08E+11,2020,3,uttar-pradesh,Q3 2020
+827,Recharge & bill payments,37465163,16437365641,2020,3,uttar-pradesh,Q3 2020
+828,Merchant payments,34697942,24224433241,2020,3,uttar-pradesh,Q3 2020
+829,Financial Services,206210,194129227.5,2020,3,uttar-pradesh,Q3 2020
+830,Others,586033,303114557.1,2020,3,uttar-pradesh,Q3 2020
+831,Peer-to-peer payments,75433782,2.94E+11,2020,4,uttar-pradesh,Q4 2020
+832,Merchant payments,61922138,44438824681,2020,4,uttar-pradesh,Q4 2020
+833,Recharge & bill payments,39570153,17793973969,2020,4,uttar-pradesh,Q4 2020
+834,Financial Services,246868,255803306.1,2020,4,uttar-pradesh,Q4 2020
+835,Others,994576,539071475.9,2020,4,uttar-pradesh,Q4 2020
+836,Peer-to-peer payments,85539321,3.22E+11,2021,1,uttar-pradesh,Q1 2021
+837,Merchant payments,78873969,55362244381,2021,1,uttar-pradesh,Q1 2021
+838,Recharge & bill payments,38981894,18563189222,2021,1,uttar-pradesh,Q1 2021
+839,Financial Services,250656,266104783.7,2021,1,uttar-pradesh,Q1 2021
+840,Others,853707,486435811.4,2021,1,uttar-pradesh,Q1 2021
+841,Peer-to-peer payments,102927942,3.89E+11,2021,2,uttar-pradesh,Q2 2021
+842,Merchant payments,84860582,70351401160,2021,2,uttar-pradesh,Q2 2021
+843,Recharge & bill payments,53030710,22266927129,2021,2,uttar-pradesh,Q2 2021
+844,Financial Services,270944,266853066.8,2021,2,uttar-pradesh,Q2 2021
+845,Others,858953,525487682.6,2021,2,uttar-pradesh,Q2 2021
+846,Peer-to-peer payments,127945827,4.41E+11,2021,3,uttar-pradesh,Q3 2021
+847,Merchant payments,126699830,91089049637,2021,3,uttar-pradesh,Q3 2021
+848,Recharge & bill payments,50414232,24348150110,2021,3,uttar-pradesh,Q3 2021
+849,Financial Services,253418,292009129,2021,3,uttar-pradesh,Q3 2021
+850,Others,1230077,624716522.1,2021,3,uttar-pradesh,Q3 2021
+851,Merchant payments,183966052,1.43E+11,2021,4,uttar-pradesh,Q4 2021
+852,Peer-to-peer payments,167503176,6.01E+11,2021,4,uttar-pradesh,Q4 2021
+853,Recharge & bill payments,52863531,28812549098,2021,4,uttar-pradesh,Q4 2021
+854,Financial Services,353219,386356976.5,2021,4,uttar-pradesh,Q4 2021
+855,Others,1471954,829152405.3,2021,4,uttar-pradesh,Q4 2021
+856,Merchant payments,221556930,1.66E+11,2022,1,uttar-pradesh,Q1 2022
+857,Peer-to-peer payments,195592648,6.85E+11,2022,1,uttar-pradesh,Q1 2022
+858,Recharge & bill payments,54873261,31683813998,2022,1,uttar-pradesh,Q1 2022
+859,Financial Services,358499,386218170.6,2022,1,uttar-pradesh,Q1 2022
+860,Others,1571908,750327356.1,2022,1,uttar-pradesh,Q1 2022
+861,Merchant payments,298721048,2.16E+11,2022,2,uttar-pradesh,Q2 2022
+862,Peer-to-peer payments,232444860,8.13E+11,2022,2,uttar-pradesh,Q2 2022
+863,Recharge & bill payments,62659780,37867966759,2022,2,uttar-pradesh,Q2 2022
+864,Financial Services,268349,285646084.3,2022,2,uttar-pradesh,Q2 2022
+865,Others,1204739,606123265.1,2022,2,uttar-pradesh,Q2 2022
+866,Merchant payments,361972506,2.32E+11,2022,3,uttar-pradesh,Q3 2022
+867,Peer-to-peer payments,267205027,8.45E+11,2022,3,uttar-pradesh,Q3 2022
+868,Recharge & bill payments,72984811,43854148173,2022,3,uttar-pradesh,Q3 2022
+869,Financial Services,367887,344330142.1,2022,3,uttar-pradesh,Q3 2022
+870,Others,1058841,601411350.4,2022,3,uttar-pradesh,Q3 2022
+871,Merchant payments,439247166,2.97E+11,2022,4,uttar-pradesh,Q4 2022
+872,Peer-to-peer payments,317613698,1.03E+12,2022,4,uttar-pradesh,Q4 2022
+873,Recharge & bill payments,78025017,48159073835,2022,4,uttar-pradesh,Q4 2022
+874,Financial Services,418329,430212917.3,2022,4,uttar-pradesh,Q4 2022
+875,Others,1064861,661985014.8,2022,4,uttar-pradesh,Q4 2022
+876,Peer-to-peer payments,378848,1310759848,2019,1,goa,Q1 2019
+877,Recharge & bill payments,275277,78212835.04,2019,1,goa,Q1 2019
+878,Merchant payments,74527,75946974.41,2019,1,goa,Q1 2019
+879,Financial Services,2013,499592.0967,2019,1,goa,Q1 2019
+880,Others,8147,9904147.91,2019,1,goa,Q1 2019
+881,Peer-to-peer payments,373759,1391933791,2019,2,goa,Q2 2019
+882,Recharge & bill payments,278060,93218689.42,2019,2,goa,Q2 2019
+883,Merchant payments,104592,92873008.65,2019,2,goa,Q2 2019
+884,Financial Services,1211,515859.8077,2019,2,goa,Q2 2019
+885,Others,10819,13325754.76,2019,2,goa,Q2 2019
+886,Peer-to-peer payments,475178,1704668027,2019,3,goa,Q3 2019
+887,Recharge & bill payments,453806,157952855,2019,3,goa,Q3 2019
+888,Merchant payments,150578,123948570.6,2019,3,goa,Q3 2019
+889,Financial Services,1510,1282344.844,2019,3,goa,Q3 2019
+890,Others,11344,12515394.12,2019,3,goa,Q3 2019
+891,Peer-to-peer payments,698728,2484453030,2019,4,goa,Q4 2019
+892,Recharge & bill payments,552421,205602115.1,2019,4,goa,Q4 2019
+893,Merchant payments,250893,218404664.9,2019,4,goa,Q4 2019
+894,Financial Services,1497,649712.8451,2019,4,goa,Q4 2019
+895,Others,11733,14350825.33,2019,4,goa,Q4 2019
+896,Peer-to-peer payments,817198,2851686769,2020,1,goa,Q1 2020
+897,Recharge & bill payments,678079,244739382.2,2020,1,goa,Q1 2020
+898,Merchant payments,373110,298421548.1,2020,1,goa,Q1 2020
+899,Financial Services,1762,1816477.569,2020,1,goa,Q1 2020
+900,Others,11088,13707055.39,2020,1,goa,Q1 2020
+901,Recharge & bill payments,758617,241196540.9,2020,2,goa,Q2 2020
+902,Peer-to-peer payments,493326,1766723888,2020,2,goa,Q2 2020
+903,Merchant payments,221358,168591711.9,2020,2,goa,Q2 2020
+904,Financial Services,3081,3328361.318,2020,2,goa,Q2 2020
+905,Others,5710,3775927.611,2020,2,goa,Q2 2020
+906,Peer-to-peer payments,759351,2723430713,2020,3,goa,Q3 2020
+907,Recharge & bill payments,696770,280187505,2020,3,goa,Q3 2020
+908,Merchant payments,446880,353193881.5,2020,3,goa,Q3 2020
+909,Financial Services,4985,6418950.467,2020,3,goa,Q3 2020
+910,Others,7545,5112530.621,2020,3,goa,Q3 2020
+911,Peer-to-peer payments,1550251,5407626413,2020,4,goa,Q4 2020
+912,Merchant payments,1389834,1123844213,2020,4,goa,Q4 2020
+913,Recharge & bill payments,839199,345088772.4,2020,4,goa,Q4 2020
+914,Financial Services,7287,10386560.39,2020,4,goa,Q4 2020
+915,Others,14810,12846789.25,2020,4,goa,Q4 2020
+916,Peer-to-peer payments,2235456,7553384653,2021,1,goa,Q1 2021
+917,Merchant payments,2195509,1768358977,2021,1,goa,Q1 2021
+918,Recharge & bill payments,880682,410604192.7,2021,1,goa,Q1 2021
+919,Financial Services,8138,12207778.15,2021,1,goa,Q1 2021
+920,Others,11764,12687278.26,2021,1,goa,Q1 2021
+921,Merchant payments,1869384,1411529034,2021,2,goa,Q2 2021
+922,Peer-to-peer payments,1866837,6195032351,2021,2,goa,Q2 2021
+923,Recharge & bill payments,953219,383804809.4,2021,2,goa,Q2 2021
+924,Financial Services,8303,12371843.84,2021,2,goa,Q2 2021
+925,Others,12392,10115549.03,2021,2,goa,Q2 2021
+926,Merchant payments,2865625,2143135315,2021,3,goa,Q3 2021
+927,Peer-to-peer payments,2560305,7871092673,2021,3,goa,Q3 2021
+928,Recharge & bill payments,1017351,438838003.2,2021,3,goa,Q3 2021
+929,Financial Services,8337,12943224.07,2021,3,goa,Q3 2021
+930,Others,16145,12416377.6,2021,3,goa,Q3 2021
+931,Merchant payments,5474662,4384250603,2021,4,goa,Q4 2021
+932,Peer-to-peer payments,4408822,13618351953,2021,4,goa,Q4 2021
+933,Recharge & bill payments,1170180,585734312.4,2021,4,goa,Q4 2021
+934,Financial Services,11320,17101084.66,2021,4,goa,Q4 2021
+935,Others,23775,21819163.2,2021,4,goa,Q4 2021
+936,Merchant payments,6364271,4682000388,2022,1,goa,Q1 2022
+937,Peer-to-peer payments,4640380,14449830642,2022,1,goa,Q1 2022
+938,Recharge & bill payments,1177071,646403472.1,2022,1,goa,Q1 2022
+939,Financial Services,11677,17490493.19,2022,1,goa,Q1 2022
+940,Others,20699,20720407.6,2022,1,goa,Q1 2022
+941,Merchant payments,7812998,5736211014,2022,2,goa,Q2 2022
+942,Peer-to-peer payments,5097942,16372343177,2022,2,goa,Q2 2022
+943,Recharge & bill payments,1279377,738765635.3,2022,2,goa,Q2 2022
+944,Financial Services,10666,13192736.03,2022,2,goa,Q2 2022
+945,Others,15071,12525197.3,2022,2,goa,Q2 2022
+946,Merchant payments,7595135,5112175255,2022,3,goa,Q3 2022
+947,Peer-to-peer payments,4449008,13780955270,2022,3,goa,Q3 2022
+948,Recharge & bill payments,1122869,657115143.5,2022,3,goa,Q3 2022
+949,Financial Services,9992,12650738.42,2022,3,goa,Q3 2022
+950,Others,11683,11368868.04,2022,3,goa,Q3 2022
+951,Merchant payments,10319138,6739205748,2022,4,goa,Q4 2022
+952,Peer-to-peer payments,5652373,17421974715,2022,4,goa,Q4 2022
+953,Recharge & bill payments,1195865,734121700.6,2022,4,goa,Q4 2022
+954,Financial Services,12147,15705663.13,2022,4,goa,Q4 2022
+955,Others,13151,13978544.18,2022,4,goa,Q4 2022
+956,Peer-to-peer payments,4026294,12027441596,2019,1,punjab,Q1 2019
+957,Recharge & bill payments,2304690,986004867.8,2019,1,punjab,Q1 2019
+958,Merchant payments,711152,478382600.6,2019,1,punjab,Q1 2019
+959,Financial Services,45621,6871295.955,2019,1,punjab,Q1 2019
+960,Others,84380,75789641.76,2019,1,punjab,Q1 2019
+961,Peer-to-peer payments,4140474,16258891447,2019,2,punjab,Q2 2019
+962,Recharge & bill payments,2815047,1440058991,2019,2,punjab,Q2 2019
+963,Merchant payments,1407963,815090878,2019,2,punjab,Q2 2019
+964,Financial Services,37435,6876144.455,2019,2,punjab,Q2 2019
+965,Others,108911,93875933.52,2019,2,punjab,Q2 2019
+966,Peer-to-peer payments,4726946,19146726287,2019,3,punjab,Q3 2019
+967,Recharge & bill payments,3455594,2481094965,2019,3,punjab,Q3 2019
+968,Merchant payments,2374014,1183743251,2019,3,punjab,Q3 2019
+969,Financial Services,32359,7912219.734,2019,3,punjab,Q3 2019
+970,Others,117899,86338883.28,2019,3,punjab,Q3 2019
+971,Peer-to-peer payments,6386367,25564144630,2019,4,punjab,Q4 2019
+972,Recharge & bill payments,4068332,2622222199,2019,4,punjab,Q4 2019
+973,Merchant payments,3122413,1741259163,2019,4,punjab,Q4 2019
+974,Financial Services,22956,6382345.43,2019,4,punjab,Q4 2019
+975,Others,98557,55793908.46,2019,4,punjab,Q4 2019
+976,Peer-to-peer payments,6339183,26350005915,2020,1,punjab,Q1 2020
+977,Recharge & bill payments,4935115,2767419473,2020,1,punjab,Q1 2020
+978,Merchant payments,3838480,2196329615,2020,1,punjab,Q1 2020
+979,Financial Services,17924,10987850.96,2020,1,punjab,Q1 2020
+980,Others,87082,49442411.67,2020,1,punjab,Q1 2020
+981,Recharge & bill payments,6064807,3089758241,2020,2,punjab,Q2 2020
+982,Peer-to-peer payments,5639212,25074384847,2020,2,punjab,Q2 2020
+983,Merchant payments,2290868,2058898904,2020,2,punjab,Q2 2020
+984,Financial Services,23314,23704957.88,2020,2,punjab,Q2 2020
+985,Others,63093,37907301.35,2020,2,punjab,Q2 2020
+986,Peer-to-peer payments,7354451,32477438924,2020,3,punjab,Q3 2020
+987,Recharge & bill payments,5478668,4066750821,2020,3,punjab,Q3 2020
+988,Merchant payments,4261548,3490665357,2020,3,punjab,Q3 2020
+989,Financial Services,32390,42060249.33,2020,3,punjab,Q3 2020
+990,Others,82516,46176796.08,2020,3,punjab,Q3 2020
+991,Peer-to-peer payments,9609405,43286909257,2020,4,punjab,Q4 2020
+992,Merchant payments,7144295,6142380827,2020,4,punjab,Q4 2020
+993,Recharge & bill payments,6072201,4201551870,2020,4,punjab,Q4 2020
+994,Financial Services,38820,51677182.32,2020,4,punjab,Q4 2020
+995,Others,133204,92887343.34,2020,4,punjab,Q4 2020
+996,Peer-to-peer payments,10951083,46908632143,2021,1,punjab,Q1 2021
+997,Merchant payments,9333364,7651004599,2021,1,punjab,Q1 2021
+998,Recharge & bill payments,6332928,3980874403,2021,1,punjab,Q1 2021
+999,Financial Services,43094,52009482.41,2021,1,punjab,Q1 2021
+1000,Others,110366,98366463.19,2021,1,punjab,Q1 2021
+1001,Peer-to-peer payments,13180933,55282486111,2021,2,punjab,Q2 2021
+1002,Merchant payments,11225598,9710508482,2021,2,punjab,Q2 2021
+1003,Recharge & bill payments,7591039,4370756869,2021,2,punjab,Q2 2021
+1004,Financial Services,46218,53309051.07,2021,2,punjab,Q2 2021
+1005,Others,127460,113998049.3,2021,2,punjab,Q2 2021
+1006,Peer-to-peer payments,17024782,66149902036,2021,3,punjab,Q3 2021
+1007,Merchant payments,16837685,14103740969,2021,3,punjab,Q3 2021
+1008,Recharge & bill payments,8465739,5540272095,2021,3,punjab,Q3 2021
+1009,Financial Services,43789,63576666.59,2021,3,punjab,Q3 2021
+1010,Others,161494,135069073.8,2021,3,punjab,Q3 2021
+1011,Merchant payments,22669743,20753662876,2021,4,punjab,Q4 2021
+1012,Peer-to-peer payments,20663881,83611403637,2021,4,punjab,Q4 2021
+1013,Recharge & bill payments,8765579,6107473172,2021,4,punjab,Q4 2021
+1014,Financial Services,58581,86356456.6,2021,4,punjab,Q4 2021
+1015,Others,201576,151230100.6,2021,4,punjab,Q4 2021
+1016,Merchant payments,25979197,23217511697,2022,1,punjab,Q1 2022
+1017,Peer-to-peer payments,22354946,88645204329,2022,1,punjab,Q1 2022
+1018,Recharge & bill payments,9188439,6317909909,2022,1,punjab,Q1 2022
+1019,Financial Services,57561,83933665.01,2022,1,punjab,Q1 2022
+1020,Others,178159,125418507,2022,1,punjab,Q1 2022
+1021,Merchant payments,35941880,28585688544,2022,2,punjab,Q2 2022
+1022,Peer-to-peer payments,25952349,1.01E+11,2022,2,punjab,Q2 2022
+1023,Recharge & bill payments,10161030,7652499714,2022,2,punjab,Q2 2022
+1024,Financial Services,50483,57234782.46,2022,2,punjab,Q2 2022
+1025,Others,167081,111934787.8,2022,2,punjab,Q2 2022
+1026,Merchant payments,43089589,32370885165,2022,3,punjab,Q3 2022
+1027,Peer-to-peer payments,29862592,1.08E+11,2022,3,punjab,Q3 2022
+1028,Recharge & bill payments,11017816,9119649329,2022,3,punjab,Q3 2022
+1029,Financial Services,57979,68249938.54,2022,3,punjab,Q3 2022
+1030,Others,149921,107280498.8,2022,3,punjab,Q3 2022
+1031,Merchant payments,48358802,38162493193,2022,4,punjab,Q4 2022
+1032,Peer-to-peer payments,32377106,1.21E+11,2022,4,punjab,Q4 2022
+1033,Recharge & bill payments,10895208,9248445986,2022,4,punjab,Q4 2022
+1034,Financial Services,62809,72160390.23,2022,4,punjab,Q4 2022
+1035,Others,141255,111559653.6,2022,4,punjab,Q4 2022
+1036,Recharge & bill payments,121303,26796895,2019,1,arunachal-pradesh,Q1 2019
+1037,Peer-to-peer payments,93494,568554821.4,2019,1,arunachal-pradesh,Q1 2019
+1038,Merchant payments,9214,11727218.4,2019,1,arunachal-pradesh,Q1 2019
+1039,Financial Services,256,140622.8709,2019,1,arunachal-pradesh,Q1 2019
+1040,Others,2239,2730548.598,2019,1,arunachal-pradesh,Q1 2019
+1041,Recharge & bill payments,131988,30420803.41,2019,2,arunachal-pradesh,Q2 2019
+1042,Peer-to-peer payments,106527,704237943.4,2019,2,arunachal-pradesh,Q2 2019
+1043,Merchant payments,16828,13955724.13,2019,2,arunachal-pradesh,Q2 2019
+1044,Financial Services,267,160660.8821,2019,2,arunachal-pradesh,Q2 2019
+1045,Others,3046,3880742.524,2019,2,arunachal-pradesh,Q2 2019
+1046,Recharge & bill payments,216228,50946104.94,2019,3,arunachal-pradesh,Q3 2019
+1047,Peer-to-peer payments,133484,841037395.2,2019,3,arunachal-pradesh,Q3 2019
+1048,Merchant payments,16900,17178248.07,2019,3,arunachal-pradesh,Q3 2019
+1049,Financial Services,864,64089.1135,2019,3,arunachal-pradesh,Q3 2019
+1050,Others,2758,3419197.418,2019,3,arunachal-pradesh,Q3 2019
+1051,Recharge & bill payments,259183,63516906.09,2019,4,arunachal-pradesh,Q4 2019
+1052,Peer-to-peer payments,177833,1100137448,2019,4,arunachal-pradesh,Q4 2019
+1053,Merchant payments,19769,23192271.69,2019,4,arunachal-pradesh,Q4 2019
+1054,Financial Services,314,305379.7988,2019,4,arunachal-pradesh,Q4 2019
+1055,Others,2376,3421174.012,2019,4,arunachal-pradesh,Q4 2019
+1056,Recharge & bill payments,329834,86011654.77,2020,1,arunachal-pradesh,Q1 2020
+1057,Peer-to-peer payments,203429,1263912288,2020,1,arunachal-pradesh,Q1 2020
+1058,Merchant payments,31181,28553052.13,2020,1,arunachal-pradesh,Q1 2020
+1059,Financial Services,470,337812.9482,2020,1,arunachal-pradesh,Q1 2020
+1060,Others,2261,2943873.067,2020,1,arunachal-pradesh,Q1 2020
+1061,Recharge & bill payments,522495,145198528.2,2020,2,arunachal-pradesh,Q2 2020
+1062,Peer-to-peer payments,247861,1630654426,2020,2,arunachal-pradesh,Q2 2020
+1063,Merchant payments,35169,46446966.61,2020,2,arunachal-pradesh,Q2 2020
+1064,Financial Services,1310,2655507.696,2020,2,arunachal-pradesh,Q2 2020
+1065,Others,1939,1761404.402,2020,2,arunachal-pradesh,Q2 2020
+1066,Recharge & bill payments,514907,153463816.2,2020,3,arunachal-pradesh,Q3 2020
+1067,Peer-to-peer payments,370418,2361603431,2020,3,arunachal-pradesh,Q3 2020
+1068,Merchant payments,72736,88145178.69,2020,3,arunachal-pradesh,Q3 2020
+1069,Financial Services,1761,4030599.917,2020,3,arunachal-pradesh,Q3 2020
+1070,Others,3005,2695539.361,2020,3,arunachal-pradesh,Q3 2020
+1071,Peer-to-peer payments,522019,3254744938,2020,4,arunachal-pradesh,Q4 2020
+1072,Recharge & bill payments,513895,152389181.2,2020,4,arunachal-pradesh,Q4 2020
+1073,Merchant payments,167387,156682926,2020,4,arunachal-pradesh,Q4 2020
+1074,Financial Services,1749,2391651.878,2020,4,arunachal-pradesh,Q4 2020
+1075,Others,4079,4055324.315,2020,4,arunachal-pradesh,Q4 2020
+1076,Peer-to-peer payments,566209,3460488559,2021,1,arunachal-pradesh,Q1 2021
+1077,Recharge & bill payments,450649,142358376.9,2021,1,arunachal-pradesh,Q1 2021
+1078,Merchant payments,155966,204958020.1,2021,1,arunachal-pradesh,Q1 2021
+1079,Financial Services,1558,2672460.474,2021,1,arunachal-pradesh,Q1 2021
+1080,Others,3074,3301662.609,2021,1,arunachal-pradesh,Q1 2021
+1081,Peer-to-peer payments,762946,4000960152,2021,2,arunachal-pradesh,Q2 2021
+1082,Recharge & bill payments,556680,165579844.3,2021,2,arunachal-pradesh,Q2 2021
+1083,Merchant payments,243375,283709438.5,2021,2,arunachal-pradesh,Q2 2021
+1084,Financial Services,1582,2761076.793,2021,2,arunachal-pradesh,Q2 2021
+1085,Others,3755,3415105.338,2021,2,arunachal-pradesh,Q2 2021
+1086,Peer-to-peer payments,986088,5033603845,2021,3,arunachal-pradesh,Q3 2021
+1087,Recharge & bill payments,600102,187390578.3,2021,3,arunachal-pradesh,Q3 2021
+1088,Merchant payments,314658,449869060.8,2021,3,arunachal-pradesh,Q3 2021
+1089,Financial Services,1934,3348547.827,2021,3,arunachal-pradesh,Q3 2021
+1090,Others,4185,3912143.35,2021,3,arunachal-pradesh,Q3 2021
+1091,Peer-to-peer payments,1227616,6022733378,2021,4,arunachal-pradesh,Q4 2021
+1092,Recharge & bill payments,633248,207784816.3,2021,4,arunachal-pradesh,Q4 2021
+1093,Merchant payments,521447,704195695,2021,4,arunachal-pradesh,Q4 2021
+1094,Financial Services,2386,3933557.28,2021,4,arunachal-pradesh,Q4 2021
+1095,Others,5901,4862905.886,2021,4,arunachal-pradesh,Q4 2021
+1096,Peer-to-peer payments,1403584,6670641250,2022,1,arunachal-pradesh,Q1 2022
+1097,Merchant payments,720803,917155358.7,2022,1,arunachal-pradesh,Q1 2022
+1098,Recharge & bill payments,670576,231933129,2022,1,arunachal-pradesh,Q1 2022
+1099,Financial Services,3053,3359625.793,2022,1,arunachal-pradesh,Q1 2022
+1100,Others,6052,5002264.113,2022,1,arunachal-pradesh,Q1 2022
+1101,Peer-to-peer payments,1751568,7627061475,2022,2,arunachal-pradesh,Q2 2022
+1102,Merchant payments,1108353,1255513517,2022,2,arunachal-pradesh,Q2 2022
+1103,Recharge & bill payments,688770,241162643.2,2022,2,arunachal-pradesh,Q2 2022
+1104,Financial Services,2466,4063469.1,2022,2,arunachal-pradesh,Q2 2022
+1105,Others,5768,3864269.88,2022,2,arunachal-pradesh,Q2 2022
+1106,Peer-to-peer payments,1967086,7365427284,2022,3,arunachal-pradesh,Q3 2022
+1107,Merchant payments,1316326,1413247143,2022,3,arunachal-pradesh,Q3 2022
+1108,Recharge & bill payments,649322,238448083.8,2022,3,arunachal-pradesh,Q3 2022
+1109,Financial Services,1997,4763324.776,2022,3,arunachal-pradesh,Q3 2022
+1110,Others,4687,3224948.702,2022,3,arunachal-pradesh,Q3 2022
+1111,Peer-to-peer payments,2251135,7768088688,2022,4,arunachal-pradesh,Q4 2022
+1112,Merchant payments,1704968,1669602213,2022,4,arunachal-pradesh,Q4 2022
+1113,Recharge & bill payments,669151,239412553.6,2022,4,arunachal-pradesh,Q4 2022
+1114,Financial Services,2617,3785469.399,2022,4,arunachal-pradesh,Q4 2022
+1115,Others,4838,4020773.895,2022,4,arunachal-pradesh,Q4 2022
+1116,Peer-to-peer payments,44049036,1.04E+11,2019,1,karnataka,Q1 2019
+1117,Merchant payments,24491960,7076613844,2019,1,karnataka,Q1 2019
+1118,Recharge & bill payments,16981941,6217689430,2019,1,karnataka,Q1 2019
+1119,Financial Services,293728,51023386.15,2019,1,karnataka,Q1 2019
+1120,Others,770944,512618725.8,2019,1,karnataka,Q1 2019
+1121,Peer-to-peer payments,50033334,1.43E+11,2019,2,karnataka,Q2 2019
+1122,Merchant payments,44848593,12338599109,2019,2,karnataka,Q2 2019
+1123,Recharge & bill payments,19283028,7745156563,2019,2,karnataka,Q2 2019
+1124,Financial Services,140353,44871623.83,2019,2,karnataka,Q2 2019
+1125,Others,1096296,662690676.7,2019,2,karnataka,Q2 2019
+1126,Merchant payments,76924325,20375791902,2019,3,karnataka,Q3 2019
+1127,Peer-to-peer payments,67784880,1.83E+11,2019,3,karnataka,Q3 2019
+1128,Recharge & bill payments,24339891,10208179942,2019,3,karnataka,Q3 2019
+1129,Financial Services,189716,57194690.69,2019,3,karnataka,Q3 2019
+1130,Others,1494923,732228821.1,2019,3,karnataka,Q3 2019
+1131,Merchant payments,114044901,31602890836,2019,4,karnataka,Q4 2019
+1132,Peer-to-peer payments,93311589,2.51E+11,2019,4,karnataka,Q4 2019
+1133,Recharge & bill payments,28862161,12183568521,2019,4,karnataka,Q4 2019
+1134,Financial Services,101937,51145982.18,2019,4,karnataka,Q4 2019
+1135,Others,1475664,646673755.4,2019,4,karnataka,Q4 2019
+1136,Merchant payments,132970737,40374401934,2020,1,karnataka,Q1 2020
+1137,Peer-to-peer payments,100868460,2.98E+11,2020,1,karnataka,Q1 2020
+1138,Recharge & bill payments,35854971,14724886028,2020,1,karnataka,Q1 2020
+1139,Financial Services,93648,110130184.7,2020,1,karnataka,Q1 2020
+1140,Others,1246074,557335296.8,2020,1,karnataka,Q1 2020
+1141,Merchant payments,87251639,38463881234,2020,2,karnataka,Q2 2020
+1142,Peer-to-peer payments,82118363,2.66E+11,2020,2,karnataka,Q2 2020
+1143,Recharge & bill payments,43290272,16434890228,2020,2,karnataka,Q2 2020
+1144,Financial Services,161560,246367207.1,2020,2,karnataka,Q2 2020
+1145,Others,399878,192530880.2,2020,2,karnataka,Q2 2020
+1146,Merchant payments,137206600,60769881812,2020,3,karnataka,Q3 2020
+1147,Peer-to-peer payments,119241776,3.90E+11,2020,3,karnataka,Q3 2020
+1148,Recharge & bill payments,43139631,18911088811,2020,3,karnataka,Q3 2020
+1149,Financial Services,251980,358426106,2020,3,karnataka,Q3 2020
+1150,Others,520544,268744139.7,2020,3,karnataka,Q3 2020
+1151,Merchant payments,215711211,97147239183,2020,4,karnataka,Q4 2020
+1152,Peer-to-peer payments,166981242,5.38E+11,2020,4,karnataka,Q4 2020
+1153,Recharge & bill payments,47736461,21611671359,2020,4,karnataka,Q4 2020
+1154,Financial Services,284700,427966918.9,2020,4,karnataka,Q4 2020
+1155,Others,823370,508863332.4,2020,4,karnataka,Q4 2020
+1156,Merchant payments,279599017,1.18E+11,2021,1,karnataka,Q1 2021
+1157,Peer-to-peer payments,190894164,6.11E+11,2021,1,karnataka,Q1 2021
+1158,Recharge & bill payments,52261651,25111731676,2021,1,karnataka,Q1 2021
+1159,Financial Services,297710,475815041.8,2021,1,karnataka,Q1 2021
+1160,Others,744950,511117233.2,2021,1,karnataka,Q1 2021
+1161,Merchant payments,244460862,1.25E+11,2021,2,karnataka,Q2 2021
+1162,Peer-to-peer payments,216539959,6.84E+11,2021,2,karnataka,Q2 2021
+1163,Recharge & bill payments,68599238,28272314719,2021,2,karnataka,Q2 2021
+1164,Financial Services,304779,456933674,2021,2,karnataka,Q2 2021
+1165,Others,744208,497736717.5,2021,2,karnataka,Q2 2021
+1166,Merchant payments,391381353,1.91E+11,2021,3,karnataka,Q3 2021
+1167,Peer-to-peer payments,288462867,9.08E+11,2021,3,karnataka,Q3 2021
+1168,Recharge & bill payments,72168311,33386709061,2021,3,karnataka,Q3 2021
+1169,Financial Services,286685,508051800.9,2021,3,karnataka,Q3 2021
+1170,Others,997323,637927036.9,2021,3,karnataka,Q3 2021
+1171,Merchant payments,503210623,2.44E+11,2021,4,karnataka,Q4 2021
+1172,Peer-to-peer payments,350032663,1.09E+12,2021,4,karnataka,Q4 2021
+1173,Recharge & bill payments,76826701,39294350717,2021,4,karnataka,Q4 2021
+1174,Financial Services,365769,574240588.2,2021,4,karnataka,Q4 2021
+1175,Others,1289682,896608692.1,2021,4,karnataka,Q4 2021
+1176,Merchant payments,588543313,2.78E+11,2022,1,karnataka,Q1 2022
+1177,Peer-to-peer payments,389491586,1.24E+12,2022,1,karnataka,Q1 2022
+1178,Recharge & bill payments,78206453,43891305257,2022,1,karnataka,Q1 2022
+1179,Financial Services,384922,624857963.4,2022,1,karnataka,Q1 2022
+1180,Others,1229133,824344937.1,2022,1,karnataka,Q1 2022
+1181,Merchant payments,735295388,3.58E+11,2022,2,karnataka,Q2 2022
+1182,Peer-to-peer payments,449723751,1.46E+12,2022,2,karnataka,Q2 2022
+1183,Recharge & bill payments,91137091,50583781089,2022,2,karnataka,Q2 2022
+1184,Financial Services,351688,545330283.2,2022,2,karnataka,Q2 2022
+1185,Others,941042,670434289.9,2022,2,karnataka,Q2 2022
+1186,Merchant payments,704609552,3.34E+11,2022,3,karnataka,Q3 2022
+1187,Peer-to-peer payments,404084880,1.28E+12,2022,3,karnataka,Q3 2022
+1188,Recharge & bill payments,79979546,48539011844,2022,3,karnataka,Q3 2022
+1189,Financial Services,361312,558132533.4,2022,3,karnataka,Q3 2022
+1190,Others,726038,610455785.7,2022,3,karnataka,Q3 2022
+1191,Merchant payments,830157371,3.81E+11,2022,4,karnataka,Q4 2022
+1192,Peer-to-peer payments,460041715,1.47E+12,2022,4,karnataka,Q4 2022
+1193,Recharge & bill payments,87517348,54445900607,2022,4,karnataka,Q4 2022
+1194,Financial Services,426795,650217624.1,2022,4,karnataka,Q4 2022
+1195,Others,767142,689145506.8,2022,4,karnataka,Q4 2022
+1196,Peer-to-peer payments,1913720,5414709532,2019,1,jammu-&-kashmir,Q1 2019
+1197,Recharge & bill payments,1131953,302663112.9,2019,1,jammu-&-kashmir,Q1 2019
+1198,Merchant payments,452379,199219534.9,2019,1,jammu-&-kashmir,Q1 2019
+1199,Financial Services,43247,4593545.202,2019,1,jammu-&-kashmir,Q1 2019
+1200,Others,43688,30649751.66,2019,1,jammu-&-kashmir,Q1 2019
+1201,Peer-to-peer payments,1180781,5666318253,2019,2,jammu-&-kashmir,Q2 2019
+1202,Recharge & bill payments,706569,215937468.9,2019,2,jammu-&-kashmir,Q2 2019
+1203,Merchant payments,353678,188931529.5,2019,2,jammu-&-kashmir,Q2 2019
+1204,Financial Services,22663,2652961.354,2019,2,jammu-&-kashmir,Q2 2019
+1205,Others,32664,26301988.32,2019,2,jammu-&-kashmir,Q2 2019
+1206,Peer-to-peer payments,618694,3499425218,2019,3,jammu-&-kashmir,Q3 2019
+1207,Recharge & bill payments,318061,111964437,2019,3,jammu-&-kashmir,Q3 2019
+1208,Merchant payments,165115,120736230.1,2019,3,jammu-&-kashmir,Q3 2019
+1209,Financial Services,2895,658515.8825,2019,3,jammu-&-kashmir,Q3 2019
+1210,Others,11761,11446090.82,2019,3,jammu-&-kashmir,Q3 2019
+1211,Peer-to-peer payments,310620,1799955856,2019,4,jammu-&-kashmir,Q4 2019
+1212,Merchant payments,91303,77859073.82,2019,4,jammu-&-kashmir,Q4 2019
+1213,Recharge & bill payments,84803,49065907.05,2019,4,jammu-&-kashmir,Q4 2019
+1214,Financial Services,197,213741.2862,2019,4,jammu-&-kashmir,Q4 2019
+1215,Others,3005,2601419.696,2019,4,jammu-&-kashmir,Q4 2019
+1216,Peer-to-peer payments,435154,2654638582,2020,1,jammu-&-kashmir,Q1 2020
+1217,Recharge & bill payments,341357,144213068.7,2020,1,jammu-&-kashmir,Q1 2020
+1218,Merchant payments,135241,131144419,2020,1,jammu-&-kashmir,Q1 2020
+1219,Financial Services,2350,2116665.118,2020,1,jammu-&-kashmir,Q1 2020
+1220,Others,7528,5530441.652,2020,1,jammu-&-kashmir,Q1 2020
+1221,Peer-to-peer payments,1238380,7426818530,2020,2,jammu-&-kashmir,Q2 2020
+1222,Recharge & bill payments,1028741,413037418.3,2020,2,jammu-&-kashmir,Q2 2020
+1223,Merchant payments,341375,403026357.8,2020,2,jammu-&-kashmir,Q2 2020
+1224,Financial Services,9130,10415041.34,2020,2,jammu-&-kashmir,Q2 2020
+1225,Others,17380,12351591.57,2020,2,jammu-&-kashmir,Q2 2020
+1226,Peer-to-peer payments,1787154,10837119047,2020,3,jammu-&-kashmir,Q3 2020
+1227,Recharge & bill payments,1005745,443743222.5,2020,3,jammu-&-kashmir,Q3 2020
+1228,Merchant payments,642688,667957476.4,2020,3,jammu-&-kashmir,Q3 2020
+1229,Financial Services,10111,13281733.8,2020,3,jammu-&-kashmir,Q3 2020
+1230,Others,20200,15128281.34,2020,3,jammu-&-kashmir,Q3 2020
+1231,Peer-to-peer payments,2378539,13736841260,2020,4,jammu-&-kashmir,Q4 2020
+1232,Recharge & bill payments,1900075,536741118.3,2020,4,jammu-&-kashmir,Q4 2020
+1233,Merchant payments,1377786,1045006123,2020,4,jammu-&-kashmir,Q4 2020
+1234,Financial Services,13578,17966592.7,2020,4,jammu-&-kashmir,Q4 2020
+1235,Others,84466,44350708.94,2020,4,jammu-&-kashmir,Q4 2020
+1236,Peer-to-peer payments,2800201,14801220301,2021,1,jammu-&-kashmir,Q1 2021
+1237,Recharge & bill payments,2554798,663747765.7,2021,1,jammu-&-kashmir,Q1 2021
+1238,Merchant payments,1527253,1605408313,2021,1,jammu-&-kashmir,Q1 2021
+1239,Financial Services,17276,20848657.86,2021,1,jammu-&-kashmir,Q1 2021
+1240,Others,98042,47124854.99,2021,1,jammu-&-kashmir,Q1 2021
+1241,Peer-to-peer payments,3955437,19502438178,2021,2,jammu-&-kashmir,Q2 2021
+1242,Recharge & bill payments,3568970,892467613.6,2021,2,jammu-&-kashmir,Q2 2021
+1243,Merchant payments,2378307,2343370986,2021,2,jammu-&-kashmir,Q2 2021
+1244,Financial Services,19432,21897796.19,2021,2,jammu-&-kashmir,Q2 2021
+1245,Others,105673,53580855.46,2021,2,jammu-&-kashmir,Q2 2021
+1246,Peer-to-peer payments,5621108,26562997915,2021,3,jammu-&-kashmir,Q3 2021
+1247,Recharge & bill payments,4192099,1126801385,2021,3,jammu-&-kashmir,Q3 2021
+1248,Merchant payments,3197489,3818849263,2021,3,jammu-&-kashmir,Q3 2021
+1249,Financial Services,16071,27585395.49,2021,3,jammu-&-kashmir,Q3 2021
+1250,Others,124274,62209689.34,2021,3,jammu-&-kashmir,Q3 2021
+1251,Peer-to-peer payments,6852001,31444247708,2021,4,jammu-&-kashmir,Q4 2021
+1252,Merchant payments,5399465,6026170896,2021,4,jammu-&-kashmir,Q4 2021
+1253,Recharge & bill payments,4358892,1334473410,2021,4,jammu-&-kashmir,Q4 2021
+1254,Financial Services,20269,34425387.52,2021,4,jammu-&-kashmir,Q4 2021
+1255,Others,160001,86920024.6,2021,4,jammu-&-kashmir,Q4 2021
+1256,Peer-to-peer payments,6263588,25881919929,2022,1,jammu-&-kashmir,Q1 2022
+1257,Merchant payments,5769426,5903944370,2022,1,jammu-&-kashmir,Q1 2022
+1258,Recharge & bill payments,4046350,1253753686,2022,1,jammu-&-kashmir,Q1 2022
+1259,Financial Services,20506,28915576.12,2022,1,jammu-&-kashmir,Q1 2022
+1260,Others,145441,79330065.64,2022,1,jammu-&-kashmir,Q1 2022
+1261,Merchant payments,9917899,8541811640,2022,2,jammu-&-kashmir,Q2 2022
+1262,Peer-to-peer payments,8948548,35973490941,2022,2,jammu-&-kashmir,Q2 2022
+1263,Recharge & bill payments,4759941,1631580784,2022,2,jammu-&-kashmir,Q2 2022
+1264,Financial Services,17495,23857762.1,2022,2,jammu-&-kashmir,Q2 2022
+1265,Others,169864,83549709.69,2022,2,jammu-&-kashmir,Q2 2022
+1266,Merchant payments,9594459,8056512905,2022,3,jammu-&-kashmir,Q3 2022
+1267,Peer-to-peer payments,8391981,31280124358,2022,3,jammu-&-kashmir,Q3 2022
+1268,Recharge & bill payments,4397779,1538833024,2022,3,jammu-&-kashmir,Q3 2022
+1269,Financial Services,16502,21281997.61,2022,3,jammu-&-kashmir,Q3 2022
+1270,Others,133673,66802218.33,2022,3,jammu-&-kashmir,Q3 2022
+1271,Merchant payments,13060020,9463119177,2022,4,jammu-&-kashmir,Q4 2022
+1272,Peer-to-peer payments,9209773,33017162450,2022,4,jammu-&-kashmir,Q4 2022
+1273,Recharge & bill payments,4885856,1738113554,2022,4,jammu-&-kashmir,Q4 2022
+1274,Financial Services,17803,26804683.93,2022,4,jammu-&-kashmir,Q4 2022
+1275,Others,142706,70096050.9,2022,4,jammu-&-kashmir,Q4 2022
+1276,Peer-to-peer payments,37360716,97373087988,2019,1,maharashtra,Q1 2019
+1277,Recharge & bill payments,24540041,8256500587,2019,1,maharashtra,Q1 2019
+1278,Merchant payments,12069119,5172594696,2019,1,maharashtra,Q1 2019
+1279,Financial Services,287569,49487746.21,2019,1,maharashtra,Q1 2019
+1280,Others,821624,569019903.9,2019,1,maharashtra,Q1 2019
+1281,Peer-to-peer payments,42546317,1.31E+11,2019,2,maharashtra,Q2 2019
+1282,Recharge & bill payments,29395661,12197234771,2019,2,maharashtra,Q2 2019
+1283,Merchant payments,27854042,9728561727,2019,2,maharashtra,Q2 2019
+1284,Financial Services,182840,45291636.11,2019,2,maharashtra,Q2 2019
+1285,Others,1170993,765228265.8,2019,2,maharashtra,Q2 2019
+1286,Peer-to-peer payments,57991699,1.66E+11,2019,3,maharashtra,Q3 2019
+1287,Merchant payments,54683738,17545729507,2019,3,maharashtra,Q3 2019
+1288,Recharge & bill payments,34309301,15471698544,2019,3,maharashtra,Q3 2019
+1289,Financial Services,231467,54108447.39,2019,3,maharashtra,Q3 2019
+1290,Others,1519376,814284077.9,2019,3,maharashtra,Q3 2019
+1291,Merchant payments,80127804,27209874138,2019,4,maharashtra,Q4 2019
+1292,Peer-to-peer payments,78795871,2.27E+11,2019,4,maharashtra,Q4 2019
+1293,Recharge & bill payments,40705998,17794666215,2019,4,maharashtra,Q4 2019
+1294,Financial Services,129755,49622863.82,2019,4,maharashtra,Q4 2019
+1295,Others,1501192,672210825,2019,4,maharashtra,Q4 2019
+1296,Merchant payments,100337738,35200130305,2020,1,maharashtra,Q1 2020
+1297,Peer-to-peer payments,87067410,2.63E+11,2020,1,maharashtra,Q1 2020
+1298,Recharge & bill payments,50199498,21603565070,2020,1,maharashtra,Q1 2020
+1299,Financial Services,123476,91363684.13,2020,1,maharashtra,Q1 2020
+1300,Others,1215959,558931962.9,2020,1,maharashtra,Q1 2020
+1301,Peer-to-peer payments,74295930,2.40E+11,2020,2,maharashtra,Q2 2020
+1302,Recharge & bill payments,60856480,23112343247,2020,2,maharashtra,Q2 2020
+1303,Merchant payments,48965388,32859184582,2020,2,maharashtra,Q2 2020
+1304,Financial Services,206461,211733275.8,2020,2,maharashtra,Q2 2020
+1305,Others,466502,242917371.3,2020,2,maharashtra,Q2 2020
+1306,Peer-to-peer payments,108436214,3.52E+11,2020,3,maharashtra,Q3 2020
+1307,Merchant payments,100808237,60171102124,2020,3,maharashtra,Q3 2020
+1308,Recharge & bill payments,58082283,27915727883,2020,3,maharashtra,Q3 2020
+1309,Financial Services,325453,333669599.6,2020,3,maharashtra,Q3 2020
+1310,Others,658737,331024593.1,2020,3,maharashtra,Q3 2020
+1311,Merchant payments,189845640,1.04E+11,2020,4,maharashtra,Q4 2020
+1312,Peer-to-peer payments,151741840,4.86E+11,2020,4,maharashtra,Q4 2020
+1313,Recharge & bill payments,64556682,31556917822,2020,4,maharashtra,Q4 2020
+1314,Financial Services,398409,418399992.5,2020,4,maharashtra,Q4 2020
+1315,Others,1078433,627692680.4,2020,4,maharashtra,Q4 2020
+1316,Merchant payments,253043309,1.29E+11,2021,1,maharashtra,Q1 2021
+1317,Peer-to-peer payments,187021609,5.99E+11,2021,1,maharashtra,Q1 2021
+1318,Recharge & bill payments,76389103,40057211827,2021,1,maharashtra,Q1 2021
+1319,Financial Services,439551,492900202.7,2021,1,maharashtra,Q1 2021
+1320,Others,966668,630909553.5,2021,1,maharashtra,Q1 2021
+1321,Merchant payments,247194293,1.51E+11,2021,2,maharashtra,Q2 2021
+1322,Peer-to-peer payments,228551961,7.20E+11,2021,2,maharashtra,Q2 2021
+1323,Recharge & bill payments,96271138,43154405548,2021,2,maharashtra,Q2 2021
+1324,Financial Services,504252,536780917,2021,2,maharashtra,Q2 2021
+1325,Others,1094842,699738247.7,2021,2,maharashtra,Q2 2021
+1326,Merchant payments,390051884,2.17E+11,2021,3,maharashtra,Q3 2021
+1327,Peer-to-peer payments,296951706,8.91E+11,2021,3,maharashtra,Q3 2021
+1328,Recharge & bill payments,103943973,50242023586,2021,3,maharashtra,Q3 2021
+1329,Financial Services,448646,579098938.7,2021,3,maharashtra,Q3 2021
+1330,Others,1477851,873324624.2,2021,3,maharashtra,Q3 2021
+1331,Merchant payments,540351277,3.06E+11,2021,4,maharashtra,Q4 2021
+1332,Peer-to-peer payments,361865450,1.11E+12,2021,4,maharashtra,Q4 2021
+1333,Recharge & bill payments,105990417,58087950922,2021,4,maharashtra,Q4 2021
+1334,Financial Services,606265,707102765.3,2021,4,maharashtra,Q4 2021
+1335,Others,1918093,1188658731,2021,4,maharashtra,Q4 2021
+1336,Merchant payments,646277671,3.40E+11,2022,1,maharashtra,Q1 2022
+1337,Peer-to-peer payments,411989717,1.27E+12,2022,1,maharashtra,Q1 2022
+1338,Recharge & bill payments,108896881,64507860104,2022,1,maharashtra,Q1 2022
+1339,Financial Services,583243,677612619.3,2022,1,maharashtra,Q1 2022
+1340,Others,1758926,1084139454,2022,1,maharashtra,Q1 2022
+1341,Merchant payments,810961772,4.28E+11,2022,2,maharashtra,Q2 2022
+1342,Peer-to-peer payments,470258043,1.50E+12,2022,2,maharashtra,Q2 2022
+1343,Recharge & bill payments,124280427,75110969246,2022,2,maharashtra,Q2 2022
+1344,Financial Services,490152,559321829.5,2022,2,maharashtra,Q2 2022
+1345,Others,1542719,930827919.3,2022,2,maharashtra,Q2 2022
+1346,Merchant payments,876618082,4.32E+11,2022,3,maharashtra,Q3 2022
+1347,Peer-to-peer payments,483481713,1.43E+12,2022,3,maharashtra,Q3 2022
+1348,Recharge & bill payments,124545840,79360150487,2022,3,maharashtra,Q3 2022
+1349,Financial Services,521362,571583115.7,2022,3,maharashtra,Q3 2022
+1350,Others,1222420,831183386.5,2022,3,maharashtra,Q3 2022
+1351,Merchant payments,1025666187,5.03E+11,2022,4,maharashtra,Q4 2022
+1352,Peer-to-peer payments,535142126,1.62E+12,2022,4,maharashtra,Q4 2022
+1353,Recharge & bill payments,126118544,83576414221,2022,4,maharashtra,Q4 2022
+1354,Financial Services,620124,699276779.2,2022,4,maharashtra,Q4 2022
+1355,Others,1228291,914951674.5,2022,4,maharashtra,Q4 2022
+1356,Peer-to-peer payments,24117274,33342321631,2019,1,odisha,Q1 2019
+1357,Recharge & bill payments,6713747,1120730273,2019,1,odisha,Q1 2019
+1358,Merchant payments,2690762,821493664.6,2019,1,odisha,Q1 2019
+1359,Financial Services,375910,34542738.89,2019,1,odisha,Q1 2019
+1360,Others,134249,108039623.3,2019,1,odisha,Q1 2019
+1361,Peer-to-peer payments,16455353,41423292022,2019,2,odisha,Q2 2019
+1362,Recharge & bill payments,7845252,1506620073,2019,2,odisha,Q2 2019
+1363,Merchant payments,4827067,1664621261,2019,2,odisha,Q2 2019
+1364,Financial Services,202705,20424212.31,2019,2,odisha,Q2 2019
+1365,Others,181647,139897303.5,2019,2,odisha,Q2 2019
+1366,Peer-to-peer payments,18490877,51447586885,2019,3,odisha,Q3 2019
+1367,Merchant payments,13984738,3895753253,2019,3,odisha,Q3 2019
+1368,Recharge & bill payments,8565917,1806123698,2019,3,odisha,Q3 2019
+1369,Financial Services,195034,31079934.76,2019,3,odisha,Q3 2019
+1370,Others,185706,124033587.2,2019,3,odisha,Q3 2019
+1371,Peer-to-peer payments,43284477,72966050937,2019,4,odisha,Q4 2019
+1372,Recharge & bill payments,10629461,2290841668,2019,4,odisha,Q4 2019
+1373,Merchant payments,10601703,4395710870,2019,4,odisha,Q4 2019
+1374,Financial Services,323887,38782542.05,2019,4,odisha,Q4 2019
+1375,Others,156105,77987614.25,2019,4,odisha,Q4 2019
+1376,Peer-to-peer payments,27110930,82863844732,2020,1,odisha,Q1 2020
+1377,Merchant payments,13269709,5738217250,2020,1,odisha,Q1 2020
+1378,Recharge & bill payments,13083524,3253609733,2020,1,odisha,Q1 2020
+1379,Financial Services,84037,27641460.91,2020,1,odisha,Q1 2020
+1380,Others,134107,73485022.97,2020,1,odisha,Q1 2020
+1381,Peer-to-peer payments,24520938,80990080778,2020,2,odisha,Q2 2020
+1382,Recharge & bill payments,17040333,4551061364,2020,2,odisha,Q2 2020
+1383,Merchant payments,8313965,6092753945,2020,2,odisha,Q2 2020
+1384,Financial Services,66787,50322080.34,2020,2,odisha,Q2 2020
+1385,Others,86553,48818444.57,2020,2,odisha,Q2 2020
+1386,Peer-to-peer payments,34182172,1.07E+11,2020,3,odisha,Q3 2020
+1387,Recharge & bill payments,17126851,5015719824,2020,3,odisha,Q3 2020
+1388,Merchant payments,14519265,10242496366,2020,3,odisha,Q3 2020
+1389,Financial Services,90736,84971747.76,2020,3,odisha,Q3 2020
+1390,Others,114805,56087156.19,2020,3,odisha,Q3 2020
+1391,Peer-to-peer payments,47588728,1.53E+11,2020,4,odisha,Q4 2020
+1392,Merchant payments,27124765,19347472703,2020,4,odisha,Q4 2020
+1393,Recharge & bill payments,17318073,5532179002,2020,4,odisha,Q4 2020
+1394,Financial Services,106189,104419909.7,2020,4,odisha,Q4 2020
+1395,Others,187195,109856053,2020,4,odisha,Q4 2020
+1396,Peer-to-peer payments,54417515,1.81E+11,2021,1,odisha,Q1 2021
+1397,Merchant payments,38180718,25201936762,2021,1,odisha,Q1 2021
+1398,Recharge & bill payments,18633830,6552605938,2021,1,odisha,Q1 2021
+1399,Financial Services,87263,95064023.95,2021,1,odisha,Q1 2021
+1400,Others,141032,97693172.73,2021,1,odisha,Q1 2021
+1401,Peer-to-peer payments,66929109,2.08E+11,2021,2,odisha,Q2 2021
+1402,Merchant payments,39402607,29208847675,2021,2,odisha,Q2 2021
+1403,Recharge & bill payments,25183699,8024323050,2021,2,odisha,Q2 2021
+1404,Financial Services,102474,102761987,2021,2,odisha,Q2 2021
+1405,Others,206448,122302396.2,2021,2,odisha,Q2 2021
+1406,Peer-to-peer payments,85728576,2.51E+11,2021,3,odisha,Q3 2021
+1407,Merchant payments,64268830,43316348173,2021,3,odisha,Q3 2021
+1408,Recharge & bill payments,26943670,9025674783,2021,3,odisha,Q3 2021
+1409,Financial Services,97213,112383446.9,2021,3,odisha,Q3 2021
+1410,Others,324385,175452005.4,2021,3,odisha,Q3 2021
+1411,Peer-to-peer payments,107560893,3.11E+11,2021,4,odisha,Q4 2021
+1412,Merchant payments,99512650,63383870318,2021,4,odisha,Q4 2021
+1413,Recharge & bill payments,26302130,10728834441,2021,4,odisha,Q4 2021
+1414,Financial Services,133004,147526652.5,2021,4,odisha,Q4 2021
+1415,Others,416689,286705478.5,2021,4,odisha,Q4 2021
+1416,Peer-to-peer payments,118999900,3.64E+11,2022,1,odisha,Q1 2022
+1417,Merchant payments,118108271,74302051598,2022,1,odisha,Q1 2022
+1418,Recharge & bill payments,26083549,12133153537,2022,1,odisha,Q1 2022
+1419,Financial Services,102802,118946014.4,2022,1,odisha,Q1 2022
+1420,Others,338977,225699523.4,2022,1,odisha,Q1 2022
+1421,Merchant payments,148544714,90369380299,2022,2,odisha,Q2 2022
+1422,Peer-to-peer payments,134717859,4.06E+11,2022,2,odisha,Q2 2022
+1423,Recharge & bill payments,29843263,13602640171,2022,2,odisha,Q2 2022
+1424,Financial Services,88649,95050158.47,2022,2,odisha,Q2 2022
+1425,Others,257113,174284263.8,2022,2,odisha,Q2 2022
+1426,Merchant payments,188143417,1.03E+11,2022,3,odisha,Q3 2022
+1427,Peer-to-peer payments,161912635,4.44E+11,2022,3,odisha,Q3 2022
+1428,Recharge & bill payments,36270166,16916650473,2022,3,odisha,Q3 2022
+1429,Financial Services,113961,114005499,2022,3,odisha,Q3 2022
+1430,Others,247147,185902663.4,2022,3,odisha,Q3 2022
+1431,Merchant payments,222167575,1.21E+11,2022,4,odisha,Q4 2022
+1432,Peer-to-peer payments,186438654,5.12E+11,2022,4,odisha,Q4 2022
+1433,Recharge & bill payments,36735289,18266150373,2022,4,odisha,Q4 2022
+1434,Financial Services,132033,149681749.3,2022,4,odisha,Q4 2022
+1435,Others,241192,205745557.9,2022,4,odisha,Q4 2022
+1436,Peer-to-peer payments,23708825,44114206183,2019,1,madhya-pradesh,Q1 2019
+1437,Recharge & bill payments,9966905,2423593842,2019,1,madhya-pradesh,Q1 2019
+1438,Merchant payments,3018928,1263699222,2019,1,madhya-pradesh,Q1 2019
+1439,Financial Services,290838,28901169.29,2019,1,madhya-pradesh,Q1 2019
+1440,Others,315553,239879105.6,2019,1,madhya-pradesh,Q1 2019
+1441,Peer-to-peer payments,20868744,61758841794,2019,2,madhya-pradesh,Q2 2019
+1442,Recharge & bill payments,12044969,3571897178,2019,2,madhya-pradesh,Q2 2019
+1443,Merchant payments,7331352,2671155681,2019,2,madhya-pradesh,Q2 2019
+1444,Financial Services,149197,18869661.51,2019,2,madhya-pradesh,Q2 2019
+1445,Others,451751,313802065.4,2019,2,madhya-pradesh,Q2 2019
+1446,Peer-to-peer payments,22631038,67648107703,2019,3,madhya-pradesh,Q3 2019
+1447,Merchant payments,17163551,5147459307,2019,3,madhya-pradesh,Q3 2019
+1448,Recharge & bill payments,13156616,4576521609,2019,3,madhya-pradesh,Q3 2019
+1449,Financial Services,192821,25654168.6,2019,3,madhya-pradesh,Q3 2019
+1450,Others,466385,278578703,2019,3,madhya-pradesh,Q3 2019
+1451,Peer-to-peer payments,32083162,92064471162,2019,4,madhya-pradesh,Q4 2019
+1452,Merchant payments,19447707,7304157802,2019,4,madhya-pradesh,Q4 2019
+1453,Recharge & bill payments,16081734,5104821721,2019,4,madhya-pradesh,Q4 2019
+1454,Financial Services,127116,24020060.93,2019,4,madhya-pradesh,Q4 2019
+1455,Others,392270,190456045.3,2019,4,madhya-pradesh,Q4 2019
+1456,Peer-to-peer payments,34540722,1.10E+11,2020,1,madhya-pradesh,Q1 2020
+1457,Merchant payments,24618074,9898242848,2020,1,madhya-pradesh,Q1 2020
+1458,Recharge & bill payments,19788516,6311610610,2020,1,madhya-pradesh,Q1 2020
+1459,Financial Services,68055,30645714.4,2020,1,madhya-pradesh,Q1 2020
+1460,Others,351379,170790656.3,2020,1,madhya-pradesh,Q1 2020
+1461,Peer-to-peer payments,34860958,1.28E+11,2020,2,madhya-pradesh,Q2 2020
+1462,Recharge & bill payments,27497528,8904067957,2020,2,madhya-pradesh,Q2 2020
+1463,Merchant payments,13685723,10666223054,2020,2,madhya-pradesh,Q2 2020
+1464,Financial Services,80988,62073621.44,2020,2,madhya-pradesh,Q2 2020
+1465,Others,215376,104956802.2,2020,2,madhya-pradesh,Q2 2020
+1466,Peer-to-peer payments,50871564,1.75E+11,2020,3,madhya-pradesh,Q3 2020
+1467,Merchant payments,31879804,20621273982,2020,3,madhya-pradesh,Q3 2020
+1468,Recharge & bill payments,25380467,9834190567,2020,3,madhya-pradesh,Q3 2020
+1469,Financial Services,131725,122971108.1,2020,3,madhya-pradesh,Q3 2020
+1470,Others,316321,144259293.3,2020,3,madhya-pradesh,Q3 2020
+1471,Peer-to-peer payments,67972167,2.36E+11,2020,4,madhya-pradesh,Q4 2020
+1472,Merchant payments,57707471,37315576877,2020,4,madhya-pradesh,Q4 2020
+1473,Recharge & bill payments,27335834,10977774483,2020,4,madhya-pradesh,Q4 2020
+1474,Financial Services,149532,132590450.1,2020,4,madhya-pradesh,Q4 2020
+1475,Others,487537,264996097.6,2020,4,madhya-pradesh,Q4 2020
+1476,Merchant payments,84812245,50098244500,2021,1,madhya-pradesh,Q1 2021
+1477,Peer-to-peer payments,84070625,2.80E+11,2021,1,madhya-pradesh,Q1 2021
+1478,Recharge & bill payments,32500681,13060914041,2021,1,madhya-pradesh,Q1 2021
+1479,Financial Services,169378,161838389.8,2021,1,madhya-pradesh,Q1 2021
+1480,Others,445569,274786748.1,2021,1,madhya-pradesh,Q1 2021
+1481,Peer-to-peer payments,99367521,3.49E+11,2021,2,madhya-pradesh,Q2 2021
+1482,Merchant payments,77113464,58839392450,2021,2,madhya-pradesh,Q2 2021
+1483,Recharge & bill payments,46118636,17230546399,2021,2,madhya-pradesh,Q2 2021
+1484,Financial Services,188726,177313389.7,2021,2,madhya-pradesh,Q2 2021
+1485,Others,526333,317753606,2021,2,madhya-pradesh,Q2 2021
+1486,Merchant payments,138433772,85885669792,2021,3,madhya-pradesh,Q3 2021
+1487,Peer-to-peer payments,127654821,3.99E+11,2021,3,madhya-pradesh,Q3 2021
+1488,Recharge & bill payments,44437315,19025346051,2021,3,madhya-pradesh,Q3 2021
+1489,Financial Services,174454,180366422.6,2021,3,madhya-pradesh,Q3 2021
+1490,Others,742972,408508699.4,2021,3,madhya-pradesh,Q3 2021
+1491,Merchant payments,197193842,1.26E+11,2021,4,madhya-pradesh,Q4 2021
+1492,Peer-to-peer payments,159649020,5.07E+11,2021,4,madhya-pradesh,Q4 2021
+1493,Recharge & bill payments,46220966,22492766779,2021,4,madhya-pradesh,Q4 2021
+1494,Financial Services,247925,246488171.4,2021,4,madhya-pradesh,Q4 2021
+1495,Others,996331,568617375.6,2021,4,madhya-pradesh,Q4 2021
+1496,Merchant payments,237691924,1.43E+11,2022,1,madhya-pradesh,Q1 2022
+1497,Peer-to-peer payments,185008444,5.78E+11,2022,1,madhya-pradesh,Q1 2022
+1498,Recharge & bill payments,48870314,25437774564,2022,1,madhya-pradesh,Q1 2022
+1499,Financial Services,222923,219927120.2,2022,1,madhya-pradesh,Q1 2022
+1500,Others,909453,495513514.8,2022,1,madhya-pradesh,Q1 2022
+1501,Merchant payments,287616385,1.74E+11,2022,2,madhya-pradesh,Q2 2022
+1502,Peer-to-peer payments,202093283,6.63E+11,2022,2,madhya-pradesh,Q2 2022
+1503,Recharge & bill payments,54318983,29125694282,2022,2,madhya-pradesh,Q2 2022
+1504,Financial Services,157672,153944499.7,2022,2,madhya-pradesh,Q2 2022
+1505,Others,713506,381178326.3,2022,2,madhya-pradesh,Q2 2022
+1506,Merchant payments,391105651,2.12E+11,2022,3,madhya-pradesh,Q3 2022
+1507,Peer-to-peer payments,267013695,7.81E+11,2022,3,madhya-pradesh,Q3 2022
+1508,Recharge & bill payments,72148870,39132574048,2022,3,madhya-pradesh,Q3 2022
+1509,Financial Services,240678,236981163.6,2022,3,madhya-pradesh,Q3 2022
+1510,Others,750665,442608716.7,2022,3,madhya-pradesh,Q3 2022
+1511,Merchant payments,492999084,2.73E+11,2022,4,madhya-pradesh,Q4 2022
+1512,Peer-to-peer payments,325467851,9.84E+11,2022,4,madhya-pradesh,Q4 2022
+1513,Recharge & bill payments,79289399,45143248069,2022,4,madhya-pradesh,Q4 2022
+1514,Financial Services,286931,278304972.6,2022,4,madhya-pradesh,Q4 2022
+1515,Others,785003,521508120.7,2022,4,madhya-pradesh,Q4 2022
+1516,Peer-to-peer payments,27621606,55246071722,2019,1,rajasthan,Q1 2019
+1517,Recharge & bill payments,11650961,3821181817,2019,1,rajasthan,Q1 2019
+1518,Merchant payments,3921438,1664209335,2019,1,rajasthan,Q1 2019
+1519,Financial Services,359993,36340412.58,2019,1,rajasthan,Q1 2019
+1520,Others,402042,373355289.6,2019,1,rajasthan,Q1 2019
+1521,Peer-to-peer payments,25257679,79466464089,2019,2,rajasthan,Q2 2019
+1522,Recharge & bill payments,14968290,5709279551,2019,2,rajasthan,Q2 2019
+1523,Merchant payments,9026751,3435472167,2019,2,rajasthan,Q2 2019
+1524,Financial Services,182685,34134486.76,2019,2,rajasthan,Q2 2019
+1525,Others,573881,461962878.5,2019,2,rajasthan,Q2 2019
+1526,Peer-to-peer payments,29885618,97443950787,2019,3,rajasthan,Q3 2019
+1527,Merchant payments,19646612,6705923743,2019,3,rajasthan,Q3 2019
+1528,Recharge & bill payments,16970783,7872719572,2019,3,rajasthan,Q3 2019
+1529,Financial Services,217029,37899900.33,2019,3,rajasthan,Q3 2019
+1530,Others,583575,407796030.9,2019,3,rajasthan,Q3 2019
+1531,Peer-to-peer payments,43354317,1.40E+11,2019,4,rajasthan,Q4 2019
+1532,Recharge & bill payments,20604852,9028860435,2019,4,rajasthan,Q4 2019
+1533,Merchant payments,20544791,9721826538,2019,4,rajasthan,Q4 2019
+1534,Financial Services,101805,25014672.38,2019,4,rajasthan,Q4 2019
+1535,Others,468477,227573686.6,2019,4,rajasthan,Q4 2019
+1536,Peer-to-peer payments,48269912,1.65E+11,2020,1,rajasthan,Q1 2020
+1537,Merchant payments,27880848,13643061482,2020,1,rajasthan,Q1 2020
+1538,Recharge & bill payments,25631131,10961167180,2020,1,rajasthan,Q1 2020
+1539,Financial Services,72604,34466606.25,2020,1,rajasthan,Q1 2020
+1540,Others,404317,200968968.7,2020,1,rajasthan,Q1 2020
+1541,Peer-to-peer payments,49160792,1.66E+11,2020,2,rajasthan,Q2 2020
+1542,Recharge & bill payments,31681776,13014051936,2020,2,rajasthan,Q2 2020
+1543,Merchant payments,20756594,14354151782,2020,2,rajasthan,Q2 2020
+1544,Financial Services,92875,76662259.21,2020,2,rajasthan,Q2 2020
+1545,Others,262619,142020149.8,2020,2,rajasthan,Q2 2020
+1546,Peer-to-peer payments,73247856,2.49E+11,2020,3,rajasthan,Q3 2020
+1547,Merchant payments,45149210,27714680562,2020,3,rajasthan,Q3 2020
+1548,Recharge & bill payments,30148875,16650017441,2020,3,rajasthan,Q3 2020
+1549,Financial Services,146383,113675141.5,2020,3,rajasthan,Q3 2020
+1550,Others,396352,193212778.7,2020,3,rajasthan,Q3 2020
+1551,Peer-to-peer payments,88730951,3.21E+11,2020,4,rajasthan,Q4 2020
+1552,Merchant payments,67367264,46142484518,2020,4,rajasthan,Q4 2020
+1553,Recharge & bill payments,33455755,18123908526,2020,4,rajasthan,Q4 2020
+1554,Financial Services,169294,136058685.9,2020,4,rajasthan,Q4 2020
+1555,Others,560171,351480425.6,2020,4,rajasthan,Q4 2020
+1556,Peer-to-peer payments,116733195,4.08E+11,2021,1,rajasthan,Q1 2021
+1557,Merchant payments,96394132,61936457709,2021,1,rajasthan,Q1 2021
+1558,Recharge & bill payments,38919519,20855464604,2021,1,rajasthan,Q1 2021
+1559,Financial Services,192936,162581466.9,2021,1,rajasthan,Q1 2021
+1560,Others,491137,347689722.9,2021,1,rajasthan,Q1 2021
+1561,Peer-to-peer payments,139277445,4.68E+11,2021,2,rajasthan,Q2 2021
+1562,Merchant payments,97860493,69922875807,2021,2,rajasthan,Q2 2021
+1563,Recharge & bill payments,49501703,23387103756,2021,2,rajasthan,Q2 2021
+1564,Financial Services,216441,186606893.6,2021,2,rajasthan,Q2 2021
+1565,Others,620957,422031947.6,2021,2,rajasthan,Q2 2021
+1566,Peer-to-peer payments,181742972,5.76E+11,2021,3,rajasthan,Q3 2021
+1567,Merchant payments,167819345,1.06E+11,2021,3,rajasthan,Q3 2021
+1568,Recharge & bill payments,49709657,28335516739,2021,3,rajasthan,Q3 2021
+1569,Financial Services,197211,190362135.9,2021,3,rajasthan,Q3 2021
+1570,Others,815568,524328574.3,2021,3,rajasthan,Q3 2021
+1571,Merchant payments,221774624,1.52E+11,2021,4,rajasthan,Q4 2021
+1572,Peer-to-peer payments,212937264,7.18E+11,2021,4,rajasthan,Q4 2021
+1573,Recharge & bill payments,51610607,32831163303,2021,4,rajasthan,Q4 2021
+1574,Financial Services,265091,263180819.7,2021,4,rajasthan,Q4 2021
+1575,Others,1034011,656777820.8,2021,4,rajasthan,Q4 2021
+1576,Merchant payments,267467038,1.71E+11,2022,1,rajasthan,Q1 2022
+1577,Peer-to-peer payments,241739380,8.15E+11,2022,1,rajasthan,Q1 2022
+1578,Recharge & bill payments,54555117,35542881861,2022,1,rajasthan,Q1 2022
+1579,Financial Services,244029,243340851.7,2022,1,rajasthan,Q1 2022
+1580,Others,956656,556409604.9,2022,1,rajasthan,Q1 2022
+1581,Merchant payments,336900860,2.08E+11,2022,2,rajasthan,Q2 2022
+1582,Peer-to-peer payments,263380560,9.06E+11,2022,2,rajasthan,Q2 2022
+1583,Recharge & bill payments,59879660,38325678034,2022,2,rajasthan,Q2 2022
+1584,Financial Services,170705,175399371.4,2022,2,rajasthan,Q2 2022
+1585,Others,838365,452454748.3,2022,2,rajasthan,Q2 2022
+1586,Merchant payments,398104319,2.31E+11,2022,3,rajasthan,Q3 2022
+1587,Peer-to-peer payments,299383118,9.61E+11,2022,3,rajasthan,Q3 2022
+1588,Recharge & bill payments,69118763,46000391408,2022,3,rajasthan,Q3 2022
+1589,Financial Services,215235,220271929.8,2022,3,rajasthan,Q3 2022
+1590,Others,719925,449514643.6,2022,3,rajasthan,Q3 2022
+1591,Merchant payments,457778005,2.75E+11,2022,4,rajasthan,Q4 2022
+1592,Peer-to-peer payments,334316758,1.13E+12,2022,4,rajasthan,Q4 2022
+1593,Recharge & bill payments,72510470,50609988782,2022,4,rajasthan,Q4 2022
+1594,Financial Services,244442,270658681,2022,4,rajasthan,Q4 2022
+1595,Others,725173,500361375.7,2022,4,rajasthan,Q4 2022
+1596,Peer-to-peer payments,37420988,77524329742,2019,1,andhra-pradesh,Q1 2019
+1597,Recharge & bill payments,14022264,3480641602,2019,1,andhra-pradesh,Q1 2019
+1598,Merchant payments,5043682,2423536770,2019,1,andhra-pradesh,Q1 2019
+1599,Financial Services,416325,47150177.53,2019,1,andhra-pradesh,Q1 2019
+1600,Others,361263,284937624.5,2019,1,andhra-pradesh,Q1 2019
+1601,Peer-to-peer payments,32494402,1.04E+11,2019,2,andhra-pradesh,Q2 2019
+1602,Recharge & bill payments,14093964,4708345388,2019,2,andhra-pradesh,Q2 2019
+1603,Merchant payments,9226537,4613405203,2019,2,andhra-pradesh,Q2 2019
+1604,Financial Services,145310,26626696.77,2019,2,andhra-pradesh,Q2 2019
+1605,Others,448802,361492238.4,2019,2,andhra-pradesh,Q2 2019
+1606,Peer-to-peer payments,39023491,1.24E+11,2019,3,andhra-pradesh,Q3 2019
+1607,Recharge & bill payments,20147629,6893984677,2019,3,andhra-pradesh,Q3 2019
+1608,Merchant payments,16581787,7887394038,2019,3,andhra-pradesh,Q3 2019
+1609,Financial Services,122270,29778183.03,2019,3,andhra-pradesh,Q3 2019
+1610,Others,413437,298142027.6,2019,3,andhra-pradesh,Q3 2019
+1611,Peer-to-peer payments,57181511,1.79E+11,2019,4,andhra-pradesh,Q4 2019
+1612,Merchant payments,25122370,13476303368,2019,4,andhra-pradesh,Q4 2019
+1613,Recharge & bill payments,24469888,8335168606,2019,4,andhra-pradesh,Q4 2019
+1614,Financial Services,105662,26796571.75,2019,4,andhra-pradesh,Q4 2019
+1615,Others,338672,216496893.2,2019,4,andhra-pradesh,Q4 2019
+1616,Peer-to-peer payments,65452143,2.23E+11,2020,1,andhra-pradesh,Q1 2020
+1617,Merchant payments,31408022,18603161784,2020,1,andhra-pradesh,Q1 2020
+1618,Recharge & bill payments,30449644,10813530778,2020,1,andhra-pradesh,Q1 2020
+1619,Financial Services,75238,43739133.17,2020,1,andhra-pradesh,Q1 2020
+1620,Others,292310,188228538.4,2020,1,andhra-pradesh,Q1 2020
+1621,Peer-to-peer payments,73609921,2.63E+11,2020,2,andhra-pradesh,Q2 2020
+1622,Recharge & bill payments,41013987,16991006437,2020,2,andhra-pradesh,Q2 2020
+1623,Merchant payments,29976765,22625596525,2020,2,andhra-pradesh,Q2 2020
+1624,Financial Services,140941,145274999.2,2020,2,andhra-pradesh,Q2 2020
+1625,Others,176241,90087654.6,2020,2,andhra-pradesh,Q2 2020
+1626,Peer-to-peer payments,106791894,4.06E+11,2020,3,andhra-pradesh,Q3 2020
+1627,Merchant payments,54055557,40739580214,2020,3,andhra-pradesh,Q3 2020
+1628,Recharge & bill payments,43500067,19475104675,2020,3,andhra-pradesh,Q3 2020
+1629,Financial Services,243088,256074924.7,2020,3,andhra-pradesh,Q3 2020
+1630,Others,312329,151582519.2,2020,3,andhra-pradesh,Q3 2020
+1631,Peer-to-peer payments,152003791,5.67E+11,2020,4,andhra-pradesh,Q4 2020
+1632,Merchant payments,86581460,66654048150,2020,4,andhra-pradesh,Q4 2020
+1633,Recharge & bill payments,46810304,20936337212,2020,4,andhra-pradesh,Q4 2020
+1634,Financial Services,265470,305168772.5,2020,4,andhra-pradesh,Q4 2020
+1635,Others,457527,306853355.6,2020,4,andhra-pradesh,Q4 2020
+1636,Peer-to-peer payments,149313738,5.81E+11,2021,1,andhra-pradesh,Q1 2021
+1637,Merchant payments,97920281,70813192713,2021,1,andhra-pradesh,Q1 2021
+1638,Recharge & bill payments,41940689,20546424964,2021,1,andhra-pradesh,Q1 2021
+1639,Financial Services,225355,270313028.5,2021,1,andhra-pradesh,Q1 2021
+1640,Others,347907,272546457.6,2021,1,andhra-pradesh,Q1 2021
+1641,Peer-to-peer payments,189614879,7.37E+11,2021,2,andhra-pradesh,Q2 2021
+1642,Merchant payments,112875274,88512429437,2021,2,andhra-pradesh,Q2 2021
+1643,Recharge & bill payments,49626902,24646800345,2021,2,andhra-pradesh,Q2 2021
+1644,Financial Services,243237,265483044.4,2021,2,andhra-pradesh,Q2 2021
+1645,Others,406842,308302224.4,2021,2,andhra-pradesh,Q2 2021
+1646,Peer-to-peer payments,221280317,8.38E+11,2021,3,andhra-pradesh,Q3 2021
+1647,Merchant payments,158290953,1.18E+11,2021,3,andhra-pradesh,Q3 2021
+1648,Recharge & bill payments,51702350,27511344958,2021,3,andhra-pradesh,Q3 2021
+1649,Financial Services,211171,297239697.8,2021,3,andhra-pradesh,Q3 2021
+1650,Others,547759,403948275.6,2021,3,andhra-pradesh,Q3 2021
+1651,Peer-to-peer payments,262006450,9.71E+11,2021,4,andhra-pradesh,Q4 2021
+1652,Merchant payments,207538904,1.53E+11,2021,4,andhra-pradesh,Q4 2021
+1653,Recharge & bill payments,51762842,31232784714,2021,4,andhra-pradesh,Q4 2021
+1654,Financial Services,243951,332740108.7,2021,4,andhra-pradesh,Q4 2021
+1655,Others,701856,545223415.7,2021,4,andhra-pradesh,Q4 2021
+1656,Peer-to-peer payments,288488560,1.09E+12,2022,1,andhra-pradesh,Q1 2022
+1657,Merchant payments,242031836,1.69E+11,2022,1,andhra-pradesh,Q1 2022
+1658,Recharge & bill payments,51224170,34473036842,2022,1,andhra-pradesh,Q1 2022
+1659,Financial Services,231651,324358965.1,2022,1,andhra-pradesh,Q1 2022
+1660,Others,627694,474382234.3,2022,1,andhra-pradesh,Q1 2022
+1661,Peer-to-peer payments,321362337,1.23E+12,2022,2,andhra-pradesh,Q2 2022
+1662,Merchant payments,292530048,2.05E+11,2022,2,andhra-pradesh,Q2 2022
+1663,Recharge & bill payments,56606969,42408541939,2022,2,andhra-pradesh,Q2 2022
+1664,Financial Services,192751,245783011,2022,2,andhra-pradesh,Q2 2022
+1665,Others,441925,357036084.9,2022,2,andhra-pradesh,Q2 2022
+1666,Peer-to-peer payments,298804000,1.14E+12,2022,3,andhra-pradesh,Q3 2022
+1667,Merchant payments,291033653,2.03E+11,2022,3,andhra-pradesh,Q3 2022
+1668,Recharge & bill payments,52467708,41438764826,2022,3,andhra-pradesh,Q3 2022
+1669,Financial Services,187190,239347241.5,2022,3,andhra-pradesh,Q3 2022
+1670,Others,362484,323951101.6,2022,3,andhra-pradesh,Q3 2022
+1671,Merchant payments,321632104,2.12E+11,2022,4,andhra-pradesh,Q4 2022
+1672,Peer-to-peer payments,315734006,1.17E+12,2022,4,andhra-pradesh,Q4 2022
+1673,Recharge & bill payments,52098850,41986837706,2022,4,andhra-pradesh,Q4 2022
+1674,Financial Services,206459,250596592.1,2022,4,andhra-pradesh,Q4 2022
+1675,Others,345658,339211363,2022,4,andhra-pradesh,Q4 2022
+1676,Peer-to-peer payments,689400,2123866602,2019,1,chandigarh,Q1 2019
+1677,Recharge & bill payments,390610,161414934.1,2019,1,chandigarh,Q1 2019
+1678,Merchant payments,169984,97230471.44,2019,1,chandigarh,Q1 2019
+1679,Financial Services,7412,917030.9067,2019,1,chandigarh,Q1 2019
+1680,Others,17070,12603012.34,2019,1,chandigarh,Q1 2019
+1681,Peer-to-peer payments,604849,2339922408,2019,2,chandigarh,Q2 2019
+1682,Recharge & bill payments,342294,185659011.5,2019,2,chandigarh,Q2 2019
+1683,Merchant payments,277811,152766864.7,2019,2,chandigarh,Q2 2019
+1684,Financial Services,5590,839765.1614,2019,2,chandigarh,Q2 2019
+1685,Others,21926,13928050.05,2019,2,chandigarh,Q2 2019
+1686,Peer-to-peer payments,722233,2815184153,2019,3,chandigarh,Q3 2019
+1687,Merchant payments,447069,226535908.8,2019,3,chandigarh,Q3 2019
+1688,Recharge & bill payments,308219,213884900.5,2019,3,chandigarh,Q3 2019
+1689,Financial Services,2447,794918.675,2019,3,chandigarh,Q3 2019
+1690,Others,26575,13282206.87,2019,3,chandigarh,Q3 2019
+1691,Peer-to-peer payments,927850,3586763929,2019,4,chandigarh,Q4 2019
+1692,Merchant payments,561630,318692521.8,2019,4,chandigarh,Q4 2019
+1693,Recharge & bill payments,338203,237695595,2019,4,chandigarh,Q4 2019
+1694,Financial Services,1911,654298.6785,2019,4,chandigarh,Q4 2019
+1695,Others,21321,8707473.863,2019,4,chandigarh,Q4 2019
+1696,Peer-to-peer payments,1087401,4421372542,2020,1,chandigarh,Q1 2020
+1697,Merchant payments,764832,438193845.5,2020,1,chandigarh,Q1 2020
+1698,Recharge & bill payments,389851,257250007.2,2020,1,chandigarh,Q1 2020
+1699,Financial Services,1574,1406138.188,2020,1,chandigarh,Q1 2020
+1700,Others,18853,8230536.663,2020,1,chandigarh,Q1 2020
+1701,Peer-to-peer payments,766698,3293060120,2020,2,chandigarh,Q2 2020
+1702,Merchant payments,390906,331423259,2020,2,chandigarh,Q2 2020
+1703,Recharge & bill payments,361577,214425229.3,2020,2,chandigarh,Q2 2020
+1704,Financial Services,1797,3982005.118,2020,2,chandigarh,Q2 2020
+1705,Others,7032,4125116.689,2020,2,chandigarh,Q2 2020
+1706,Peer-to-peer payments,981986,4178346395,2020,3,chandigarh,Q3 2020
+1707,Merchant payments,796634,604271248.9,2020,3,chandigarh,Q3 2020
+1708,Recharge & bill payments,366353,296964795,2020,3,chandigarh,Q3 2020
+1709,Financial Services,2643,5254415.457,2020,3,chandigarh,Q3 2020
+1710,Others,10470,4972498.603,2020,3,chandigarh,Q3 2020
+1711,Merchant payments,1322026,939307675.9,2020,4,chandigarh,Q4 2020
+1712,Peer-to-peer payments,1159377,4872318731,2020,4,chandigarh,Q4 2020
+1713,Recharge & bill payments,409997,320731281.9,2020,4,chandigarh,Q4 2020
+1714,Financial Services,3346,4400109.749,2020,4,chandigarh,Q4 2020
+1715,Others,17970,10005102.46,2020,4,chandigarh,Q4 2020
+1716,Merchant payments,1799072,1210594490,2021,1,chandigarh,Q1 2021
+1717,Peer-to-peer payments,1472084,5916467167,2021,1,chandigarh,Q1 2021
+1718,Recharge & bill payments,678396,451109555.3,2021,1,chandigarh,Q1 2021
+1719,Financial Services,5111,7700394.762,2021,1,chandigarh,Q1 2021
+1720,Others,15574,10549252.04,2021,1,chandigarh,Q1 2021
+1721,Merchant payments,1926913,1390989391,2021,2,chandigarh,Q2 2021
+1722,Peer-to-peer payments,1663559,6541132353,2021,2,chandigarh,Q2 2021
+1723,Recharge & bill payments,806710,467698864.7,2021,2,chandigarh,Q2 2021
+1724,Financial Services,5502,7394941.033,2021,2,chandigarh,Q2 2021
+1725,Others,14863,10458390.53,2021,2,chandigarh,Q2 2021
+1726,Merchant payments,3179506,2245390329,2021,3,chandigarh,Q3 2021
+1727,Peer-to-peer payments,2434417,8927868098,2021,3,chandigarh,Q3 2021
+1728,Recharge & bill payments,1008585,620437997.4,2021,3,chandigarh,Q3 2021
+1729,Financial Services,5700,7960844.904,2021,3,chandigarh,Q3 2021
+1730,Others,21170,14225734.85,2021,3,chandigarh,Q3 2021
+1731,Merchant payments,4056249,3041038520,2021,4,chandigarh,Q4 2021
+1732,Peer-to-peer payments,2797561,10610461952,2021,4,chandigarh,Q4 2021
+1733,Recharge & bill payments,1013153,693790747.2,2021,4,chandigarh,Q4 2021
+1734,Financial Services,7038,10459431.86,2021,4,chandigarh,Q4 2021
+1735,Others,24902,17832859.58,2021,4,chandigarh,Q4 2021
+1736,Merchant payments,4511757,3264574793,2022,1,chandigarh,Q1 2022
+1737,Peer-to-peer payments,3012464,11150701029,2022,1,chandigarh,Q1 2022
+1738,Recharge & bill payments,1046187,731347957.2,2022,1,chandigarh,Q1 2022
+1739,Financial Services,7228,13538635.56,2022,1,chandigarh,Q1 2022
+1740,Others,22855,14829135,2022,1,chandigarh,Q1 2022
+1741,Merchant payments,6136803,3919372476,2022,2,chandigarh,Q2 2022
+1742,Peer-to-peer payments,3489382,12549248085,2022,2,chandigarh,Q2 2022
+1743,Recharge & bill payments,1119367,792957088.6,2022,2,chandigarh,Q2 2022
+1744,Financial Services,6673,8943857.181,2022,2,chandigarh,Q2 2022
+1745,Others,20264,12978651.92,2022,2,chandigarh,Q2 2022
+1746,Merchant payments,7665907,4713972533,2022,3,chandigarh,Q3 2022
+1747,Peer-to-peer payments,4423590,14788179156,2022,3,chandigarh,Q3 2022
+1748,Recharge & bill payments,1360342,1033530640,2022,3,chandigarh,Q3 2022
+1749,Financial Services,8868,9918740.021,2022,3,chandigarh,Q3 2022
+1750,Others,19466,14156668.14,2022,3,chandigarh,Q3 2022
+1751,Merchant payments,10170372,6570336080,2022,4,chandigarh,Q4 2022
+1752,Peer-to-peer payments,5951989,20013621496,2022,4,chandigarh,Q4 2022
+1753,Recharge & bill payments,1749647,1267654269,2022,4,chandigarh,Q4 2022
+1754,Financial Services,10778,12000766.36,2022,4,chandigarh,Q4 2022
+1755,Others,22054,16141955.57,2022,4,chandigarh,Q4 2022
+1756,Peer-to-peer payments,3601116,9314451112,2019,1,kerala,Q1 2019
+1757,Recharge & bill payments,2180915,498453895.9,2019,1,kerala,Q1 2019
+1758,Merchant payments,550707,371997848.2,2019,1,kerala,Q1 2019
+1759,Financial Services,77652,7808573.898,2019,1,kerala,Q1 2019
+1760,Others,58649,42319704.72,2019,1,kerala,Q1 2019
+1761,Peer-to-peer payments,3519528,11630623424,2019,2,kerala,Q2 2019
+1762,Recharge & bill payments,2711299,768892057.8,2019,2,kerala,Q2 2019
+1763,Merchant payments,937130,569545843,2019,2,kerala,Q2 2019
+1764,Financial Services,38869,5823291.623,2019,2,kerala,Q2 2019
+1765,Others,77000,56486944.63,2019,2,kerala,Q2 2019
+1766,Peer-to-peer payments,4181954,14433990011,2019,3,kerala,Q3 2019
+1767,Recharge & bill payments,3431236,1051007778,2019,3,kerala,Q3 2019
+1768,Merchant payments,1497029,879510566.1,2019,3,kerala,Q3 2019
+1769,Financial Services,96130,8910528.723,2019,3,kerala,Q3 2019
+1770,Others,79747,56390837.6,2019,3,kerala,Q3 2019
+1771,Peer-to-peer payments,5859068,18537483865,2019,4,kerala,Q4 2019
+1772,Recharge & bill payments,4097032,1287955352,2019,4,kerala,Q4 2019
+1773,Merchant payments,2418428,1268704040,2019,4,kerala,Q4 2019
+1774,Financial Services,50728,10816332.76,2019,4,kerala,Q4 2019
+1775,Others,73381,46367047.83,2019,4,kerala,Q4 2019
+1776,Peer-to-peer payments,6634439,22862907702,2020,1,kerala,Q1 2020
+1777,Recharge & bill payments,5507580,1716538277,2020,1,kerala,Q1 2020
+1778,Merchant payments,3485036,1810329140,2020,1,kerala,Q1 2020
+1779,Financial Services,38050,17160614.59,2020,1,kerala,Q1 2020
+1780,Others,68417,44149097.18,2020,1,kerala,Q1 2020
+1781,Recharge & bill payments,7709714,2452435029,2020,2,kerala,Q2 2020
+1782,Peer-to-peer payments,5603046,21309983655,2020,2,kerala,Q2 2020
+1783,Merchant payments,2888260,2075701451,2020,2,kerala,Q2 2020
+1784,Financial Services,40501,32921115.85,2020,2,kerala,Q2 2020
+1785,Others,46446,23037227.73,2020,2,kerala,Q2 2020
+1786,Peer-to-peer payments,8590587,33346812214,2020,3,kerala,Q3 2020
+1787,Recharge & bill payments,7932950,2688361345,2020,3,kerala,Q3 2020
+1788,Merchant payments,5065205,4016995194,2020,3,kerala,Q3 2020
+1789,Financial Services,94130,76828720.82,2020,3,kerala,Q3 2020
+1790,Others,75808,35153178.52,2020,3,kerala,Q3 2020
+1791,Peer-to-peer payments,12941135,45686395928,2020,4,kerala,Q4 2020
+1792,Merchant payments,10990709,7695667407,2020,4,kerala,Q4 2020
+1793,Recharge & bill payments,9167428,3238199948,2020,4,kerala,Q4 2020
+1794,Financial Services,73833,69202344.44,2020,4,kerala,Q4 2020
+1795,Others,115082,65791020.58,2020,4,kerala,Q4 2020
+1796,Peer-to-peer payments,16209203,55336812493,2021,1,kerala,Q1 2021
+1797,Merchant payments,16105923,10058436408,2021,1,kerala,Q1 2021
+1798,Recharge & bill payments,9837385,3732534739,2021,1,kerala,Q1 2021
+1799,Financial Services,68012,69655547.76,2021,1,kerala,Q1 2021
+1800,Others,95819,63530974.16,2021,1,kerala,Q1 2021
+1801,Peer-to-peer payments,17026648,58152644526,2021,2,kerala,Q2 2021
+1802,Merchant payments,16135060,11263178336,2021,2,kerala,Q2 2021
+1803,Recharge & bill payments,13809151,4645548910,2021,2,kerala,Q2 2021
+1804,Financial Services,88830,88370679.95,2021,2,kerala,Q2 2021
+1805,Others,131344,77063984.38,2021,2,kerala,Q2 2021
+1806,Merchant payments,25402350,17877677018,2021,3,kerala,Q3 2021
+1807,Peer-to-peer payments,23378091,78598482306,2021,3,kerala,Q3 2021
+1808,Recharge & bill payments,13979407,5008396079,2021,3,kerala,Q3 2021
+1809,Financial Services,85730,101460242.3,2021,3,kerala,Q3 2021
+1810,Others,182688,100146127.6,2021,3,kerala,Q3 2021
+1811,Merchant payments,38574904,24589454633,2021,4,kerala,Q4 2021
+1812,Peer-to-peer payments,29075528,92774490035,2021,4,kerala,Q4 2021
+1813,Recharge & bill payments,13781815,5689390023,2021,4,kerala,Q4 2021
+1814,Financial Services,108232,128238698.7,2021,4,kerala,Q4 2021
+1815,Others,283262,160563553.8,2021,4,kerala,Q4 2021
+1816,Merchant payments,47778743,28685388646,2022,1,kerala,Q1 2022
+1817,Peer-to-peer payments,33089518,1.05E+11,2022,1,kerala,Q1 2022
+1818,Recharge & bill payments,14042317,6373570716,2022,1,kerala,Q1 2022
+1819,Financial Services,134370,158926455.9,2022,1,kerala,Q1 2022
+1820,Others,236017,147786423.1,2022,1,kerala,Q1 2022
+1821,Merchant payments,55730158,34395023156,2022,2,kerala,Q2 2022
+1822,Peer-to-peer payments,35630060,1.13E+11,2022,2,kerala,Q2 2022
+1823,Recharge & bill payments,14701207,7230489227,2022,2,kerala,Q2 2022
+1824,Financial Services,110336,133436809.9,2022,2,kerala,Q2 2022
+1825,Others,193561,123664236.9,2022,2,kerala,Q2 2022
+1826,Merchant payments,64984061,37852759990,2022,3,kerala,Q3 2022
+1827,Peer-to-peer payments,38774832,1.16E+11,2022,3,kerala,Q3 2022
+1828,Recharge & bill payments,15289755,7709237374,2022,3,kerala,Q3 2022
+1829,Financial Services,146673,162861560.1,2022,3,kerala,Q3 2022
+1830,Others,167583,121557246.1,2022,3,kerala,Q3 2022
+1831,Merchant payments,74647115,40607857086,2022,4,kerala,Q4 2022
+1832,Peer-to-peer payments,42471676,1.25E+11,2022,4,kerala,Q4 2022
+1833,Recharge & bill payments,15520670,8075692517,2022,4,kerala,Q4 2022
+1834,Financial Services,164334,191307058.1,2022,4,kerala,Q4 2022
+1835,Others,156673,120224235,2022,4,kerala,Q4 2022
+1836,Peer-to-peer payments,4068056,11417366152,2019,1,chhattisgarh,Q1 2019
+1837,Recharge & bill payments,2997095,679458794.5,2019,1,chhattisgarh,Q1 2019
+1838,Merchant payments,710047,374735986.9,2019,1,chhattisgarh,Q1 2019
+1839,Financial Services,33835,5075418.743,2019,1,chhattisgarh,Q1 2019
+1840,Others,78636,67920032.8,2019,1,chhattisgarh,Q1 2019
+1841,Peer-to-peer payments,4350167,15410038390,2019,2,chhattisgarh,Q2 2019
+1842,Recharge & bill payments,3435305,855753107.5,2019,2,chhattisgarh,Q2 2019
+1843,Merchant payments,1483870,654411637,2019,2,chhattisgarh,Q2 2019
+1844,Financial Services,22563,4237631.554,2019,2,chhattisgarh,Q2 2019
+1845,Others,98040,77914922.92,2019,2,chhattisgarh,Q2 2019
+1846,Peer-to-peer payments,5021844,17584630268,2019,3,chhattisgarh,Q3 2019
+1847,Recharge & bill payments,4335851,1069468754,2019,3,chhattisgarh,Q3 2019
+1848,Merchant payments,2772084,1074255589,2019,3,chhattisgarh,Q3 2019
+1849,Financial Services,16452,4542997.939,2019,3,chhattisgarh,Q3 2019
+1850,Others,96880,70361559.29,2019,3,chhattisgarh,Q3 2019
+1851,Peer-to-peer payments,7241974,24112075521,2019,4,chhattisgarh,Q4 2019
+1852,Recharge & bill payments,5112337,1257371455,2019,4,chhattisgarh,Q4 2019
+1853,Merchant payments,3852716,1720930748,2019,4,chhattisgarh,Q4 2019
+1854,Financial Services,14974,4665759.804,2019,4,chhattisgarh,Q4 2019
+1855,Others,83757,48745253.9,2019,4,chhattisgarh,Q4 2019
+1856,Peer-to-peer payments,8109789,28723854869,2020,1,chhattisgarh,Q1 2020
+1857,Recharge & bill payments,6400067,1688995018,2020,1,chhattisgarh,Q1 2020
+1858,Merchant payments,4923214,2393811867,2020,1,chhattisgarh,Q1 2020
+1859,Financial Services,12424,7378557.223,2020,1,chhattisgarh,Q1 2020
+1860,Others,78497,46557359.68,2020,1,chhattisgarh,Q1 2020
+1861,Recharge & bill payments,8366200,2504355747,2020,2,chhattisgarh,Q2 2020
+1862,Peer-to-peer payments,7216219,27351810048,2020,2,chhattisgarh,Q2 2020
+1863,Merchant payments,3158417,2361252112,2020,2,chhattisgarh,Q2 2020
+1864,Financial Services,19986,17814454.61,2020,2,chhattisgarh,Q2 2020
+1865,Others,60103,33149845.44,2020,2,chhattisgarh,Q2 2020
+1866,Peer-to-peer payments,9734445,34661165923,2020,3,chhattisgarh,Q3 2020
+1867,Recharge & bill payments,8705513,2790720003,2020,3,chhattisgarh,Q3 2020
+1868,Merchant payments,5591916,3990179454,2020,3,chhattisgarh,Q3 2020
+1869,Financial Services,34893,39141096.45,2020,3,chhattisgarh,Q3 2020
+1870,Others,81772,45538330.63,2020,3,chhattisgarh,Q3 2020
+1871,Peer-to-peer payments,14257312,50812302053,2020,4,chhattisgarh,Q4 2020
+1872,Merchant payments,11677743,8238390462,2020,4,chhattisgarh,Q4 2020
+1873,Recharge & bill payments,9423324,3033918783,2020,4,chhattisgarh,Q4 2020
+1874,Financial Services,41308,48082346.06,2020,4,chhattisgarh,Q4 2020
+1875,Others,129949,82280639.52,2020,4,chhattisgarh,Q4 2020
+1876,Peer-to-peer payments,15621154,55638916992,2021,1,chhattisgarh,Q1 2021
+1877,Merchant payments,15222763,10661449529,2021,1,chhattisgarh,Q1 2021
+1878,Recharge & bill payments,8456094,3000977539,2021,1,chhattisgarh,Q1 2021
+1879,Financial Services,37395,40387648.84,2021,1,chhattisgarh,Q1 2021
+1880,Others,99031,68111552.62,2021,1,chhattisgarh,Q1 2021
+1881,Peer-to-peer payments,18387345,62134058797,2021,2,chhattisgarh,Q2 2021
+1882,Merchant payments,15369311,12828590762,2021,2,chhattisgarh,Q2 2021
+1883,Recharge & bill payments,10764784,3640692364,2021,2,chhattisgarh,Q2 2021
+1884,Financial Services,40213,39620256.36,2021,2,chhattisgarh,Q2 2021
+1885,Others,127767,85809079.55,2021,2,chhattisgarh,Q2 2021
+1886,Merchant payments,27552743,19905616747,2021,3,chhattisgarh,Q3 2021
+1887,Peer-to-peer payments,25447410,80506858751,2021,3,chhattisgarh,Q3 2021
+1888,Recharge & bill payments,11039088,4045490947,2021,3,chhattisgarh,Q3 2021
+1889,Financial Services,38817,48855662.4,2021,3,chhattisgarh,Q3 2021
+1890,Others,159880,99286155,2021,3,chhattisgarh,Q3 2021
+1891,Merchant payments,40526025,29283695601,2021,4,chhattisgarh,Q4 2021
+1892,Peer-to-peer payments,32799167,1.02E+11,2021,4,chhattisgarh,Q4 2021
+1893,Recharge & bill payments,11115444,4724827140,2021,4,chhattisgarh,Q4 2021
+1894,Financial Services,55237,66445873.3,2021,4,chhattisgarh,Q4 2021
+1895,Others,221621,146144588.7,2021,4,chhattisgarh,Q4 2021
+1896,Merchant payments,48236094,33822547183,2022,1,chhattisgarh,Q1 2022
+1897,Peer-to-peer payments,37457039,1.18E+11,2022,1,chhattisgarh,Q1 2022
+1898,Recharge & bill payments,11466264,5442872986,2022,1,chhattisgarh,Q1 2022
+1899,Financial Services,52918,55991695.31,2022,1,chhattisgarh,Q1 2022
+1900,Others,200977,131773069.8,2022,1,chhattisgarh,Q1 2022
+1901,Merchant payments,61093916,41536371584,2022,2,chhattisgarh,Q2 2022
+1902,Peer-to-peer payments,42532112,1.34E+11,2022,2,chhattisgarh,Q2 2022
+1903,Recharge & bill payments,12737942,5949415520,2022,2,chhattisgarh,Q2 2022
+1904,Financial Services,41530,46037703.16,2022,2,chhattisgarh,Q2 2022
+1905,Others,178548,114905117.8,2022,2,chhattisgarh,Q2 2022
+1906,Merchant payments,84355775,50874051122,2022,3,chhattisgarh,Q3 2022
+1907,Peer-to-peer payments,57116149,1.61E+11,2022,3,chhattisgarh,Q3 2022
+1908,Recharge & bill payments,16538894,8069941553,2022,3,chhattisgarh,Q3 2022
+1909,Financial Services,55775,61881709.74,2022,3,chhattisgarh,Q3 2022
+1910,Others,185994,128469268.6,2022,3,chhattisgarh,Q3 2022
+1911,Merchant payments,97405954,60247141798,2022,4,chhattisgarh,Q4 2022
+1912,Peer-to-peer payments,63986789,1.84E+11,2022,4,chhattisgarh,Q4 2022
+1913,Recharge & bill payments,16324117,8376603987,2022,4,chhattisgarh,Q4 2022
+1914,Financial Services,63695,81169069.23,2022,4,chhattisgarh,Q4 2022
+1915,Others,179891,141385263.4,2022,4,chhattisgarh,Q4 2022
+1916,Peer-to-peer payments,296993,679165332.8,2019,1,tripura,Q1 2019
+1917,Recharge & bill payments,227997,44429378.42,2019,1,tripura,Q1 2019
+1918,Merchant payments,46642,28109966.32,2019,1,tripura,Q1 2019
+1919,Financial Services,4189,461473.5886,2019,1,tripura,Q1 2019
+1920,Others,5105,4728790.472,2019,1,tripura,Q1 2019
+1921,Peer-to-peer payments,240776,751113516.2,2019,2,tripura,Q2 2019
+1922,Recharge & bill payments,218649,48989430.61,2019,2,tripura,Q2 2019
+1923,Merchant payments,64829,35275706.83,2019,2,tripura,Q2 2019
+1924,Financial Services,1899,339184.3345,2019,2,tripura,Q2 2019
+1925,Others,6405,6103644.851,2019,2,tripura,Q2 2019
+1926,Recharge & bill payments,339539,81845425.35,2019,3,tripura,Q3 2019
+1927,Peer-to-peer payments,270163,884623553.9,2019,3,tripura,Q3 2019
+1928,Merchant payments,68399,44802063.64,2019,3,tripura,Q3 2019
+1929,Financial Services,27970,582020.9903,2019,3,tripura,Q3 2019
+1930,Others,5646,5524358.927,2019,3,tripura,Q3 2019
+1931,Recharge & bill payments,373779,88001651.29,2019,4,tripura,Q4 2019
+1932,Peer-to-peer payments,359076,1071507586,2019,4,tripura,Q4 2019
+1933,Merchant payments,62458,51274033.72,2019,4,tripura,Q4 2019
+1934,Financial Services,2239,377097.6671,2019,4,tripura,Q4 2019
+1935,Others,4272,4239791.585,2019,4,tripura,Q4 2019
+1936,Recharge & bill payments,449584,114355218,2020,1,tripura,Q1 2020
+1937,Peer-to-peer payments,366218,1400694934,2020,1,tripura,Q1 2020
+1938,Merchant payments,102861,68590603.64,2020,1,tripura,Q1 2020
+1939,Financial Services,1722,1066651.522,2020,1,tripura,Q1 2020
+1940,Others,4117,4071399.624,2020,1,tripura,Q1 2020
+1941,Recharge & bill payments,600206,163220166.8,2020,2,tripura,Q2 2020
+1942,Peer-to-peer payments,346863,1501452756,2020,2,tripura,Q2 2020
+1943,Merchant payments,97816,99795973.61,2020,2,tripura,Q2 2020
+1944,Financial Services,2904,2247782.522,2020,2,tripura,Q2 2020
+1945,Others,4731,2459205.001,2020,2,tripura,Q2 2020
+1946,Recharge & bill payments,627363,185201997.3,2020,3,tripura,Q3 2020
+1947,Peer-to-peer payments,477769,1959371083,2020,3,tripura,Q3 2020
+1948,Merchant payments,202106,190218136.3,2020,3,tripura,Q3 2020
+1949,Financial Services,3828,3141391.576,2020,3,tripura,Q3 2020
+1950,Others,6819,3886908.163,2020,3,tripura,Q3 2020
+1951,Peer-to-peer payments,650386,2683789890,2020,4,tripura,Q4 2020
+1952,Recharge & bill payments,631611,192385823.4,2020,4,tripura,Q4 2020
+1953,Merchant payments,357567,296872485.4,2020,4,tripura,Q4 2020
+1954,Financial Services,4084,3666639.309,2020,4,tripura,Q4 2020
+1955,Others,8242,5416158.233,2020,4,tripura,Q4 2020
+1956,Peer-to-peer payments,643366,2821226151,2021,1,tripura,Q1 2021
+1957,Recharge & bill payments,508718,173211140.9,2021,1,tripura,Q1 2021
+1958,Merchant payments,350366,333743281.3,2021,1,tripura,Q1 2021
+1959,Financial Services,3146,2879929.223,2021,1,tripura,Q1 2021
+1960,Others,5827,4281067.764,2021,1,tripura,Q1 2021
+1961,Peer-to-peer payments,703728,2865655130,2021,2,tripura,Q2 2021
+1962,Recharge & bill payments,589839,189808502.9,2021,2,tripura,Q2 2021
+1963,Merchant payments,440060,404915546.5,2021,2,tripura,Q2 2021
+1964,Financial Services,3656,3503925.338,2021,2,tripura,Q2 2021
+1965,Others,7146,4271255.844,2021,2,tripura,Q2 2021
+1966,Peer-to-peer payments,864329,3491901741,2021,3,tripura,Q3 2021
+1967,Recharge & bill payments,620991,215226019.6,2021,3,tripura,Q3 2021
+1968,Merchant payments,584079,648504775.6,2021,3,tripura,Q3 2021
+1969,Financial Services,2886,3473153.088,2021,3,tripura,Q3 2021
+1970,Others,8915,5028078.735,2021,3,tripura,Q3 2021
+1971,Peer-to-peer payments,1060915,4368786747,2021,4,tripura,Q4 2021
+1972,Merchant payments,793636,874005407.7,2021,4,tripura,Q4 2021
+1973,Recharge & bill payments,650251,241225282.1,2021,4,tripura,Q4 2021
+1974,Financial Services,3635,5073898.608,2021,4,tripura,Q4 2021
+1975,Others,12256,7838128.8,2021,4,tripura,Q4 2021
+1976,Peer-to-peer payments,1221863,4934712034,2022,1,tripura,Q1 2022
+1977,Merchant payments,992891,1037265263,2022,1,tripura,Q1 2022
+1978,Recharge & bill payments,641170,262348231,2022,1,tripura,Q1 2022
+1979,Financial Services,4351,5782533.242,2022,1,tripura,Q1 2022
+1980,Others,10915,7221703.09,2022,1,tripura,Q1 2022
+1981,Peer-to-peer payments,1443647,5354182194,2022,2,tripura,Q2 2022
+1982,Merchant payments,1322009,1235804020,2022,2,tripura,Q2 2022
+1983,Recharge & bill payments,638643,278018856.2,2022,2,tripura,Q2 2022
+1984,Financial Services,3812,4533635.769,2022,2,tripura,Q2 2022
+1985,Others,10553,5732336.736,2022,2,tripura,Q2 2022
+1986,Peer-to-peer payments,1836678,6718925839,2022,3,tripura,Q3 2022
+1987,Merchant payments,1660497,1589078400,2022,3,tripura,Q3 2022
+1988,Recharge & bill payments,745382,329401812.4,2022,3,tripura,Q3 2022
+1989,Financial Services,4343,5330626.12,2022,3,tripura,Q3 2022
+1990,Others,9679,5616127.068,2022,3,tripura,Q3 2022
+1991,Peer-to-peer payments,2252390,8142233538,2022,4,tripura,Q4 2022
+1992,Merchant payments,2054988,1925282619,2022,4,tripura,Q4 2022
+1993,Recharge & bill payments,874800,373875271.2,2022,4,tripura,Q4 2022
+1994,Financial Services,5787,5028488.555,2022,4,tripura,Q4 2022
+1995,Others,10225,6551901.176,2022,4,tripura,Q4 2022
+1996,Peer-to-peer payments,35126,204183867.4,2019,1,mizoram,Q1 2019
+1997,Recharge & bill payments,30327,6760113.704,2019,1,mizoram,Q1 2019
+1998,Merchant payments,3984,6470456.032,2019,1,mizoram,Q1 2019
+1999,Financial Services,133,33512.39607,2019,1,mizoram,Q1 2019
+2000,Others,736,712945.8536,2019,1,mizoram,Q1 2019
+2001,Peer-to-peer payments,37364,233471780,2019,2,mizoram,Q2 2019
+2002,Recharge & bill payments,31903,7823562.398,2019,2,mizoram,Q2 2019
+2003,Merchant payments,5646,5889316.861,2019,2,mizoram,Q2 2019
+2004,Financial Services,80,14455.38099,2019,2,mizoram,Q2 2019
+2005,Others,678,817593.4915,2019,2,mizoram,Q2 2019
+2006,Recharge & bill payments,49073,12966806.7,2019,3,mizoram,Q3 2019
+2007,Peer-to-peer payments,42645,257538220.2,2019,3,mizoram,Q3 2019
+2008,Merchant payments,5560,7397529.021,2019,3,mizoram,Q3 2019
+2009,Financial Services,94,72985.31151,2019,3,mizoram,Q3 2019
+2010,Others,722,818358.6945,2019,3,mizoram,Q3 2019
+2011,Recharge & bill payments,60511,16857122.31,2019,4,mizoram,Q4 2019
+2012,Peer-to-peer payments,57109,341664291.5,2019,4,mizoram,Q4 2019
+2013,Merchant payments,6939,9451111.139,2019,4,mizoram,Q4 2019
+2014,Financial Services,100,20966.33331,2019,4,mizoram,Q4 2019
+2015,Others,580,695859.3608,2019,4,mizoram,Q4 2019
+2016,Recharge & bill payments,85067,24356294.59,2020,1,mizoram,Q1 2020
+2017,Peer-to-peer payments,57916,356260523.2,2020,1,mizoram,Q1 2020
+2018,Merchant payments,9961,10404414.59,2020,1,mizoram,Q1 2020
+2019,Financial Services,119,283854.3188,2020,1,mizoram,Q1 2020
+2020,Others,546,772492.6204,2020,1,mizoram,Q1 2020
+2021,Recharge & bill payments,127592,37504550.78,2020,2,mizoram,Q2 2020
+2022,Peer-to-peer payments,60021,404110075.1,2020,2,mizoram,Q2 2020
+2023,Merchant payments,10056,14627463.66,2020,2,mizoram,Q2 2020
+2024,Financial Services,244,434960.2799,2020,2,mizoram,Q2 2020
+2025,Others,549,516383.6344,2020,2,mizoram,Q2 2020
+2026,Recharge & bill payments,132664,40941077.03,2020,3,mizoram,Q3 2020
+2027,Peer-to-peer payments,99644,634560147.4,2020,3,mizoram,Q3 2020
+2028,Merchant payments,20934,30693648.24,2020,3,mizoram,Q3 2020
+2029,Financial Services,535,824864.5131,2020,3,mizoram,Q3 2020
+2030,Others,926,924438.3715,2020,3,mizoram,Q3 2020
+2031,Peer-to-peer payments,141038,887252744.1,2020,4,mizoram,Q4 2020
+2032,Recharge & bill payments,140297,45386403.17,2020,4,mizoram,Q4 2020
+2033,Merchant payments,39676,52094800.57,2020,4,mizoram,Q4 2020
+2034,Financial Services,607,855201.5881,2020,4,mizoram,Q4 2020
+2035,Others,989,932966.3003,2020,4,mizoram,Q4 2020
+2036,Peer-to-peer payments,156386,982955112.2,2021,1,mizoram,Q1 2021
+2037,Recharge & bill payments,128055,45558278.22,2021,1,mizoram,Q1 2021
+2038,Merchant payments,43511,70289687.95,2021,1,mizoram,Q1 2021
+2039,Financial Services,648,1330632.979,2021,1,mizoram,Q1 2021
+2040,Others,975,971875.6084,2021,1,mizoram,Q1 2021
+2041,Peer-to-peer payments,173064,995581952.9,2021,2,mizoram,Q2 2021
+2042,Recharge & bill payments,161763,56059844.24,2021,2,mizoram,Q2 2021
+2043,Merchant payments,57877,69528721.4,2021,2,mizoram,Q2 2021
+2044,Financial Services,611,710657.5066,2021,2,mizoram,Q2 2021
+2045,Others,1025,993297.2509,2021,2,mizoram,Q2 2021
+2046,Peer-to-peer payments,224873,1290523196,2021,3,mizoram,Q3 2021
+2047,Recharge & bill payments,177281,67493206.62,2021,3,mizoram,Q3 2021
+2048,Merchant payments,74553,113697005.9,2021,3,mizoram,Q3 2021
+2049,Financial Services,522,806905.9729,2021,3,mizoram,Q3 2021
+2050,Others,1300,1228335.458,2021,3,mizoram,Q3 2021
+2051,Peer-to-peer payments,272209,1545255603,2021,4,mizoram,Q4 2021
+2052,Recharge & bill payments,179405,67548806.85,2021,4,mizoram,Q4 2021
+2053,Merchant payments,99265,154183940.7,2021,4,mizoram,Q4 2021
+2054,Financial Services,695,2202285.708,2021,4,mizoram,Q4 2021
+2055,Others,1755,1475104.828,2021,4,mizoram,Q4 2021
+2056,Peer-to-peer payments,302740,1691281090,2022,1,mizoram,Q1 2022
+2057,Recharge & bill payments,190137,76541062.34,2022,1,mizoram,Q1 2022
+2058,Merchant payments,109669,174157725.4,2022,1,mizoram,Q1 2022
+2059,Financial Services,731,1657575.283,2022,1,mizoram,Q1 2022
+2060,Others,1640,1521510.587,2022,1,mizoram,Q1 2022
+2061,Peer-to-peer payments,332102,1739114390,2022,2,mizoram,Q2 2022
+2062,Recharge & bill payments,172281,70775723.35,2022,2,mizoram,Q2 2022
+2063,Merchant payments,137279,191484723.8,2022,2,mizoram,Q2 2022
+2064,Financial Services,656,801633.2115,2022,2,mizoram,Q2 2022
+2065,Others,1659,1010096.481,2022,2,mizoram,Q2 2022
+2066,Peer-to-peer payments,349715,1665955695,2022,3,mizoram,Q3 2022
+2067,Recharge & bill payments,156874,68463689.8,2022,3,mizoram,Q3 2022
+2068,Merchant payments,150320,209934220.3,2022,3,mizoram,Q3 2022
+2069,Financial Services,802,880187.5513,2022,3,mizoram,Q3 2022
+2070,Others,1327,1031819.444,2022,3,mizoram,Q3 2022
+2071,Peer-to-peer payments,378295,1750113148,2022,4,mizoram,Q4 2022
+2072,Merchant payments,164389,222455759.2,2022,4,mizoram,Q4 2022
+2073,Recharge & bill payments,148573,63477925.04,2022,4,mizoram,Q4 2022
+2074,Financial Services,932,949850.1989,2022,4,mizoram,Q4 2022
+2075,Others,1585,914402.5369,2022,4,mizoram,Q4 2022
+2076,Peer-to-peer payments,1178280,3066233588,2019,1,himachal-pradesh,Q1 2019
+2077,Recharge & bill payments,844570,209521987,2019,1,himachal-pradesh,Q1 2019
+2078,Merchant payments,115553,86624660.31,2019,1,himachal-pradesh,Q1 2019
+2079,Financial Services,9585,1424229.999,2019,1,himachal-pradesh,Q1 2019
+2080,Others,20730,17676977.72,2019,1,himachal-pradesh,Q1 2019
+2081,Peer-to-peer payments,1141873,4428007671,2019,2,himachal-pradesh,Q2 2019
+2082,Recharge & bill payments,1076793,279864580,2019,2,himachal-pradesh,Q2 2019
+2083,Merchant payments,248517,141088575.9,2019,2,himachal-pradesh,Q2 2019
+2084,Financial Services,5013,1453651.535,2019,2,himachal-pradesh,Q2 2019
+2085,Others,30110,25469495.27,2019,2,himachal-pradesh,Q2 2019
+2086,Recharge & bill payments,1212659,327570067,2019,3,himachal-pradesh,Q3 2019
+2087,Peer-to-peer payments,1181680,5039276845,2019,3,himachal-pradesh,Q3 2019
+2088,Merchant payments,312575,182746198.2,2019,3,himachal-pradesh,Q3 2019
+2089,Financial Services,3096,1775673.971,2019,3,himachal-pradesh,Q3 2019
+2090,Others,25170,20649996.7,2019,3,himachal-pradesh,Q3 2019
+2091,Peer-to-peer payments,1579582,6533855301,2019,4,himachal-pradesh,Q4 2019
+2092,Recharge & bill payments,1442940,402619115,2019,4,himachal-pradesh,Q4 2019
+2093,Merchant payments,467309,314965060.6,2019,4,himachal-pradesh,Q4 2019
+2094,Financial Services,4576,1769641.967,2019,4,himachal-pradesh,Q4 2019
+2095,Others,22239,17954418.58,2019,4,himachal-pradesh,Q4 2019
+2096,Recharge & bill payments,1815157,542356757,2020,1,himachal-pradesh,Q1 2020
+2097,Peer-to-peer payments,1594806,6431826925,2020,1,himachal-pradesh,Q1 2020
+2098,Merchant payments,711018,427497010.1,2020,1,himachal-pradesh,Q1 2020
+2099,Financial Services,4711,3172303.69,2020,1,himachal-pradesh,Q1 2020
+2100,Others,18788,14613755.24,2020,1,himachal-pradesh,Q1 2020
+2101,Recharge & bill payments,2558935,802231470.2,2020,2,himachal-pradesh,Q2 2020
+2102,Peer-to-peer payments,1544488,6738488219,2020,2,himachal-pradesh,Q2 2020
+2103,Merchant payments,570031,479165630.6,2020,2,himachal-pradesh,Q2 2020
+2104,Financial Services,7634,7359757.738,2020,2,himachal-pradesh,Q2 2020
+2105,Others,14642,9659685.393,2020,2,himachal-pradesh,Q2 2020
+2106,Recharge & bill payments,2416395,834567922.3,2020,3,himachal-pradesh,Q3 2020
+2107,Peer-to-peer payments,1954492,8806586537,2020,3,himachal-pradesh,Q3 2020
+2108,Merchant payments,1090445,851539467.3,2020,3,himachal-pradesh,Q3 2020
+2109,Financial Services,9543,11391079.29,2020,3,himachal-pradesh,Q3 2020
+2110,Others,19001,11969008.53,2020,3,himachal-pradesh,Q3 2020
+2111,Recharge & bill payments,2638030,936305777.7,2020,4,himachal-pradesh,Q4 2020
+2112,Peer-to-peer payments,2594659,11426268857,2020,4,himachal-pradesh,Q4 2020
+2113,Merchant payments,2001259,1589433440,2020,4,himachal-pradesh,Q4 2020
+2114,Financial Services,11353,15534252.22,2020,4,himachal-pradesh,Q4 2020
+2115,Others,27027,21510781.37,2020,4,himachal-pradesh,Q4 2020
+2116,Peer-to-peer payments,2845733,11358078844,2021,1,himachal-pradesh,Q1 2021
+2117,Recharge & bill payments,2547359,948929031.6,2021,1,himachal-pradesh,Q1 2021
+2118,Merchant payments,2186946,1778219851,2021,1,himachal-pradesh,Q1 2021
+2119,Financial Services,12561,16554205.5,2021,1,himachal-pradesh,Q1 2021
+2120,Others,21430,18764977.93,2021,1,himachal-pradesh,Q1 2021
+2121,Peer-to-peer payments,3340531,13035543547,2021,2,himachal-pradesh,Q2 2021
+2122,Recharge & bill payments,3216602,1045789842,2021,2,himachal-pradesh,Q2 2021
+2123,Merchant payments,2883209,2378084375,2021,2,himachal-pradesh,Q2 2021
+2124,Financial Services,14642,16428390.62,2021,2,himachal-pradesh,Q2 2021
+2125,Others,28918,19788385.41,2021,2,himachal-pradesh,Q2 2021
+2126,Peer-to-peer payments,4455153,16560383923,2021,3,himachal-pradesh,Q3 2021
+2127,Merchant payments,4198808,3524434950,2021,3,himachal-pradesh,Q3 2021
+2128,Recharge & bill payments,3359406,1178802737,2021,3,himachal-pradesh,Q3 2021
+2129,Financial Services,14497,22805774.6,2021,3,himachal-pradesh,Q3 2021
+2130,Others,36303,23834687.16,2021,3,himachal-pradesh,Q3 2021
+2131,Merchant payments,6062931,5228613147,2021,4,himachal-pradesh,Q4 2021
+2132,Peer-to-peer payments,5323397,19568394325,2021,4,himachal-pradesh,Q4 2021
+2133,Recharge & bill payments,3211367,1278824362,2021,4,himachal-pradesh,Q4 2021
+2134,Financial Services,18198,24809740.71,2021,4,himachal-pradesh,Q4 2021
+2135,Others,50971,35578926.75,2021,4,himachal-pradesh,Q4 2021
+2136,Merchant payments,7030946,5558905678,2022,1,himachal-pradesh,Q1 2022
+2137,Peer-to-peer payments,5718936,19473276901,2022,1,himachal-pradesh,Q1 2022
+2138,Recharge & bill payments,3271665,1429960687,2022,1,himachal-pradesh,Q1 2022
+2139,Financial Services,19314,24442138.15,2022,1,himachal-pradesh,Q1 2022
+2140,Others,47319,31862035.71,2022,1,himachal-pradesh,Q1 2022
+2141,Merchant payments,10591420,7697399368,2022,2,himachal-pradesh,Q2 2022
+2142,Peer-to-peer payments,7109948,24407668318,2022,2,himachal-pradesh,Q2 2022
+2143,Recharge & bill payments,3520538,1553155243,2022,2,himachal-pradesh,Q2 2022
+2144,Financial Services,16901,20627276.08,2022,2,himachal-pradesh,Q2 2022
+2145,Others,52564,30257752.66,2022,2,himachal-pradesh,Q2 2022
+2146,Merchant payments,12686960,8511266153,2022,3,himachal-pradesh,Q3 2022
+2147,Peer-to-peer payments,8330778,27039659316,2022,3,himachal-pradesh,Q3 2022
+2148,Recharge & bill payments,4083168,1780405740,2022,3,himachal-pradesh,Q3 2022
+2149,Financial Services,21293,22686931.87,2022,3,himachal-pradesh,Q3 2022
+2150,Others,42669,26764547.14,2022,3,himachal-pradesh,Q3 2022
+2151,Merchant payments,15297492,10280295884,2022,4,himachal-pradesh,Q4 2022
+2152,Peer-to-peer payments,9284824,29629346092,2022,4,himachal-pradesh,Q4 2022
+2153,Recharge & bill payments,3907023,1810538524,2022,4,himachal-pradesh,Q4 2022
+2154,Financial Services,24342,31775337.44,2022,4,himachal-pradesh,Q4 2022
+2155,Others,41455,27387394.98,2022,4,himachal-pradesh,Q4 2022
+2156,Peer-to-peer payments,408465,757657638.3,2019,1,dadra-&-nagar-haveli-&-daman-&-diu,Q1 2019
+2157,Recharge & bill payments,225998,62660761.89,2019,1,dadra-&-nagar-haveli-&-daman-&-diu,Q1 2019
+2158,Merchant payments,20694,17043867.89,2019,1,dadra-&-nagar-haveli-&-daman-&-diu,Q1 2019
+2159,Financial Services,1645,221064.6189,2019,1,dadra-&-nagar-haveli-&-daman-&-diu,Q1 2019
+2160,Others,5012,5786443.339,2019,1,dadra-&-nagar-haveli-&-daman-&-diu,Q1 2019
+2161,Peer-to-peer payments,244134,734034142.8,2019,2,dadra-&-nagar-haveli-&-daman-&-diu,Q2 2019
+2162,Recharge & bill payments,198184,63874445.55,2019,2,dadra-&-nagar-haveli-&-daman-&-diu,Q2 2019
+2163,Merchant payments,40781,20816136.24,2019,2,dadra-&-nagar-haveli-&-daman-&-diu,Q2 2019
+2164,Financial Services,748,155149.7562,2019,2,dadra-&-nagar-haveli-&-daman-&-diu,Q2 2019
+2165,Others,5809,5561402.206,2019,2,dadra-&-nagar-haveli-&-daman-&-diu,Q2 2019
+2166,Recharge & bill payments,319142,104597035.1,2019,3,dadra-&-nagar-haveli-&-daman-&-diu,Q3 2019
+2167,Peer-to-peer payments,249944,821178569.1,2019,3,dadra-&-nagar-haveli-&-daman-&-diu,Q3 2019
+2168,Merchant payments,63616,30634658.24,2019,3,dadra-&-nagar-haveli-&-daman-&-diu,Q3 2019
+2169,Financial Services,533,425044.0514,2019,3,dadra-&-nagar-haveli-&-daman-&-diu,Q3 2019
+2170,Others,5516,4636167.42,2019,3,dadra-&-nagar-haveli-&-daman-&-diu,Q3 2019
+2171,Recharge & bill payments,351819,125809568.4,2019,4,dadra-&-nagar-haveli-&-daman-&-diu,Q4 2019
+2172,Peer-to-peer payments,324464,1051976411,2019,4,dadra-&-nagar-haveli-&-daman-&-diu,Q4 2019
+2173,Merchant payments,86758,45361559.24,2019,4,dadra-&-nagar-haveli-&-daman-&-diu,Q4 2019
+2174,Financial Services,1019,267762.4906,2019,4,dadra-&-nagar-haveli-&-daman-&-diu,Q4 2019
+2175,Others,4911,3225961.384,2019,4,dadra-&-nagar-haveli-&-daman-&-diu,Q4 2019
+2176,Recharge & bill payments,407577,153340696.3,2020,1,dadra-&-nagar-haveli-&-daman-&-diu,Q1 2020
+2177,Peer-to-peer payments,329005,1119439490,2020,1,dadra-&-nagar-haveli-&-daman-&-diu,Q1 2020
+2178,Merchant payments,137040,66713356.8,2020,1,dadra-&-nagar-haveli-&-daman-&-diu,Q1 2020
+2179,Financial Services,668,418783.1261,2020,1,dadra-&-nagar-haveli-&-daman-&-diu,Q1 2020
+2180,Others,4289,2851043.564,2020,1,dadra-&-nagar-haveli-&-daman-&-diu,Q1 2020
+2181,Recharge & bill payments,525974,178877986.7,2020,2,dadra-&-nagar-haveli-&-daman-&-diu,Q2 2020
+2182,Peer-to-peer payments,323909,1052118443,2020,2,dadra-&-nagar-haveli-&-daman-&-diu,Q2 2020
+2183,Merchant payments,118801,68938500.71,2020,2,dadra-&-nagar-haveli-&-daman-&-diu,Q2 2020
+2184,Financial Services,1826,993268.2972,2020,2,dadra-&-nagar-haveli-&-daman-&-diu,Q2 2020
+2185,Others,2642,1448254.787,2020,2,dadra-&-nagar-haveli-&-daman-&-diu,Q2 2020
+2186,Recharge & bill payments,455603,201223380.2,2020,3,dadra-&-nagar-haveli-&-daman-&-diu,Q3 2020
+2187,Peer-to-peer payments,419524,1401020928,2020,3,dadra-&-nagar-haveli-&-daman-&-diu,Q3 2020
+2188,Merchant payments,257572,143497844.5,2020,3,dadra-&-nagar-haveli-&-daman-&-diu,Q3 2020
+2189,Financial Services,1635,1778864.012,2020,3,dadra-&-nagar-haveli-&-daman-&-diu,Q3 2020
+2190,Others,3978,2268098.078,2020,3,dadra-&-nagar-haveli-&-daman-&-diu,Q3 2020
+2191,Peer-to-peer payments,666995,2153786523,2020,4,dadra-&-nagar-haveli-&-daman-&-diu,Q4 2020
+2192,Merchant payments,631443,316510115.8,2020,4,dadra-&-nagar-haveli-&-daman-&-diu,Q4 2020
+2193,Recharge & bill payments,509971,224246669.8,2020,4,dadra-&-nagar-haveli-&-daman-&-diu,Q4 2020
+2194,Financial Services,2453,1683959.51,2020,4,dadra-&-nagar-haveli-&-daman-&-diu,Q4 2020
+2195,Others,6929,4283833.187,2020,4,dadra-&-nagar-haveli-&-daman-&-diu,Q4 2020
+2196,Peer-to-peer payments,768921,2379220756,2021,1,dadra-&-nagar-haveli-&-daman-&-diu,Q1 2021
+2197,Merchant payments,705821,367522132.4,2021,1,dadra-&-nagar-haveli-&-daman-&-diu,Q1 2021
+2198,Recharge & bill payments,442926,213177144.7,2021,1,dadra-&-nagar-haveli-&-daman-&-diu,Q1 2021
+2199,Financial Services,2243,1930008.972,2021,1,dadra-&-nagar-haveli-&-daman-&-diu,Q1 2021
+2200,Others,5333,3782868.886,2021,1,dadra-&-nagar-haveli-&-daman-&-diu,Q1 2021
+2201,Peer-to-peer payments,843550,2512913026,2021,2,dadra-&-nagar-haveli-&-daman-&-diu,Q2 2021
+2202,Merchant payments,802899,430487473.9,2021,2,dadra-&-nagar-haveli-&-daman-&-diu,Q2 2021
+2203,Recharge & bill payments,471136,208762964,2021,2,dadra-&-nagar-haveli-&-daman-&-diu,Q2 2021
+2204,Financial Services,1826,1763792.651,2021,2,dadra-&-nagar-haveli-&-daman-&-diu,Q2 2021
+2205,Others,5672,3741204.398,2021,2,dadra-&-nagar-haveli-&-daman-&-diu,Q2 2021
+2206,Merchant payments,1312241,706774071.9,2021,3,dadra-&-nagar-haveli-&-daman-&-diu,Q3 2021
+2207,Peer-to-peer payments,1262732,3339347400,2021,3,dadra-&-nagar-haveli-&-daman-&-diu,Q3 2021
+2208,Recharge & bill payments,544322,253199754.9,2021,3,dadra-&-nagar-haveli-&-daman-&-diu,Q3 2021
+2209,Financial Services,2065,2252116.636,2021,3,dadra-&-nagar-haveli-&-daman-&-diu,Q3 2021
+2210,Others,8110,4365759.278,2021,3,dadra-&-nagar-haveli-&-daman-&-diu,Q3 2021
+2211,Merchant payments,2013673,1058989463,2021,4,dadra-&-nagar-haveli-&-daman-&-diu,Q4 2021
+2212,Peer-to-peer payments,1577168,4202291072,2021,4,dadra-&-nagar-haveli-&-daman-&-diu,Q4 2021
+2213,Recharge & bill payments,551618,294991582.2,2021,4,dadra-&-nagar-haveli-&-daman-&-diu,Q4 2021
+2214,Financial Services,2909,3159306.418,2021,4,dadra-&-nagar-haveli-&-daman-&-diu,Q4 2021
+2215,Others,11717,6407962.869,2021,4,dadra-&-nagar-haveli-&-daman-&-diu,Q4 2021
+2216,Merchant payments,2507246,1227972830,2022,1,dadra-&-nagar-haveli-&-daman-&-diu,Q1 2022
+2217,Peer-to-peer payments,1745454,4674787018,2022,1,dadra-&-nagar-haveli-&-daman-&-diu,Q1 2022
+2218,Recharge & bill payments,538134,326296370.8,2022,1,dadra-&-nagar-haveli-&-daman-&-diu,Q1 2022
+2219,Financial Services,2574,2661345.553,2022,1,dadra-&-nagar-haveli-&-daman-&-diu,Q1 2022
+2220,Others,9395,5330803.647,2022,1,dadra-&-nagar-haveli-&-daman-&-diu,Q1 2022
+2221,Merchant payments,3346697,1536859131,2022,2,dadra-&-nagar-haveli-&-daman-&-diu,Q2 2022
+2222,Peer-to-peer payments,1861799,5078832141,2022,2,dadra-&-nagar-haveli-&-daman-&-diu,Q2 2022
+2223,Recharge & bill payments,539562,372921225.4,2022,2,dadra-&-nagar-haveli-&-daman-&-diu,Q2 2022
+2224,Financial Services,1849,2131607.723,2022,2,dadra-&-nagar-haveli-&-daman-&-diu,Q2 2022
+2225,Others,9864,4415675.719,2022,2,dadra-&-nagar-haveli-&-daman-&-diu,Q2 2022
+2226,Merchant payments,3777156,1705567002,2022,3,dadra-&-nagar-haveli-&-daman-&-diu,Q3 2022
+2227,Peer-to-peer payments,2086741,5382949598,2022,3,dadra-&-nagar-haveli-&-daman-&-diu,Q3 2022
+2228,Recharge & bill payments,592431,425206924.5,2022,3,dadra-&-nagar-haveli-&-daman-&-diu,Q3 2022
+2229,Financial Services,2237,3194409.94,2022,3,dadra-&-nagar-haveli-&-daman-&-diu,Q3 2022
+2230,Others,7056,3729425.463,2022,3,dadra-&-nagar-haveli-&-daman-&-diu,Q3 2022
+2231,Merchant payments,4415771,1889046056,2022,4,dadra-&-nagar-haveli-&-daman-&-diu,Q4 2022
+2232,Peer-to-peer payments,2215052,5737539058,2022,4,dadra-&-nagar-haveli-&-daman-&-diu,Q4 2022
+2233,Recharge & bill payments,548795,426040023.1,2022,4,dadra-&-nagar-haveli-&-daman-&-diu,Q4 2022
+2234,Financial Services,2495,3169199.263,2022,4,dadra-&-nagar-haveli-&-daman-&-diu,Q4 2022
+2235,Others,7472,3846409.106,2022,4,dadra-&-nagar-haveli-&-daman-&-diu,Q4 2022
+2236,Peer-to-peer payments,22076,139715922.2,2019,1,ladakh,Q1 2019
+2237,Recharge & bill payments,20014,7186109.182,2019,1,ladakh,Q1 2019
+2238,Merchant payments,3238,4967122.5,2019,1,ladakh,Q1 2019
+2239,Financial Services,114,111851.0286,2019,1,ladakh,Q1 2019
+2240,Others,703,878916.0496,2019,1,ladakh,Q1 2019
+2241,Peer-to-peer payments,34202,240305709.9,2019,2,ladakh,Q2 2019
+2242,Recharge & bill payments,25357,10116773.37,2019,2,ladakh,Q2 2019
+2243,Merchant payments,8220,7726519.368,2019,2,ladakh,Q2 2019
+2244,Financial Services,86,113767.0977,2019,2,ladakh,Q2 2019
+2245,Others,907,992737.2376,2019,2,ladakh,Q2 2019
+2246,Peer-to-peer payments,43198,303596367.7,2019,3,ladakh,Q3 2019
+2247,Recharge & bill payments,41491,18054746.12,2019,3,ladakh,Q3 2019
+2248,Merchant payments,6963,8096082.971,2019,3,ladakh,Q3 2019
+2249,Financial Services,48,148633.2947,2019,3,ladakh,Q3 2019
+2250,Others,696,1233697.127,2019,3,ladakh,Q3 2019
+2251,Peer-to-peer payments,42095,298044908.5,2019,4,ladakh,Q4 2019
+2252,Recharge & bill payments,35467,16510212.1,2019,4,ladakh,Q4 2019
+2253,Merchant payments,6522,8717893.9,2019,4,ladakh,Q4 2019
+2254,Financial Services,46,162760.6325,2019,4,ladakh,Q4 2019
+2255,Others,576,1253584.887,2019,4,ladakh,Q4 2019
+2256,Peer-to-peer payments,51560,339551900.4,2020,1,ladakh,Q1 2020
+2257,Recharge & bill payments,49801,23010664.72,2020,1,ladakh,Q1 2020
+2258,Merchant payments,14264,13338124.27,2020,1,ladakh,Q1 2020
+2259,Financial Services,204,583108.9455,2020,1,ladakh,Q1 2020
+2260,Others,590,1155879.121,2020,1,ladakh,Q1 2020
+2261,Recharge & bill payments,70601,32087339.27,2020,2,ladakh,Q2 2020
+2262,Peer-to-peer payments,68450,470749365.1,2020,2,ladakh,Q2 2020
+2263,Merchant payments,15132,19679330.19,2020,2,ladakh,Q2 2020
+2264,Financial Services,337,786069.1631,2020,2,ladakh,Q2 2020
+2265,Others,490,490894.9382,2020,2,ladakh,Q2 2020
+2266,Peer-to-peer payments,108345,751333715.3,2020,3,ladakh,Q3 2020
+2267,Recharge & bill payments,81623,40380074.55,2020,3,ladakh,Q3 2020
+2268,Merchant payments,36861,40538778.76,2020,3,ladakh,Q3 2020
+2269,Financial Services,621,2334917.783,2020,3,ladakh,Q3 2020
+2270,Others,772,900013.6787,2020,3,ladakh,Q3 2020
+2271,Peer-to-peer payments,151582,985814864.3,2020,4,ladakh,Q4 2020
+2272,Recharge & bill payments,94133,44185250.86,2020,4,ladakh,Q4 2020
+2273,Merchant payments,83868,77511378.31,2020,4,ladakh,Q4 2020
+2274,Financial Services,729,1965054.59,2020,4,ladakh,Q4 2020
+2275,Others,1822,2486922.404,2020,4,ladakh,Q4 2020
+2276,Peer-to-peer payments,141894,869999786.2,2021,1,ladakh,Q1 2021
+2277,Recharge & bill payments,72719,35459532.41,2021,1,ladakh,Q1 2021
+2278,Merchant payments,58875,74977913.47,2021,1,ladakh,Q1 2021
+2279,Financial Services,629,1455016.148,2021,1,ladakh,Q1 2021
+2280,Others,1298,1527565.063,2021,1,ladakh,Q1 2021
+2281,Peer-to-peer payments,209818,1259044412,2021,2,ladakh,Q2 2021
+2282,Recharge & bill payments,95458,44754721.83,2021,2,ladakh,Q2 2021
+2283,Merchant payments,92078,119608470,2021,2,ladakh,Q2 2021
+2284,Financial Services,755,1756762.147,2021,2,ladakh,Q2 2021
+2285,Others,1607,2094729.018,2021,2,ladakh,Q2 2021
+2286,Peer-to-peer payments,330919,1917311078,2021,3,ladakh,Q3 2021
+2287,Merchant payments,135108,233260756.5,2021,3,ladakh,Q3 2021
+2288,Recharge & bill payments,121856,58750081.82,2021,3,ladakh,Q3 2021
+2289,Financial Services,900,1911625.545,2021,3,ladakh,Q3 2021
+2290,Others,2204,2751201.937,2021,3,ladakh,Q3 2021
+2291,Peer-to-peer payments,337120,1804428550,2021,4,ladakh,Q4 2021
+2292,Merchant payments,169110,284786365.9,2021,4,ladakh,Q4 2021
+2293,Recharge & bill payments,120607,58403893.47,2021,4,ladakh,Q4 2021
+2294,Financial Services,912,3068708.947,2021,4,ladakh,Q4 2021
+2295,Others,2438,2847620.243,2021,4,ladakh,Q4 2021
+2296,Peer-to-peer payments,343041,1685241981,2022,1,ladakh,Q1 2022
+2297,Merchant payments,167100,279354509,2022,1,ladakh,Q1 2022
+2298,Recharge & bill payments,116486,56203999.29,2022,1,ladakh,Q1 2022
+2299,Financial Services,1247,2023327.678,2022,1,ladakh,Q1 2022
+2300,Others,2141,2217102.222,2022,1,ladakh,Q1 2022
+2301,Peer-to-peer payments,608870,2941624382,2022,2,ladakh,Q2 2022
+2302,Merchant payments,346146,508439376.7,2022,2,ladakh,Q2 2022
+2303,Recharge & bill payments,158996,88531677.99,2022,2,ladakh,Q2 2022
+2304,Financial Services,1585,2487560.185,2022,2,ladakh,Q2 2022
+2305,Others,2476,2235180.858,2022,2,ladakh,Q2 2022
+2306,Peer-to-peer payments,659896,2955729492,2022,3,ladakh,Q3 2022
+2307,Merchant payments,367022,551472983.9,2022,3,ladakh,Q3 2022
+2308,Recharge & bill payments,160269,94288872.35,2022,3,ladakh,Q3 2022
+2309,Financial Services,1555,1815866.896,2022,3,ladakh,Q3 2022
+2310,Others,2116,1892134.752,2022,3,ladakh,Q3 2022
+2311,Peer-to-peer payments,559259,2350047972,2022,4,ladakh,Q4 2022
+2312,Merchant payments,382456,462189599.3,2022,4,ladakh,Q4 2022
+2313,Recharge & bill payments,138793,79767790.99,2022,4,ladakh,Q4 2022
+2314,Financial Services,1248,1198715.212,2022,4,ladakh,Q4 2022
+2315,Others,1616,1273495.593,2022,4,ladakh,Q4 2022
+2316,Recharge & bill payments,1993220,400281677.9,2019,1,assam,Q1 2019
+2317,Peer-to-peer payments,1976310,7291433301,2019,1,assam,Q1 2019
+2318,Merchant payments,494871,266644645.7,2019,1,assam,Q1 2019
+2319,Financial Services,20162,4612454.113,2019,1,assam,Q1 2019
+2320,Others,48442,39127457.94,2019,1,assam,Q1 2019
+2321,Recharge & bill payments,2512932,539315772.9,2019,2,assam,Q2 2019
+2322,Peer-to-peer payments,2293770,10035232821,2019,2,assam,Q2 2019
+2323,Merchant payments,573646,326844709.6,2019,2,assam,Q2 2019
+2324,Financial Services,13654,4037222.414,2019,2,assam,Q2 2019
+2325,Others,60927,49538663.41,2019,2,assam,Q2 2019
+2326,Peer-to-peer payments,2713539,11835800855,2019,3,assam,Q3 2019
+2327,Recharge & bill payments,2645302,639885372.7,2019,3,assam,Q3 2019
+2328,Merchant payments,513728,421380275.4,2019,3,assam,Q3 2019
+2329,Financial Services,8606,6403456.345,2019,3,assam,Q3 2019
+2330,Others,61396,46973660.74,2019,3,assam,Q3 2019
+2331,Peer-to-peer payments,3222143,14083346879,2019,4,assam,Q4 2019
+2332,Recharge & bill payments,2937800,704118874,2019,4,assam,Q4 2019
+2333,Merchant payments,544053,456318130.1,2019,4,assam,Q4 2019
+2334,Financial Services,9621,3492255.086,2019,4,assam,Q4 2019
+2335,Others,46893,34707757.01,2019,4,assam,Q4 2019
+2336,Peer-to-peer payments,4058740,18977446152,2020,1,assam,Q1 2020
+2337,Recharge & bill payments,3897975,971722606.2,2020,1,assam,Q1 2020
+2338,Merchant payments,792646,675423853,2020,1,assam,Q1 2020
+2339,Financial Services,10173,7054325.508,2020,1,assam,Q1 2020
+2340,Others,49326,36781411.34,2020,1,assam,Q1 2020
+2341,Recharge & bill payments,6045321,1612522829,2020,2,assam,Q2 2020
+2342,Peer-to-peer payments,3648386,17358374071,2020,2,assam,Q2 2020
+2343,Merchant payments,742400,749018053.2,2020,2,assam,Q2 2020
+2344,Financial Services,19814,18130004.69,2020,2,assam,Q2 2020
+2345,Others,49278,28255168.01,2020,2,assam,Q2 2020
+2346,Peer-to-peer payments,5637893,26646565777,2020,3,assam,Q3 2020
+2347,Recharge & bill payments,5292154,1627282416,2020,3,assam,Q3 2020
+2348,Merchant payments,1383230,1492484153,2020,3,assam,Q3 2020
+2349,Financial Services,24954,28452966.03,2020,3,assam,Q3 2020
+2350,Others,59480,36605946.75,2020,3,assam,Q3 2020
+2351,Peer-to-peer payments,7538478,36013292451,2020,4,assam,Q4 2020
+2352,Recharge & bill payments,5383505,1662189124,2020,4,assam,Q4 2020
+2353,Merchant payments,2392184,2466913306,2020,4,assam,Q4 2020
+2354,Financial Services,29764,32314809.98,2020,4,assam,Q4 2020
+2355,Others,79523,51901628.47,2020,4,assam,Q4 2020
+2356,Peer-to-peer payments,9449096,45476079487,2021,1,assam,Q1 2021
+2357,Recharge & bill payments,6494111,2103017762,2021,1,assam,Q1 2021
+2358,Merchant payments,3459132,3657261586,2021,1,assam,Q1 2021
+2359,Financial Services,34049,41291047.38,2021,1,assam,Q1 2021
+2360,Others,75672,48814663.89,2021,1,assam,Q1 2021
+2361,Peer-to-peer payments,11668399,51521387891,2021,2,assam,Q2 2021
+2362,Recharge & bill payments,9058005,2657676415,2021,2,assam,Q2 2021
+2363,Merchant payments,4562669,4914753140,2021,2,assam,Q2 2021
+2364,Financial Services,49671,46106001.5,2021,2,assam,Q2 2021
+2365,Others,94161,52549929.27,2021,2,assam,Q2 2021
+2366,Peer-to-peer payments,15617592,64131823895,2021,3,assam,Q3 2021
+2367,Recharge & bill payments,10284267,3248364164,2021,3,assam,Q3 2021
+2368,Merchant payments,7431371,8208706348,2021,3,assam,Q3 2021
+2369,Financial Services,39479,43889820.5,2021,3,assam,Q3 2021
+2370,Others,131732,67715045.34,2021,3,assam,Q3 2021
+2371,Peer-to-peer payments,21393962,86801625127,2021,4,assam,Q4 2021
+2372,Merchant payments,12895755,13378765006,2021,4,assam,Q4 2021
+2373,Recharge & bill payments,11484376,3842004488,2021,4,assam,Q4 2021
+2374,Financial Services,60724,65456475.83,2021,4,assam,Q4 2021
+2375,Others,185544,97116796.58,2021,4,assam,Q4 2021
+2376,Peer-to-peer payments,27156085,1.09E+11,2022,1,assam,Q1 2022
+2377,Merchant payments,19011883,18833132506,2022,1,assam,Q1 2022
+2378,Recharge & bill payments,12474674,4424035840,2022,1,assam,Q1 2022
+2379,Financial Services,68432,73257991.39,2022,1,assam,Q1 2022
+2380,Others,178812,94659207.47,2022,1,assam,Q1 2022
+2381,Peer-to-peer payments,33879530,1.24E+11,2022,2,assam,Q2 2022
+2382,Merchant payments,28377534,24333260090,2022,2,assam,Q2 2022
+2383,Recharge & bill payments,13858113,4814695680,2022,2,assam,Q2 2022
+2384,Financial Services,50785,55549153.74,2022,2,assam,Q2 2022
+2385,Others,168763,77624058.02,2022,2,assam,Q2 2022
+2386,Peer-to-peer payments,37000266,1.27E+11,2022,3,assam,Q3 2022
+2387,Merchant payments,34935460,28789992307,2022,3,assam,Q3 2022
+2388,Recharge & bill payments,13974568,5295136932,2022,3,assam,Q3 2022
+2389,Financial Services,65066,62882386.46,2022,3,assam,Q3 2022
+2390,Others,138451,76363577.27,2022,3,assam,Q3 2022
+2391,Peer-to-peer payments,44828832,1.51E+11,2022,4,assam,Q4 2022
+2392,Merchant payments,43605784,36033810142,2022,4,assam,Q4 2022
+2393,Recharge & bill payments,15344794,5773980885,2022,4,assam,Q4 2022
+2394,Financial Services,74414,75960367.92,2022,4,assam,Q4 2022
+2395,Others,127443,76370123.6,2022,4,assam,Q4 2022
+2396,Recharge & bill payments,98817,23006751.8,2019,1,meghalaya,Q1 2019
+2397,Peer-to-peer payments,90694,358932132.1,2019,1,meghalaya,Q1 2019
+2398,Merchant payments,16073,14297275.23,2019,1,meghalaya,Q1 2019
+2399,Financial Services,659,62335.06475,2019,1,meghalaya,Q1 2019
+2400,Others,2498,2738667.958,2019,1,meghalaya,Q1 2019
+2401,Recharge & bill payments,108812,27248605.43,2019,2,meghalaya,Q2 2019
+2402,Peer-to-peer payments,97407,446537199.2,2019,2,meghalaya,Q2 2019
+2403,Merchant payments,22588,15600927.01,2019,2,meghalaya,Q2 2019
+2404,Financial Services,460,106800.7531,2019,2,meghalaya,Q2 2019
+2405,Others,3019,3437756.745,2019,2,meghalaya,Q2 2019
+2406,Recharge & bill payments,155949,38916251.42,2019,3,meghalaya,Q3 2019
+2407,Peer-to-peer payments,116168,546221812.7,2019,3,meghalaya,Q3 2019
+2408,Merchant payments,31201,23461321.89,2019,3,meghalaya,Q3 2019
+2409,Financial Services,421,584192.9488,2019,3,meghalaya,Q3 2019
+2410,Others,2811,3035023.204,2019,3,meghalaya,Q3 2019
+2411,Recharge & bill payments,175084,43611775.03,2019,4,meghalaya,Q4 2019
+2412,Peer-to-peer payments,163734,670870023.4,2019,4,meghalaya,Q4 2019
+2413,Merchant payments,24430,25344714.51,2019,4,meghalaya,Q4 2019
+2414,Financial Services,382,124511.6361,2019,4,meghalaya,Q4 2019
+2415,Others,2351,2485447.193,2019,4,meghalaya,Q4 2019
+2416,Recharge & bill payments,226214,59666071.22,2020,1,meghalaya,Q1 2020
+2417,Peer-to-peer payments,216022,1013733312,2020,1,meghalaya,Q1 2020
+2418,Merchant payments,57245,44125206.35,2020,1,meghalaya,Q1 2020
+2419,Financial Services,473,402779.8903,2020,1,meghalaya,Q1 2020
+2420,Others,2329,2207471.061,2020,1,meghalaya,Q1 2020
+2421,Recharge & bill payments,382662,100570200.3,2020,2,meghalaya,Q2 2020
+2422,Peer-to-peer payments,202270,998750895.9,2020,2,meghalaya,Q2 2020
+2423,Merchant payments,46014,48980521.42,2020,2,meghalaya,Q2 2020
+2424,Financial Services,1186,2944583.115,2020,2,meghalaya,Q2 2020
+2425,Others,3263,2488953.644,2020,2,meghalaya,Q2 2020
+2426,Recharge & bill payments,342484,97662913.13,2020,3,meghalaya,Q3 2020
+2427,Peer-to-peer payments,194448,1065012682,2020,3,meghalaya,Q3 2020
+2428,Merchant payments,55595,67511647.13,2020,3,meghalaya,Q3 2020
+2429,Financial Services,1587,4049966.813,2020,3,meghalaya,Q3 2020
+2430,Others,3465,2821792.588,2020,3,meghalaya,Q3 2020
+2431,Recharge & bill payments,350006,102794647.8,2020,4,meghalaya,Q4 2020
+2432,Peer-to-peer payments,286252,1579858348,2020,4,meghalaya,Q4 2020
+2433,Merchant payments,111471,115136797.6,2020,4,meghalaya,Q4 2020
+2434,Financial Services,1809,2774557.112,2020,4,meghalaya,Q4 2020
+2435,Others,4470,3678221.666,2020,4,meghalaya,Q4 2020
+2436,Peer-to-peer payments,326993,1794745857,2021,1,meghalaya,Q1 2021
+2437,Recharge & bill payments,306634,106098525.7,2021,1,meghalaya,Q1 2021
+2438,Merchant payments,108805,147747773,2021,1,meghalaya,Q1 2021
+2439,Financial Services,1777,3981898.046,2021,1,meghalaya,Q1 2021
+2440,Others,3437,2941223.95,2021,1,meghalaya,Q1 2021
+2441,Recharge & bill payments,389959,129031455.7,2021,2,meghalaya,Q2 2021
+2442,Peer-to-peer payments,366411,1885041504,2021,2,meghalaya,Q2 2021
+2443,Merchant payments,147406,173894963,2021,2,meghalaya,Q2 2021
+2444,Financial Services,1766,2306496.855,2021,2,meghalaya,Q2 2021
+2445,Others,4052,3342835.527,2021,2,meghalaya,Q2 2021
+2446,Peer-to-peer payments,473274,2348008593,2021,3,meghalaya,Q3 2021
+2447,Recharge & bill payments,418429,144363692.8,2021,3,meghalaya,Q3 2021
+2448,Merchant payments,199427,270311210.9,2021,3,meghalaya,Q3 2021
+2449,Financial Services,1556,2379067.115,2021,3,meghalaya,Q3 2021
+2450,Others,5045,3937887.554,2021,3,meghalaya,Q3 2021
+2451,Peer-to-peer payments,669693,3233210262,2021,4,meghalaya,Q4 2021
+2452,Recharge & bill payments,447310,165277548.5,2021,4,meghalaya,Q4 2021
+2453,Merchant payments,314445,442464385,2021,4,meghalaya,Q4 2021
+2454,Financial Services,1989,2464327.924,2021,4,meghalaya,Q4 2021
+2455,Others,6756,5348877.037,2021,4,meghalaya,Q4 2021
+2456,Peer-to-peer payments,801009,3899172009,2022,1,meghalaya,Q1 2022
+2457,Recharge & bill payments,459530,192026788.6,2022,1,meghalaya,Q1 2022
+2458,Merchant payments,405859,563004043.9,2022,1,meghalaya,Q1 2022
+2459,Financial Services,2134,3019251.86,2022,1,meghalaya,Q1 2022
+2460,Others,6218,5116238.236,2022,1,meghalaya,Q1 2022
+2461,Peer-to-peer payments,977816,4359000096,2022,2,meghalaya,Q2 2022
+2462,Merchant payments,591364,714995836.6,2022,2,meghalaya,Q2 2022
+2463,Recharge & bill payments,467745,200896879.7,2022,2,meghalaya,Q2 2022
+2464,Financial Services,1880,2406087.095,2022,2,meghalaya,Q2 2022
+2465,Others,5844,4192522.345,2022,2,meghalaya,Q2 2022
+2466,Peer-to-peer payments,2050942,7796315454,2022,3,meghalaya,Q3 2022
+2467,Merchant payments,1486098,1468318733,2022,3,meghalaya,Q3 2022
+2468,Recharge & bill payments,810017,330230375.9,2022,3,meghalaya,Q3 2022
+2469,Financial Services,3504,3106775.386,2022,3,meghalaya,Q3 2022
+2470,Others,8604,5329459.166,2022,3,meghalaya,Q3 2022
+2471,Peer-to-peer payments,1901671,7328913724,2022,4,meghalaya,Q4 2022
+2472,Merchant payments,1334431,1381013597,2022,4,meghalaya,Q4 2022
+2473,Recharge & bill payments,685678,278377945.4,2022,4,meghalaya,Q4 2022
+2474,Financial Services,3544,3564357.12,2022,4,meghalaya,Q4 2022
+2475,Others,7124,4671532.631,2022,4,meghalaya,Q4 2022
+2476,Peer-to-peer payments,3499130,6512361464,2019,1,uttarakhand,Q1 2019
+2477,Recharge & bill payments,1590269,394631055.7,2019,1,uttarakhand,Q1 2019
+2478,Merchant payments,372290,226281078.8,2019,1,uttarakhand,Q1 2019
+2479,Financial Services,28784,3951610.305,2019,1,uttarakhand,Q1 2019
+2480,Others,55528,46303966.01,2019,1,uttarakhand,Q1 2019
+2481,Peer-to-peer payments,2383662,7752954671,2019,2,uttarakhand,Q2 2019
+2482,Recharge & bill payments,1616176,454962951.9,2019,2,uttarakhand,Q2 2019
+2483,Merchant payments,721858,323876953.4,2019,2,uttarakhand,Q2 2019
+2484,Financial Services,21852,2550386.477,2019,2,uttarakhand,Q2 2019
+2485,Others,69727,54187888.54,2019,2,uttarakhand,Q2 2019
+2486,Peer-to-peer payments,2313544,8512622076,2019,3,uttarakhand,Q3 2019
+2487,Recharge & bill payments,2201606,683772297,2019,3,uttarakhand,Q3 2019
+2488,Merchant payments,1121052,480794827.1,2019,3,uttarakhand,Q3 2019
+2489,Financial Services,12119,4570326.192,2019,3,uttarakhand,Q3 2019
+2490,Others,62155,47272543.29,2019,3,uttarakhand,Q3 2019
+2491,Peer-to-peer payments,3210116,11020339547,2019,4,uttarakhand,Q4 2019
+2492,Recharge & bill payments,2547173,817728111.5,2019,4,uttarakhand,Q4 2019
+2493,Merchant payments,1542944,701746516.9,2019,4,uttarakhand,Q4 2019
+2494,Financial Services,11585,3555524.377,2019,4,uttarakhand,Q4 2019
+2495,Others,50298,30336605.84,2019,4,uttarakhand,Q4 2019
+2496,Peer-to-peer payments,3792776,13999676597,2020,1,uttarakhand,Q1 2020
+2497,Recharge & bill payments,2990764,1028598924,2020,1,uttarakhand,Q1 2020
+2498,Merchant payments,2289657,1094245197,2020,1,uttarakhand,Q1 2020
+2499,Financial Services,10246,8180881.809,2020,1,uttarakhand,Q1 2020
+2500,Others,48341,27378658.63,2020,1,uttarakhand,Q1 2020
+2501,Recharge & bill payments,3755695,1303523585,2020,2,uttarakhand,Q2 2020
+2502,Peer-to-peer payments,3656029,13572964170,2020,2,uttarakhand,Q2 2020
+2503,Merchant payments,1587042,1181497493,2020,2,uttarakhand,Q2 2020
+2504,Financial Services,15023,17612288.06,2020,2,uttarakhand,Q2 2020
+2505,Others,33981,18590166.38,2020,2,uttarakhand,Q2 2020
+2506,Peer-to-peer payments,4836512,18377468807,2020,3,uttarakhand,Q3 2020
+2507,Recharge & bill payments,3751993,1509373288,2020,3,uttarakhand,Q3 2020
+2508,Merchant payments,3164623,2166776520,2020,3,uttarakhand,Q3 2020
+2509,Financial Services,20455,26449980.58,2020,3,uttarakhand,Q3 2020
+2510,Others,45352,23442372.42,2020,3,uttarakhand,Q3 2020
+2511,Peer-to-peer payments,6748183,25748737002,2020,4,uttarakhand,Q4 2020
+2512,Merchant payments,6629201,4274032857,2020,4,uttarakhand,Q4 2020
+2513,Recharge & bill payments,4140391,1697819951,2020,4,uttarakhand,Q4 2020
+2514,Financial Services,27120,29791064.76,2020,4,uttarakhand,Q4 2020
+2515,Others,68376,42358455.01,2020,4,uttarakhand,Q4 2020
+2516,Merchant payments,8393767,5283142247,2021,1,uttarakhand,Q1 2021
+2517,Peer-to-peer payments,7981710,29202365443,2021,1,uttarakhand,Q1 2021
+2518,Recharge & bill payments,4146569,1727960484,2021,1,uttarakhand,Q1 2021
+2519,Financial Services,30208,38400864,2021,1,uttarakhand,Q1 2021
+2520,Others,56148,36320362.17,2021,1,uttarakhand,Q1 2021
+2521,Peer-to-peer payments,9374939,32674145244,2021,2,uttarakhand,Q2 2021
+2522,Merchant payments,9134389,6257528832,2021,2,uttarakhand,Q2 2021
+2523,Recharge & bill payments,5388285,1979824049,2021,2,uttarakhand,Q2 2021
+2524,Financial Services,31497,35404991.87,2021,2,uttarakhand,Q2 2021
+2525,Others,71322,43914757.7,2021,2,uttarakhand,Q2 2021
+2526,Merchant payments,13673085,9001414756,2021,3,uttarakhand,Q3 2021
+2527,Peer-to-peer payments,11867174,39256650720,2021,3,uttarakhand,Q3 2021
+2528,Recharge & bill payments,5388011,2182554095,2021,3,uttarakhand,Q3 2021
+2529,Financial Services,27839,38013969.98,2021,3,uttarakhand,Q3 2021
+2530,Others,86175,48863242.23,2021,3,uttarakhand,Q3 2021
+2531,Merchant payments,19850878,13515464698,2021,4,uttarakhand,Q4 2021
+2532,Peer-to-peer payments,14819203,49969580473,2021,4,uttarakhand,Q4 2021
+2533,Recharge & bill payments,5536262,2540546090,2021,4,uttarakhand,Q4 2021
+2534,Financial Services,38764,51212042.38,2021,4,uttarakhand,Q4 2021
+2535,Others,116173,71304856.18,2021,4,uttarakhand,Q4 2021
+2536,Merchant payments,22595602,14585438346,2022,1,uttarakhand,Q1 2022
+2537,Peer-to-peer payments,16201632,53535521439,2022,1,uttarakhand,Q1 2022
+2538,Recharge & bill payments,5617605,2745987928,2022,1,uttarakhand,Q1 2022
+2539,Financial Services,39033,49695999.72,2022,1,uttarakhand,Q1 2022
+2540,Others,106900,62138787.24,2022,1,uttarakhand,Q1 2022
+2541,Merchant payments,32087670,19479185362,2022,2,uttarakhand,Q2 2022
+2542,Peer-to-peer payments,19677409,65563901300,2022,2,uttarakhand,Q2 2022
+2543,Recharge & bill payments,6263098,3174160698,2022,2,uttarakhand,Q2 2022
+2544,Financial Services,32284,37217548.79,2022,2,uttarakhand,Q2 2022
+2545,Others,106417,58906116.08,2022,2,uttarakhand,Q2 2022
+2546,Merchant payments,35069444,20528059274,2022,3,uttarakhand,Q3 2022
+2547,Peer-to-peer payments,22031045,68377272373,2022,3,uttarakhand,Q3 2022
+2548,Recharge & bill payments,6765699,3633710469,2022,3,uttarakhand,Q3 2022
+2549,Financial Services,38061,44669245.27,2022,3,uttarakhand,Q3 2022
+2550,Others,92270,57548577.44,2022,3,uttarakhand,Q3 2022
+2551,Merchant payments,43185705,26026949674,2022,4,uttarakhand,Q4 2022
+2552,Peer-to-peer payments,27043038,85220041975,2022,4,uttarakhand,Q4 2022
+2553,Recharge & bill payments,7610775,4128624165,2022,4,uttarakhand,Q4 2022
+2554,Financial Services,44569,55762460.39,2022,4,uttarakhand,Q4 2022
+2555,Others,99793,64668557.39,2022,4,uttarakhand,Q4 2022
+2556,Peer-to-peer payments,313822,835983054.3,2019,1,puducherry,Q1 2019
+2557,Recharge & bill payments,124092,32635247.52,2019,1,puducherry,Q1 2019
+2558,Merchant payments,54518,33763704.68,2019,1,puducherry,Q1 2019
+2559,Financial Services,3165,337570.3228,2019,1,puducherry,Q1 2019
+2560,Others,5495,3753447.525,2019,1,puducherry,Q1 2019
+2561,Peer-to-peer payments,331248,1109343372,2019,2,puducherry,Q2 2019
+2562,Recharge & bill payments,147585,46876569.36,2019,2,puducherry,Q2 2019
+2563,Merchant payments,92941,49963601.62,2019,2,puducherry,Q2 2019
+2564,Financial Services,1524,469351.5482,2019,2,puducherry,Q2 2019
+2565,Others,6779,4794015.854,2019,2,puducherry,Q2 2019
+2566,Peer-to-peer payments,394866,1316118200,2019,3,puducherry,Q3 2019
+2567,Recharge & bill payments,158483,57003044.3,2019,3,puducherry,Q3 2019
+2568,Merchant payments,156137,82601335.48,2019,3,puducherry,Q3 2019
+2569,Financial Services,1090,528680.8976,2019,3,puducherry,Q3 2019
+2570,Others,6250,4457097.112,2019,3,puducherry,Q3 2019
+2571,Peer-to-peer payments,559670,1725523873,2019,4,puducherry,Q4 2019
+2572,Merchant payments,249621,128039884.4,2019,4,puducherry,Q4 2019
+2573,Recharge & bill payments,195707,74383571.68,2019,4,puducherry,Q4 2019
+2574,Financial Services,1481,391196.1284,2019,4,puducherry,Q4 2019
+2575,Others,6176,3689792.246,2019,4,puducherry,Q4 2019
+2576,Peer-to-peer payments,600290,1919499666,2020,1,puducherry,Q1 2020
+2577,Merchant payments,349788,184925417.7,2020,1,puducherry,Q1 2020
+2578,Recharge & bill payments,251115,96515615.44,2020,1,puducherry,Q1 2020
+2579,Financial Services,1527,858236.5498,2020,1,puducherry,Q1 2020
+2580,Others,5201,3478541.525,2020,1,puducherry,Q1 2020
+2581,Peer-to-peer payments,468789,1680190118,2020,2,puducherry,Q2 2020
+2582,Recharge & bill payments,310746,115223074,2020,2,puducherry,Q2 2020
+2583,Merchant payments,249951,160931601.3,2020,2,puducherry,Q2 2020
+2584,Financial Services,1555,2339469.004,2020,2,puducherry,Q2 2020
+2585,Others,2342,1346718.588,2020,2,puducherry,Q2 2020
+2586,Peer-to-peer payments,855511,3116583525,2020,3,puducherry,Q3 2020
+2587,Merchant payments,560420,335583369.7,2020,3,puducherry,Q3 2020
+2588,Recharge & bill payments,306852,138925436.5,2020,3,puducherry,Q3 2020
+2589,Financial Services,3039,4788490.363,2020,3,puducherry,Q3 2020
+2590,Others,5080,2199408.228,2020,3,puducherry,Q3 2020
+2591,Peer-to-peer payments,1211359,4090057483,2020,4,puducherry,Q4 2020
+2592,Merchant payments,1108292,647985607.6,2020,4,puducherry,Q4 2020
+2593,Recharge & bill payments,383707,184037245.7,2020,4,puducherry,Q4 2020
+2594,Financial Services,3783,3888988.237,2020,4,puducherry,Q4 2020
+2595,Others,8862,4556893.133,2020,4,puducherry,Q4 2020
+2596,Peer-to-peer payments,1406958,4798646713,2021,1,puducherry,Q1 2021
+2597,Merchant payments,1385444,857787315.6,2021,1,puducherry,Q1 2021
+2598,Recharge & bill payments,504499,231829246.9,2021,1,puducherry,Q1 2021
+2599,Financial Services,5073,5953397.435,2021,1,puducherry,Q1 2021
+2600,Others,7458,5092899.254,2021,1,puducherry,Q1 2021
+2601,Peer-to-peer payments,1581221,5266478797,2021,2,puducherry,Q2 2021
+2602,Merchant payments,1437110,932602617.3,2021,2,puducherry,Q2 2021
+2603,Recharge & bill payments,719252,289799593.2,2021,2,puducherry,Q2 2021
+2604,Financial Services,4851,4980243.908,2021,2,puducherry,Q2 2021
+2605,Others,8953,4973445.02,2021,2,puducherry,Q2 2021
+2606,Merchant payments,2273996,1443176801,2021,3,puducherry,Q3 2021
+2607,Peer-to-peer payments,2089199,6918396494,2021,3,puducherry,Q3 2021
+2608,Recharge & bill payments,741388,356068931.7,2021,3,puducherry,Q3 2021
+2609,Financial Services,4733,5523949.081,2021,3,puducherry,Q3 2021
+2610,Others,12410,6808255.35,2021,3,puducherry,Q3 2021
+2611,Merchant payments,3052713,1864951566,2021,4,puducherry,Q4 2021
+2612,Peer-to-peer payments,2530821,8113722339,2021,4,puducherry,Q4 2021
+2613,Recharge & bill payments,762641,428453211.3,2021,4,puducherry,Q4 2021
+2614,Financial Services,5995,7655925.109,2021,4,puducherry,Q4 2021
+2615,Others,16640,8868759.435,2021,4,puducherry,Q4 2021
+2616,Merchant payments,3723135,2199614586,2022,1,puducherry,Q1 2022
+2617,Peer-to-peer payments,2901199,9407577502,2022,1,puducherry,Q1 2022
+2618,Recharge & bill payments,715338,460522863.8,2022,1,puducherry,Q1 2022
+2619,Financial Services,6203,8184455.912,2022,1,puducherry,Q1 2022
+2620,Others,13301,7575497.515,2022,1,puducherry,Q1 2022
+2621,Merchant payments,4613049,2693234775,2022,2,puducherry,Q2 2022
+2622,Peer-to-peer payments,3242208,10537267922,2022,2,puducherry,Q2 2022
+2623,Recharge & bill payments,773154,535604974.6,2022,2,puducherry,Q2 2022
+2624,Financial Services,4914,6556452.522,2022,2,puducherry,Q2 2022
+2625,Others,10362,6081132.497,2022,2,puducherry,Q2 2022
+2626,Merchant payments,3992974,2322908509,2022,3,puducherry,Q3 2022
+2627,Peer-to-peer payments,2474932,8058325856,2022,3,puducherry,Q3 2022
+2628,Recharge & bill payments,564285,463054690.6,2022,3,puducherry,Q3 2022
+2629,Financial Services,4621,5514275.579,2022,3,puducherry,Q3 2022
+2630,Others,5915,4514380.573,2022,3,puducherry,Q3 2022
+2631,Merchant payments,4464977,2534351531,2022,4,puducherry,Q4 2022
+2632,Peer-to-peer payments,2547018,8141612224,2022,4,puducherry,Q4 2022
+2633,Recharge & bill payments,531963,453692483.8,2022,4,puducherry,Q4 2022
+2634,Financial Services,6073,7875178.045,2022,4,puducherry,Q4 2022
+2635,Others,6096,4673460.483,2022,4,puducherry,Q4 2022
+2636,Peer-to-peer payments,16807040,38824078062,2019,1,bihar,Q1 2019
+2637,Recharge & bill payments,7036367,1333688183,2019,1,bihar,Q1 2019
+2638,Merchant payments,2055267,1024997000,2019,1,bihar,Q1 2019
+2639,Financial Services,204689,28599535.73,2019,1,bihar,Q1 2019
+2640,Others,252871,291464734.4,2019,1,bihar,Q1 2019
+2641,Peer-to-peer payments,15837449,58381285241,2019,2,bihar,Q2 2019
+2642,Recharge & bill payments,9279442,1996804238,2019,2,bihar,Q2 2019
+2643,Merchant payments,4365465,2308145850,2019,2,bihar,Q2 2019
+2644,Financial Services,129603,63338108.54,2019,2,bihar,Q2 2019
+2645,Others,348520,382864846.1,2019,2,bihar,Q2 2019
+2646,Peer-to-peer payments,15446119,61831776093,2019,3,bihar,Q3 2019
+2647,Recharge & bill payments,9115040,2140566975,2019,3,bihar,Q3 2019
+2648,Merchant payments,7206001,3413490288,2019,3,bihar,Q3 2019
+2649,Financial Services,89997,20145460.43,2019,3,bihar,Q3 2019
+2650,Others,282743,286804437.7,2019,3,bihar,Q3 2019
+2651,Peer-to-peer payments,26337842,86340631422,2019,4,bihar,Q4 2019
+2652,Recharge & bill payments,11358597,2649616530,2019,4,bihar,Q4 2019
+2653,Merchant payments,5519582,4177574379,2019,4,bihar,Q4 2019
+2654,Financial Services,100192,18815964.76,2019,4,bihar,Q4 2019
+2655,Others,214101,126788281.9,2019,4,bihar,Q4 2019
+2656,Peer-to-peer payments,23163922,99873688133,2020,1,bihar,Q1 2020
+2657,Recharge & bill payments,13837430,3680590625,2020,1,bihar,Q1 2020
+2658,Merchant payments,7822567,5562692117,2020,1,bihar,Q1 2020
+2659,Financial Services,57233,23954789.41,2020,1,bihar,Q1 2020
+2660,Others,200663,115927863.5,2020,1,bihar,Q1 2020
+2661,Peer-to-peer payments,26572651,1.16E+11,2020,2,bihar,Q2 2020
+2662,Recharge & bill payments,19522564,5642294772,2020,2,bihar,Q2 2020
+2663,Merchant payments,7011681,6760404422,2020,2,bihar,Q2 2020
+2664,Financial Services,73119,54077813.26,2020,2,bihar,Q2 2020
+2665,Others,206727,105377680.2,2020,2,bihar,Q2 2020
+2666,Peer-to-peer payments,37294332,1.54E+11,2020,3,bihar,Q3 2020
+2667,Recharge & bill payments,19027978,6313780617,2020,3,bihar,Q3 2020
+2668,Merchant payments,14777337,13111735855,2020,3,bihar,Q3 2020
+2669,Financial Services,104135,81355476.16,2020,3,bihar,Q3 2020
+2670,Others,299966,157309412.5,2020,3,bihar,Q3 2020
+2671,Peer-to-peer payments,49432098,2.08E+11,2020,4,bihar,Q4 2020
+2672,Merchant payments,26750991,23185594534,2020,4,bihar,Q4 2020
+2673,Recharge & bill payments,19908687,6926960997,2020,4,bihar,Q4 2020
+2674,Financial Services,119416,100785736,2020,4,bihar,Q4 2020
+2675,Others,380481,207713978,2020,4,bihar,Q4 2020
+2676,Peer-to-peer payments,58566582,2.42E+11,2021,1,bihar,Q1 2021
+2677,Merchant payments,33959313,30171144593,2021,1,bihar,Q1 2021
+2678,Recharge & bill payments,21974086,8505455545,2021,1,bihar,Q1 2021
+2679,Financial Services,124277,112949858.3,2021,1,bihar,Q1 2021
+2680,Others,308219,170787342.8,2021,1,bihar,Q1 2021
+2681,Peer-to-peer payments,78694099,3.20E+11,2021,2,bihar,Q2 2021
+2682,Merchant payments,44686786,43458914640,2021,2,bihar,Q2 2021
+2683,Recharge & bill payments,31646149,11030849714,2021,2,bihar,Q2 2021
+2684,Financial Services,149791,116086345.9,2021,2,bihar,Q2 2021
+2685,Others,426797,215721223.2,2021,2,bihar,Q2 2021
+2686,Peer-to-peer payments,92785704,3.32E+11,2021,3,bihar,Q3 2021
+2687,Merchant payments,64094961,53849745605,2021,3,bihar,Q3 2021
+2688,Recharge & bill payments,30081746,11327303470,2021,3,bihar,Q3 2021
+2689,Financial Services,135748,130349071.6,2021,3,bihar,Q3 2021
+2690,Others,572954,241260025.5,2021,3,bihar,Q3 2021
+2691,Peer-to-peer payments,117340712,4.24E+11,2021,4,bihar,Q4 2021
+2692,Merchant payments,95992559,81729122296,2021,4,bihar,Q4 2021
+2693,Recharge & bill payments,30824177,13438634948,2021,4,bihar,Q4 2021
+2694,Financial Services,186298,173358268.8,2021,4,bihar,Q4 2021
+2695,Others,783199,365400541.9,2021,4,bihar,Q4 2021
+2696,Peer-to-peer payments,138085265,5.00E+11,2022,1,bihar,Q1 2022
+2697,Merchant payments,114892163,95507710276,2022,1,bihar,Q1 2022
+2698,Recharge & bill payments,30545266,15431605247,2022,1,bihar,Q1 2022
+2699,Financial Services,169722,148088975.2,2022,1,bihar,Q1 2022
+2700,Others,698018,299484690.3,2022,1,bihar,Q1 2022
+2701,Peer-to-peer payments,164119431,6.10E+11,2022,2,bihar,Q2 2022
+2702,Merchant payments,158289353,1.26E+11,2022,2,bihar,Q2 2022
+2703,Recharge & bill payments,36950622,17225668602,2022,2,bihar,Q2 2022
+2704,Financial Services,124199,116203820.9,2022,2,bihar,Q2 2022
+2705,Others,661424,247541289.1,2022,2,bihar,Q2 2022
+2706,Merchant payments,198273336,1.38E+11,2022,3,bihar,Q3 2022
+2707,Peer-to-peer payments,192304951,6.33E+11,2022,3,bihar,Q3 2022
+2708,Recharge & bill payments,46044353,20417791249,2022,3,bihar,Q3 2022
+2709,Financial Services,179533,161987346.2,2022,3,bihar,Q3 2022
+2710,Others,565212,245905365.8,2022,3,bihar,Q3 2022
+2711,Merchant payments,243777692,1.73E+11,2022,4,bihar,Q4 2022
+2712,Peer-to-peer payments,225487662,7.40E+11,2022,4,bihar,Q4 2022
+2713,Recharge & bill payments,47054083,22729599211,2022,4,bihar,Q4 2022
+2714,Financial Services,205989,199208429.5,2022,4,bihar,Q4 2022
+2715,Others,559223,288999714.4,2022,4,bihar,Q4 2022
+2716,Peer-to-peer payments,5952105,12664709652,2019,1,jharkhand,Q1 2019
+2717,Recharge & bill payments,2347079,440323945.1,2019,1,jharkhand,Q1 2019
+2718,Merchant payments,892826,391616776.1,2019,1,jharkhand,Q1 2019
+2719,Financial Services,105558,47227410.81,2019,1,jharkhand,Q1 2019
+2720,Others,90140,83358664.95,2019,1,jharkhand,Q1 2019
+2721,Peer-to-peer payments,5155937,17044444614,2019,2,jharkhand,Q2 2019
+2722,Recharge & bill payments,2734377,562210324.8,2019,2,jharkhand,Q2 2019
+2723,Merchant payments,2049311,862186711.5,2019,2,jharkhand,Q2 2019
+2724,Financial Services,67479,51588987.16,2019,2,jharkhand,Q2 2019
+2725,Others,121107,102270668.2,2019,2,jharkhand,Q2 2019
+2726,Peer-to-peer payments,5708187,19050145624,2019,3,jharkhand,Q3 2019
+2727,Merchant payments,4766457,1494546031,2019,3,jharkhand,Q3 2019
+2728,Recharge & bill payments,3527625,754845093.6,2019,3,jharkhand,Q3 2019
+2729,Financial Services,103620,80276391.65,2019,3,jharkhand,Q3 2019
+2730,Others,114758,86160853.19,2019,3,jharkhand,Q3 2019
+2731,Peer-to-peer payments,10301226,25360155657,2019,4,jharkhand,Q4 2019
+2732,Recharge & bill payments,4390094,966539484.6,2019,4,jharkhand,Q4 2019
+2733,Merchant payments,3359590,1725990596,2019,4,jharkhand,Q4 2019
+2734,Financial Services,104630,45850806.13,2019,4,jharkhand,Q4 2019
+2735,Others,93078,49211833.16,2019,4,jharkhand,Q4 2019
+2736,Peer-to-peer payments,8196850,29875044416,2020,1,jharkhand,Q1 2020
+2737,Recharge & bill payments,5454093,1358517297,2020,1,jharkhand,Q1 2020
+2738,Merchant payments,4499942,2298726415,2020,1,jharkhand,Q1 2020
+2739,Financial Services,46483,31523887.51,2020,1,jharkhand,Q1 2020
+2740,Others,85345,47420137.75,2020,1,jharkhand,Q1 2020
+2741,Peer-to-peer payments,8724053,32662370317,2020,2,jharkhand,Q2 2020
+2742,Recharge & bill payments,7538593,1987320467,2020,2,jharkhand,Q2 2020
+2743,Merchant payments,3753633,2662438204,2020,2,jharkhand,Q2 2020
+2744,Financial Services,56553,130249402,2020,2,jharkhand,Q2 2020
+2745,Others,68679,43823586.28,2020,2,jharkhand,Q2 2020
+2746,Peer-to-peer payments,11984094,43128110246,2020,3,jharkhand,Q3 2020
+2747,Merchant payments,7728846,5163578368,2020,3,jharkhand,Q3 2020
+2748,Recharge & bill payments,7211293,2217657035,2020,3,jharkhand,Q3 2020
+2749,Financial Services,56918,63233533.19,2020,3,jharkhand,Q3 2020
+2750,Others,87322,50036637.65,2020,3,jharkhand,Q3 2020
+2751,Peer-to-peer payments,17120664,60733288288,2020,4,jharkhand,Q4 2020
+2752,Merchant payments,14168381,9347677564,2020,4,jharkhand,Q4 2020
+2753,Recharge & bill payments,7945996,2582828439,2020,4,jharkhand,Q4 2020
+2754,Financial Services,60989,63947540,2020,4,jharkhand,Q4 2020
+2755,Others,135603,77432999.36,2020,4,jharkhand,Q4 2020
+2756,Peer-to-peer payments,19151083,69198235577,2021,1,jharkhand,Q1 2021
+2757,Merchant payments,17489113,11545580927,2021,1,jharkhand,Q1 2021
+2758,Recharge & bill payments,7826608,2888409672,2021,1,jharkhand,Q1 2021
+2759,Financial Services,50526,54836609.33,2021,1,jharkhand,Q1 2021
+2760,Others,104333,62290337.7,2021,1,jharkhand,Q1 2021
+2761,Peer-to-peer payments,24184568,86037113965,2021,2,jharkhand,Q2 2021
+2762,Merchant payments,19041292,14731458451,2021,2,jharkhand,Q2 2021
+2763,Recharge & bill payments,10583445,3531023352,2021,2,jharkhand,Q2 2021
+2764,Financial Services,54379,57959229.95,2021,2,jharkhand,Q2 2021
+2765,Others,138461,75088312.27,2021,2,jharkhand,Q2 2021
+2766,Peer-to-peer payments,30113326,97742557032,2021,3,jharkhand,Q3 2021
+2767,Merchant payments,29687162,19954619973,2021,3,jharkhand,Q3 2021
+2768,Recharge & bill payments,10742405,4029136912,2021,3,jharkhand,Q3 2021
+2769,Financial Services,51289,65035270.31,2021,3,jharkhand,Q3 2021
+2770,Others,201520,99665931.84,2021,3,jharkhand,Q3 2021
+2771,Merchant payments,45007900,30397134744,2021,4,jharkhand,Q4 2021
+2772,Peer-to-peer payments,39476282,1.30E+11,2021,4,jharkhand,Q4 2021
+2773,Recharge & bill payments,11173974,4920513758,2021,4,jharkhand,Q4 2021
+2774,Financial Services,72802,82938673.41,2021,4,jharkhand,Q4 2021
+2775,Others,278084,154856720.6,2021,4,jharkhand,Q4 2021
+2776,Merchant payments,53218047,35404682303,2022,1,jharkhand,Q1 2022
+2777,Peer-to-peer payments,45881799,1.53E+11,2022,1,jharkhand,Q1 2022
+2778,Recharge & bill payments,11502811,5765898872,2022,1,jharkhand,Q1 2022
+2779,Financial Services,67502,72095750.38,2022,1,jharkhand,Q1 2022
+2780,Others,241051,130193505.4,2022,1,jharkhand,Q1 2022
+2781,Merchant payments,67435024,44149892984,2022,2,jharkhand,Q2 2022
+2782,Peer-to-peer payments,52086790,1.75E+11,2022,2,jharkhand,Q2 2022
+2783,Recharge & bill payments,13145888,6119623547,2022,2,jharkhand,Q2 2022
+2784,Financial Services,50361,53281830.62,2022,2,jharkhand,Q2 2022
+2785,Others,207212,104530269,2022,2,jharkhand,Q2 2022
+2786,Merchant payments,74816586,45850919744,2022,3,jharkhand,Q3 2022
+2787,Peer-to-peer payments,57285937,1.77E+11,2022,3,jharkhand,Q3 2022
+2788,Recharge & bill payments,14462031,6838978157,2022,3,jharkhand,Q3 2022
+2789,Financial Services,68467,69016067.83,2022,3,jharkhand,Q3 2022
+2790,Others,182311,104503812.7,2022,3,jharkhand,Q3 2022
+2791,Merchant payments,91863987,57173653532,2022,4,jharkhand,Q4 2022
+2792,Peer-to-peer payments,68045210,2.13E+11,2022,4,jharkhand,Q4 2022
+2793,Recharge & bill payments,15110623,7625380765,2022,4,jharkhand,Q4 2022
+2794,Financial Services,81074,89276259.67,2022,4,jharkhand,Q4 2022
+2795,Others,199198,129776494.9,2022,4,jharkhand,Q4 2022
+2796,Recharge & bill payments,87596,20020458.08,2019,1,nagaland,Q1 2019
+2797,Peer-to-peer payments,71642,411855878.2,2019,1,nagaland,Q1 2019
+2798,Merchant payments,7306,8187940.322,2019,1,nagaland,Q1 2019
+2799,Financial Services,430,101072.8977,2019,1,nagaland,Q1 2019
+2800,Others,1605,1776362.866,2019,1,nagaland,Q1 2019
+2801,Recharge & bill payments,92492,21350211.08,2019,2,nagaland,Q2 2019
+2802,Peer-to-peer payments,81065,487705354.5,2019,2,nagaland,Q2 2019
+2803,Merchant payments,12949,8990954.08,2019,2,nagaland,Q2 2019
+2804,Financial Services,286,129758.0026,2019,2,nagaland,Q2 2019
+2805,Others,1961,1890404.533,2019,2,nagaland,Q2 2019
+2806,Recharge & bill payments,145812,33293527.93,2019,3,nagaland,Q3 2019
+2807,Peer-to-peer payments,100736,601803135.5,2019,3,nagaland,Q3 2019
+2808,Merchant payments,13031,13381591.2,2019,3,nagaland,Q3 2019
+2809,Financial Services,210,229319.8492,2019,3,nagaland,Q3 2019
+2810,Others,2089,2248897.262,2019,3,nagaland,Q3 2019
+2811,Recharge & bill payments,172761,39720745.6,2019,4,nagaland,Q4 2019
+2812,Peer-to-peer payments,128674,777298578.6,2019,4,nagaland,Q4 2019
+2813,Merchant payments,13578,15460907.23,2019,4,nagaland,Q4 2019
+2814,Financial Services,499,283291.7741,2019,4,nagaland,Q4 2019
+2815,Others,1658,1773615.135,2019,4,nagaland,Q4 2019
+2816,Recharge & bill payments,221741,53662023.32,2020,1,nagaland,Q1 2020
+2817,Peer-to-peer payments,135966,821508819.6,2020,1,nagaland,Q1 2020
+2818,Merchant payments,18249,17663339.37,2020,1,nagaland,Q1 2020
+2819,Financial Services,528,215066.7835,2020,1,nagaland,Q1 2020
+2820,Others,1567,1730779.671,2020,1,nagaland,Q1 2020
+2821,Recharge & bill payments,328269,85264116.12,2020,2,nagaland,Q2 2020
+2822,Peer-to-peer payments,166866,1025000210,2020,2,nagaland,Q2 2020
+2823,Merchant payments,20004,25214703.91,2020,2,nagaland,Q2 2020
+2824,Financial Services,860,989239.9672,2020,2,nagaland,Q2 2020
+2825,Others,1567,1206234.395,2020,2,nagaland,Q2 2020
+2826,Recharge & bill payments,347494,91214897.19,2020,3,nagaland,Q3 2020
+2827,Peer-to-peer payments,330638,1851638120,2020,3,nagaland,Q3 2020
+2828,Merchant payments,51912,62568884.13,2020,3,nagaland,Q3 2020
+2829,Financial Services,2544,2136903.024,2020,3,nagaland,Q3 2020
+2830,Others,3731,2090339.271,2020,3,nagaland,Q3 2020
+2831,Peer-to-peer payments,417393,2563827858,2020,4,nagaland,Q4 2020
+2832,Recharge & bill payments,335297,91929581.88,2020,4,nagaland,Q4 2020
+2833,Merchant payments,90496,113115660.2,2020,4,nagaland,Q4 2020
+2834,Financial Services,1068,1017278.31,2020,4,nagaland,Q4 2020
+2835,Others,3571,3194492.153,2020,4,nagaland,Q4 2020
+2836,Peer-to-peer payments,477346,2841021698,2021,1,nagaland,Q1 2021
+2837,Recharge & bill payments,376473,110095189.6,2021,1,nagaland,Q1 2021
+2838,Merchant payments,116846,151202427.1,2021,1,nagaland,Q1 2021
+2839,Financial Services,1511,1929643.694,2021,1,nagaland,Q1 2021
+2840,Others,3721,3201525.695,2021,1,nagaland,Q1 2021
+2841,Peer-to-peer payments,526966,2847731458,2021,2,nagaland,Q2 2021
+2842,Recharge & bill payments,453979,126962524.7,2021,2,nagaland,Q2 2021
+2843,Merchant payments,144413,176831583.1,2021,2,nagaland,Q2 2021
+2844,Financial Services,1624,1785915.637,2021,2,nagaland,Q2 2021
+2845,Others,3809,2982482.691,2021,2,nagaland,Q2 2021
+2846,Peer-to-peer payments,667633,3536780177,2021,3,nagaland,Q3 2021
+2847,Recharge & bill payments,474693,141172028.2,2021,3,nagaland,Q3 2021
+2848,Merchant payments,208387,304493279.8,2021,3,nagaland,Q3 2021
+2849,Financial Services,1437,1634878.889,2021,3,nagaland,Q3 2021
+2850,Others,4642,3336484.283,2021,3,nagaland,Q3 2021
+2851,Peer-to-peer payments,819452,4335295238,2021,4,nagaland,Q4 2021
+2852,Recharge & bill payments,492411,154359432.1,2021,4,nagaland,Q4 2021
+2853,Merchant payments,311673,442578210.1,2021,4,nagaland,Q4 2021
+2854,Financial Services,1790,2263055.522,2021,4,nagaland,Q4 2021
+2855,Others,6157,4587848.469,2021,4,nagaland,Q4 2021
+2856,Peer-to-peer payments,963378,4798355632,2022,1,nagaland,Q1 2022
+2857,Recharge & bill payments,529038,175942440.6,2022,1,nagaland,Q1 2022
+2858,Merchant payments,425336,563650239.9,2022,1,nagaland,Q1 2022
+2859,Financial Services,2022,2503998.825,2022,1,nagaland,Q1 2022
+2860,Others,6178,4499397.928,2022,1,nagaland,Q1 2022
+2861,Peer-to-peer payments,1032542,4933041257,2022,2,nagaland,Q2 2022
+2862,Merchant payments,513456,640665988.2,2022,2,nagaland,Q2 2022
+2863,Recharge & bill payments,479322,162238616.4,2022,2,nagaland,Q2 2022
+2864,Financial Services,1547,1519503.219,2022,2,nagaland,Q2 2022
+2865,Others,4462,2819984.002,2022,2,nagaland,Q2 2022
+2866,Peer-to-peer payments,990896,4568905306,2022,3,nagaland,Q3 2022
+2867,Merchant payments,467257,642368278.6,2022,3,nagaland,Q3 2022
+2868,Recharge & bill payments,430854,148324294.7,2022,3,nagaland,Q3 2022
+2869,Financial Services,1479,2345498.603,2022,3,nagaland,Q3 2022
+2870,Others,3627,2457117.276,2022,3,nagaland,Q3 2022
+2871,Peer-to-peer payments,1314122,5888068477,2022,4,nagaland,Q4 2022
+2872,Merchant payments,647805,906834415.5,2022,4,nagaland,Q4 2022
+2873,Recharge & bill payments,508230,170028535.8,2022,4,nagaland,Q4 2022
+2874,Financial Services,2104,1909585.07,2022,4,nagaland,Q4 2022
+2875,Others,3944,3125371.206,2022,4,nagaland,Q4 2022

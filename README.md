@@ -21,6 +21,21 @@ India is a developing country progressing rapidly in terms of technology advance
 
 ---
 
+## Dataset Overview
+
+The state-wise digital transaction analysis in this study relies on aggregated Unified Payments Interface (UPI) transaction metrics sourced from Kaggle:
+
+* **Dataset Source:** [UPI - Data (Kaggle)](https://www.kaggle.com/datasets/adityaradha007/upi-data)
+* **Dataset Author:** Aditya Radhakrishnan
+* **Primary File Used:** `Aggregate - Transaction Amount and Count.csv`
+* **File Size:** ~238.31 KB
+* **Attributes:** 9 columns capturing aggregated state-level transaction counts, volume metrics, and transaction values across Indian regions.
+
+The raw dataset file is placed in the `data/` directory of this repository for reproducibility.
+
+---
+
+
 ## Repository Structure
 ```text
 ├── data/                  # Primary dataset files (DATA.xlsx / archive.zip)

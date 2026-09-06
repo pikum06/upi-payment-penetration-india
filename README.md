@@ -42,8 +42,6 @@ The raw dataset file is placed in the `data/` directory of this repository for r
 ├── figures/               # Tableau visualizations and analysis charts
 └── README.md              # Project overview and paper details
 ```
-## Dataset
-The analysis uses state-wise UPI transaction and financial data sourced from Kaggle. The raw data used for this paper is available in the [`data/`](./data) directory of this repository.
 ## Citation
 If you find this research or dataset useful, please cite our paper:
 ```
